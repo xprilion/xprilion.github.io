@@ -1342,3 +1342,6 @@ header label {
 .post-content pre .javascript .function {
   color: #8959a8;
 }
+table{
+  width: 100%;
+}
