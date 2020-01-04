@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xprilion.com/2019/11/24/hello-world/</loc>
+    <loc>https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/</loc>
     
-    <lastmod>2019-11-26T18:31:39.780Z</lastmod>
+    <lastmod>2020-01-04T14:42:29.702Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://xprilion.com/presentations/index.html</loc>
     
-    <lastmod>2019-11-24T14:51:05.034Z</lastmod>
+    <lastmod>2020-01-04T14:29:16.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xprilion.com/2019/11/24/hello-world/</loc>
+    
+    <lastmod>2019-11-26T18:31:39.780Z</lastmod>
     
   </url>
   

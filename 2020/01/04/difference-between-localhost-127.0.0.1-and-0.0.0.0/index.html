@@ -12,7 +12,7 @@
 
 
 
-<title>OMG, a new look! | Anubhav Singh | xprilion</title>
+<title>Difference between localhost, 127.0.0.1 and 0.0.0.0 | Anubhav Singh | xprilion</title>
 
 
 
@@ -170,7 +170,7 @@
     
     <article class="post-wrap">
         <header class="post-header">
-            <h1 class="post-title">OMG, a new look!</h1>
+            <h1 class="post-title">Difference between localhost, 127.0.0.1 and 0.0.0.0</h1>
             
                 <div class="post-meta">
                     
@@ -179,7 +179,7 @@
 
                     
                         <span class="post-time">
-                        Date: <a href="#">24 November, 2019&nbsp;&nbsp;3:14:19</a>
+                        Date: <a href="#">4 January, 2020&nbsp;&nbsp;20:00:26</a>
                         </span>
                     
                     
@@ -188,16 +188,17 @@
         </header>
 
         <div class="post-content">
-            <p>Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was unexciting, and there was no fresh content on it. But did that worry me? Oh yes.</p>
-<h2 id="So-what-did-I-do-about-it"><a href="#So-what-did-I-do-about-it" class="headerlink" title="So what did I do about it?"></a>So what did I do about it?</h2><h3 id="Ditch-PHP-website"><a href="#Ditch-PHP-website" class="headerlink" title="Ditch PHP website"></a>Ditch PHP website</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"I are poor men"</span></span><br></pre></td></tr></table></figure>
-<p>So I ditched my legacy website (constant since 2016) and began the hunt of a perfect way to put forward my work and to have more fun on this website instead of simply hosting my unupdated resume.</p>
-<p>Static Portfolios are BORING:<br><img src="https://media3.giphy.com/media/l0HlzgveB7SAZC6Iw/giphy.gif" alt="Anubhav Singh Says - Static Portfolios are boring"></p>
-<p>But PHP websites cost. And I needed to fit this thing in my budget.</p>
-<h2 id="Hoping-for-more-content-in-future-D"><a href="#Hoping-for-more-content-in-future-D" class="headerlink" title="Hoping for more content in future :D"></a>Hoping for more content in future :D</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ Anubhav <span class="string">"write"</span>.</span><br></pre></td></tr></table></figure>
-<p>I have this bad habit of creating cool blog websites, and forgetting to write on this. This time, I do hope I am able to keep writing stuff here. </p>
-<p><img src="/images/2019/Nov/jokes.jpg" alt="Meme - I will post regularly on this blog and other jokes you can tell yourself"></p>
-<p>Only hoping that I shall be able to keep this blog alive! </p>
-<p>Thanks for hanging around! :)</p>
+            <p>I&#39;ve been often asked, why do we sometimes need to specify the IP for a program to be <code>0.0.0.0</code> in order to get it to be accessible from machines outsides the network. I shall attempt to answer the question in this post.</p>
+<h2 id="What-is-127-0-0-1"><a href="#What-is-127-0-0-1" class="headerlink" title="What is 127.0.0.1"></a>What is 127.0.0.1</h2><p><code>127.0.0.1</code> is the loopback address. It means, whatever request is made, send it back to the same machine. When a remote host calls this, they&#39;re actually calling themselves. </p>
+<h2 id="What-is-localhost"><a href="#What-is-localhost" class="headerlink" title="What is localhost"></a>What is localhost</h2><p><code>localhost</code> is simply a conventional mapping done in the <code>hosts</code> file of the OS. It can be changed. I could ask <code>google.com</code> to point to my loopback address and that would work same.</p>
+<h2 id="What-is-0-0-0-0"><a href="#What-is-0-0-0-0" class="headerlink" title="What is 0.0.0.0"></a>What is 0.0.0.0</h2><p><code>0.0.0.0</code> is a wildcard for all open routes to the system within the system where the script runs. </p>
+<h2 id="When-do-you-face-the-need-to-differentiate-between-them"><a href="#When-do-you-face-the-need-to-differentiate-between-them" class="headerlink" title="When do you face the need to differentiate between them -"></a>When do you face the need to differentiate between them -</h2><p>We specifically face the problem of differentiating them in Flask/Django/NodeJS applications because these are runtimes which require the user to define which IP (or routes) to listen on. If you&#39;ve ever tried web development on PHP, you&#39;d realize that the <code>localhost</code> web server was accessible using the IP of the computer&#39;s LAN as well from other devices (say your mobile). This is because by default Apache listens on <code>*:80</code> which essentially means <code>0.0.0.0:80</code>, as given in its default virtual host configuration file - </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"># Ensure that Apache listens on port 80</span><br><span class="line">Listen 80</span><br><span class="line">&lt;VirtualHost *:80&gt;  # Notice this</span><br><span class="line">    DocumentRoot &quot;/var/www/html&quot; # OR &quot;C:/xampp/htdocs&quot; for Windows systems with XAMPP installation</span><br><span class="line"></span><br><span class="line">    # Other directives here</span><br><span class="line">&lt;/VirtualHost&gt;</span><br></pre></td></tr></table></figure>
+
+<h2 id="What-did-you-learn-today"><a href="#What-did-you-learn-today" class="headerlink" title="What did you learn today"></a>What did you learn today</h2><p>Today, in under 3 minutes you learnt a very important difference between the different kind of IP addresses you generally encounter during development and while dealing with networks on the same machine!</p>
+<p>I&#39;ll post more on 7th Jan, 2020! Bookmark my site to stay tuned!</p>
+<h3 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h3><p><i>I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at <a href="https://github.com/thecodefoundation" target="_blank" rel="noopener">The Code Foundation</a> and we love solving problems about computer vision and NLP!</p>
+<p>Send me a hi on <a href="mailto:hi@xpri.dev" target="_blank" rel="noopener">hi@xpri.dev</a><br></i></p>
 
         </div>
 
@@ -212,7 +213,7 @@
                 
                     <p class="copyright-item">
                         <span>Permalink:</span>
-                        <span><a href="https://xprilion.com/2019/11/24/hello-world/">https://xprilion.com/2019/11/24/hello-world/</a></span>
+                        <span><a href="https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/">https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/</a></span>
                     </p>
                 
                 
@@ -226,7 +227,7 @@
                 <span class="tag">
                     
                     
-                        <a href="/tags/random/"># random</a>
+                        <a href="/tags/tech-3minsoflearning/"># tech, 3minsoflearning</a>
                     
                         
                 </span>
@@ -239,8 +240,8 @@
         </section>
         <section class="post-nav">
             
-                <a class="prev" rel="prev" href="/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/">Difference between localhost, 127.0.0.1 and 0.0.0.0</a>
             
+            <a class="next" rel="next" href="/2019/11/24/hello-world/">OMG, a new look!</a>
             
         </section>
 
