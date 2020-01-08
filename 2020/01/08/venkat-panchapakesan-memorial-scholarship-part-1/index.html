@@ -12,7 +12,7 @@
 
 
 
-<title>Difference between localhost, 127.0.0.1 and 0.0.0.0 | Anubhav Singh | xprilion</title>
+<title>What is the Venkat Panchapakesan Memorial Scholarship and Why its not won in a day. | Anubhav Singh | xprilion</title>
 
 
 
@@ -170,7 +170,7 @@
     
     <article class="post-wrap">
         <header class="post-header">
-            <h1 class="post-title">Difference between localhost, 127.0.0.1 and 0.0.0.0</h1>
+            <h1 class="post-title">What is the Venkat Panchapakesan Memorial Scholarship and Why its not won in a day.</h1>
             
                 <div class="post-meta">
                     
@@ -179,7 +179,7 @@
 
                     
                         <span class="post-time">
-                        Date: <a href="#">4 January, 2020&nbsp;&nbsp;20:00:26</a>
+                        Date: <a href="#">8 January, 2020&nbsp;&nbsp;16:55:11</a>
                         </span>
                     
                     
@@ -188,15 +188,23 @@
         </header>
 
         <div class="post-content">
-            <p>I&#39;ve been often asked, why do we sometimes need to specify the IP for a program to be <code>0.0.0.0</code> in order to get it to be accessible from machines outsides the network. I shall attempt to answer the question in this post.</p>
-<h2 id="What-is-127-0-0-1"><a href="#What-is-127-0-0-1" class="headerlink" title="What is 127.0.0.1"></a>What is 127.0.0.1</h2><p><code>127.0.0.1</code> is the loopback address. It means, whatever request is made, send it back to the same machine. When a remote host calls this, they&#39;re actually calling themselves. </p>
-<h2 id="What-is-localhost"><a href="#What-is-localhost" class="headerlink" title="What is localhost"></a>What is localhost</h2><p><code>localhost</code> is simply a conventional mapping done in the <code>hosts</code> file of the OS. It can be changed. I could ask <code>google.com</code> to point to my loopback address and that would work same.</p>
-<h2 id="What-is-0-0-0-0"><a href="#What-is-0-0-0-0" class="headerlink" title="What is 0.0.0.0"></a>What is 0.0.0.0</h2><p><code>0.0.0.0</code> is a wildcard for all open routes to the system within the system where the script runs. </p>
-<h2 id="When-do-you-face-the-need-to-differentiate-between-them"><a href="#When-do-you-face-the-need-to-differentiate-between-them" class="headerlink" title="When do you face the need to differentiate between them -"></a>When do you face the need to differentiate between them -</h2><p>We specifically face the problem of differentiating them in Flask/Django/NodeJS applications because these are runtimes which require the user to define which IP (or routes) to listen on. If you&#39;ve ever tried web development on PHP, you&#39;d realize that the <code>localhost</code> web server was accessible using the IP of the computer&#39;s LAN as well from other devices (say your mobile). This is because by default Apache listens on <code>*:80</code> which essentially means <code>0.0.0.0:80</code>, as given in its default virtual host configuration file - </p>
-<figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Ensure that Apache listens on port 80</span></span><br><span class="line"><span class="attribute"><span class="nomarkup">Listen</span></span> 80</span><br><span class="line"><span class="section">&lt;VirtualHost *:80&gt;</span>  <span class="comment"># Notice this</span></span><br><span class="line">    <span class="attribute"><span class="nomarkup">DocumentRoot</span></span> <span class="string">"/var/www/html"</span> # OR <span class="string">"C:/xampp/htdocs"</span> for Windows systems with XAMPP installation</span><br><span class="line"></span><br><span class="line">    <span class="comment"># Other directives here</span></span><br><span class="line"><span class="section">&lt;/VirtualHost&gt;</span></span><br></pre></td></tr></table></figure>
+            <p>It was with a crazy smile and immense gratitude that I read through the entire mail from Google India about being awarded the <a href="https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/" target="_blank" rel="noopener">Venkat Panchapakesan Memorial Scholarship</a> for the session 2019-20. An amazing and prestigious scholarship, I am really happy to have been made a part of it and would love to talk more about it in hope that it would help someone deserving receive the same in the future.</p>
+<p><img src="/images/2020/Jan/venkat-panchapakesan-memorial-scholarship-acceptance-letter.png" alt="Image - Acceptance letter for Venkat Panchapakesan Memorial Scholarship"></p>
+<p>So,</p>
+<h2 id="What-is-Venkat-Panchapakesan-Memorial-Scholarship-all-about"><a href="#What-is-Venkat-Panchapakesan-Memorial-Scholarship-all-about" class="headerlink" title="What is Venkat Panchapakesan Memorial Scholarship all about?"></a>What is Venkat Panchapakesan Memorial Scholarship all about?</h2><p>The answer to this question begins with another question - </p>
+<h3 id="Who-was-Venkat-Panchapakesan"><a href="#Who-was-Venkat-Panchapakesan" class="headerlink" title="Who was Venkat Panchapakesan?"></a>Who was Venkat Panchapakesan?</h3><p>A description from <a href="https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/" target="_blank" rel="noopener">Google&#39;s Web page about the scholarship</a> describes Venkat as given below - </p>
+<pre style="white-space : pre-wrap !important;">
+Venkat was a much loved and highly respected engineer whose career took him to YouTube, Google, and Yahoo, among other notable companies. He tragically passed away too young, after a battle with cancer. During his short time he deeply touched the hearts and minds of his friends, family and colleagues. He taught us to be generous, humble, ever-optimistic and to always find the best in people.
+</pre>
 
-<h2 id="What-did-you-learn-today"><a href="#What-did-you-learn-today" class="headerlink" title="What did you learn today"></a>What did you learn today</h2><p>Today, in under 3 minutes you learnt a very important difference between the different kind of IP addresses you generally encounter during development and while dealing with networks on the same machine!</p>
-<p>I&#39;ll post more on 8th Jan, 2020! Bookmark my site to stay tuned!</p>
+<p>Once you read through, and try taking a look at some videos on YouTube about Venkat, you&#39;ll come to realize the beauty of his personality and what made him so loved. But above that, you&#39;ll realize what it means to be compassionate, supporting and forever happy to help. It is this understanding, which will help you answer the following question.</p>
+<h3 id="Who-is-an-ideal-candidate-for-winning-this-scholarship"><a href="#Who-is-an-ideal-candidate-for-winning-this-scholarship" class="headerlink" title="Who is an ideal candidate for winning this scholarship?"></a>Who is an ideal candidate for winning this scholarship?</h3><p>Someone who loves helping people, goes beyond their way to aid those around them in their problems, loves spreading the word about technology and believes that they can help the world become a better and sustainable place with the help of technology.</p>
+<h3 id="So-I-have-to-reach-out-to-thousands-of-people"><a href="#So-I-have-to-reach-out-to-thousands-of-people" class="headerlink" title="So, I have to reach out to thousands of people?"></a>So, I have to reach out to thousands of people?</h3><p>Depends, on how you see yourself helping people. It could be through community contribution, through open source or through activities you involve yourself in which directly reach out to people who need help. </p>
+<p>As long as you&#39;re leaving a positive impact on even a handful of people around you, you&#39;re doing good!</p>
+<h3 id="And-do-I-need-to-be-a-super-programmer"><a href="#And-do-I-need-to-be-a-super-programmer" class="headerlink" title="And do I need to be a super programmer?"></a>And do I need to be a super programmer?</h3><p>No! All you need to do is to know how to and be willing to use technology for making this world a more sustainable place. Now, &#39;sustainable&#39; could have a number of meanings, you can Google up <code>United Nations Sustainable Development Goals</code> and study about the several factors which contribute towards making the world a better place to live in!</p>
+<h2 id="This-scholarship-is-not-won-in-a-day"><a href="#This-scholarship-is-not-won-in-a-day" class="headerlink" title="This scholarship is not won in a day :)"></a>This scholarship is not won in a day :)</h2><p>From the above discussion so far, you&#39;d have realized that winning this scholarship needs months or even years of previous work. Hence, if you wish to be among the lucky 5-6 next year who bag this amazing opportunity, make sure you start contributing to your local ecosystem as soon as possible! It will take time, patience, effort but at the end of it all, regarldess you win it or not, you&#39;ll find yourself a much better version of yourself and will definitely be a loved face among the people around you!</p>
+<h2 id="What-did-you-learn-today"><a href="#What-did-you-learn-today" class="headerlink" title="What did you learn today"></a>What did you learn today</h2><p>Today, in under 3 minutes you learnt about the Venkat Panchapakesan Memorial Scholarship and what you would need to do way before you apply for the same. There will be more posts coming on this topic in the future at regular intervals, and I hope you&#39;ll be able to make the best of them when applying in the future! </p>
+<p>I&#39;ll post more on this blog on 12th Jan, 2020! Bookmark my site to stay tuned!</p>
 <h3 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h3><p><i>I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at <a href="https://github.com/thecodefoundation" target="_blank" rel="noopener">The Code Foundation</a> and we love solving problems about computer vision and NLP!</p>
 <p>Send me a hi on <a href="mailto:hi@xpri.dev" target="_blank" rel="noopener">hi@xpri.dev</a><br></i></p>
 
@@ -213,7 +221,7 @@
                 
                     <p class="copyright-item">
                         <span>Permalink:</span>
-                        <span><a href="https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/">https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/</a></span>
+                        <span><a href="https://xprilion.com/2020/01/08/venkat-panchapakesan-memorial-scholarship-part-1/">https://xprilion.com/2020/01/08/venkat-panchapakesan-memorial-scholarship-part-1/</a></span>
                     </p>
                 
                 
@@ -227,9 +235,9 @@
                 <span class="tag">
                     
                     
-                        <a href="/tags/tech/"># tech</a>
-                    
                         <a href="/tags/3minsoflearning/"># 3minsoflearning</a>
+                    
+                        <a href="/tags/non-tech/"># non-tech</a>
                     
                         
                 </span>
@@ -242,10 +250,8 @@
         </section>
         <section class="post-nav">
             
-                <a class="prev" rel="prev" href="/2020/01/08/venkat-panchapakesan-memorial-scholarship-part-1/">What is the Venkat Panchapakesan Memorial Scholarship and Why its not won in a day.</a>
             
-            
-            <a class="next" rel="next" href="/2019/11/24/hello-world/">OMG, a new look!</a>
+            <a class="next" rel="next" href="/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/">Difference between localhost, 127.0.0.1 and 0.0.0.0</a>
             
         </section>
         <br>
@@ -254,8 +260,8 @@
         <div id="disqus_thread"></div>
         <script>
             var disqus_config = function () {
-            this.page.url = "https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/"; 
-            this.page.identifier = "1578148226006";
+            this.page.url = "https://xprilion.com/2020/01/08/venkat-panchapakesan-memorial-scholarship-part-1/"; 
+            this.page.identifier = "1578482711512";
             };
             (function() {
             var d = document, s = d.createElement('script');
