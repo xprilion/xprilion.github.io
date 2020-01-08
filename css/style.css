@@ -209,6 +209,9 @@ a:hover {
   text-decoration: none;
   transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
 }
+table {
+  width: 100%;
+}
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -612,12 +615,13 @@ header label {
 }
 .post-wrap .archive-item {
   margin-left: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #128fff;
 }
 .archive-item-link {
   display: inline-block;
   text-decoration: none;
   overflow: hidden;
-  white-space: nowrap;
 }
 .archive-item-link:hover {
   color: #2d96bd;
@@ -637,6 +641,7 @@ header label {
   float: right;
   text-align: right;
   color: #a9a9b3;
+  display: none;
 }
 .dark-theme .archive-item-date {
   color: #87878d;
@@ -1341,7 +1346,4 @@ header label {
 .post-content pre .keyword,
 .post-content pre .javascript .function {
   color: #8959a8;
-}
-table{
-  width: 100%;
 }
