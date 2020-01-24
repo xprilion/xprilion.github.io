@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xprilion.com/presentations/index.html</loc>
+    
+    <lastmod>2020-01-24T07:31:39.175Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xprilion.com/2020/01/12/being-noob/</loc>
     
     <lastmod>2020-01-12T06:19:48.596Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://xprilion.com/2020/01/04/difference-between-localhost-127.0.0.1-and-0.0.0.0/</loc>
     
     <lastmod>2020-01-04T17:08:58.597Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xprilion.com/presentations/index.html</loc>
-    
-    <lastmod>2020-01-04T14:29:16.936Z</lastmod>
     
   </url>
   
