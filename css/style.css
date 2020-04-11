@@ -1234,7 +1234,7 @@ header label {
     overflow: hidden;
   }
   .maininfo {
-    padding-top: 20vh;
+    padding-top: 30vh;
   }
 }
 @media screen and (max-width: 1023px) {
@@ -1242,7 +1242,7 @@ header label {
     display: none;
   }
   .maininfo {
-    padding-top: 20vh;
+    padding-top: 30vh;
   }
 }
 @media screen and (min-width: 1024px) {

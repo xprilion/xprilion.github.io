@@ -133,7 +133,7 @@
     overflow: hidden;
   }
   .maininfo {
-    padding-top: 20vh;
+    padding-top: 30vh;
   }
 }
 /* iPads (portrait and landscape) ----------- */
@@ -142,7 +142,7 @@
     display: none;
   }
   .maininfo {
-    padding-top: 20vh;
+    padding-top: 30vh;
   }
 }
 /* Desktops and laptops ----------- */
