@@ -1,0 +1,33 @@
+.featured-main {
+  padding-top: 5vh;
+}
+.recent-main {
+  text-align: left;
+}
+.feature-box {
+  background: $light-code-background-color;
+  padding: 1rem;
+  line-height: initial;
+}
+.dark-theme .feature-box {
+  background-color: $dark-post-table-background-color;
+  color: $dark-font-color;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
+}
+.feature-box .feature-thumbnail {
+  text-align: center;
+  display: inline-block;
+}
+.feature-box .feature-content {
+  padding-left: 2rem;
+  display: inline-block;
+}
+.feature-box .feature-content a .feature-title {
+  font-weight: bold;
+}
+.feature-box .feature-content .feature-body {
+  color: $light-code-font-color;
+}
+.dark-theme .feature-box .feature-content .feature-body {
+  color: $dark-navbar-active-color;
+}

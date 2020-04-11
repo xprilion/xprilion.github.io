@@ -16,7 +16,7 @@
   .navbar-mobile .container {
     padding: 0;
     margin: 0;
-    line-height: 5.5em;
+    line-height: 3.5em;
     background: $light-background-color;
   }
   .navbar-mobile .container .navbar-header {
@@ -31,7 +31,7 @@
   }
   .navbar-mobile .container .navbar-header .menu-toggle {
     cursor: pointer;
-    line-height: 5.5em;
+    line-height: 3.5em;
     padding: auto 2em;
   }
   .navbar-mobile .container .navbar-header .menu-toggle span {
@@ -132,11 +132,17 @@
   .categories .categories-card .card-item .categories {
     overflow: hidden;
   }
+  .maininfo {
+    padding-top: 20vh;
+  }
 }
 /* iPads (portrait and landscape) ----------- */
 @media screen and (max-width: 1023px) {
   .navbar-mobile {
     display: none;
+  }
+  .maininfo {
+    padding-top: 20vh;
   }
 }
 /* Desktops and laptops ----------- */

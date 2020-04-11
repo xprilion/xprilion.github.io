@@ -15,7 +15,6 @@ html::-webkit-scrollbar-thumb:hover {
 }
 body {
   font-size: 13pt;
-  font-weight: normal;
   line-height: 2em;
   background-color: $light-background-color;
   color: $light-font-color;
@@ -61,4 +60,10 @@ a:hover {
 }
 table {
   width: 100%;
+}
+p {
+  display: inline;
+}
+blockquote p {
+  font-size: 2rem !important;
 }

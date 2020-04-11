@@ -159,7 +159,6 @@ html::-webkit-scrollbar-thumb:hover {
 }
 body {
   font-size: 13pt;
-  font-weight: normal;
   line-height: 2em;
   background-color: #fff;
   color: #161209;
@@ -206,6 +205,12 @@ a:hover {
 table {
   width: 100%;
 }
+p {
+  display: inline;
+}
+blockquote p {
+  font-size: 2rem !important;
+}
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -214,7 +219,7 @@ table {
 }
 .navbar {
   height: 4rem;
-  line-height: 4rem;
+  line-height: 5rem;
   width: 100%;
 }
 .navbar .container {
@@ -1048,7 +1053,7 @@ header label {
   top: 95px;
   right: 2em;
   width: 15rem;
-  font-size: 0.75rem;
+  font-size: 1.5rem;
 }
 .post-toc .tocbot-list {
   max-height: 450px;
@@ -1082,7 +1087,7 @@ header label {
 }
 .post-toc .tocbot-list-menu {
   margin: 1rem 0.75rem;
-  font-size: 0.75rem;
+  font-size: 1.5rem;
 }
 .post-toc .tocbot-list-menu a {
   display: block;
@@ -1112,7 +1117,7 @@ header label {
   .navbar-mobile .container {
     padding: 0;
     margin: 0;
-    line-height: 5.5em;
+    line-height: 3.5em;
     background: #fff;
   }
   .navbar-mobile .container .navbar-header {
@@ -1127,7 +1132,7 @@ header label {
   }
   .navbar-mobile .container .navbar-header .menu-toggle {
     cursor: pointer;
-    line-height: 5.5em;
+    line-height: 3.5em;
     padding: auto 2em;
   }
   .navbar-mobile .container .navbar-header .menu-toggle span {
@@ -1228,10 +1233,16 @@ header label {
   .categories .categories-card .card-item .categories {
     overflow: hidden;
   }
+  .maininfo {
+    padding-top: 20vh;
+  }
 }
 @media screen and (max-width: 1023px) {
   .navbar-mobile {
     display: none;
+  }
+  .maininfo {
+    padding-top: 20vh;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -1340,4 +1351,37 @@ header label {
 .post-content pre .keyword,
 .post-content pre .javascript .function {
   color: #8959a8;
+}
+.featured-main {
+  padding-top: 5vh;
+}
+.recent-main {
+  text-align: left;
+}
+.feature-box {
+  background: #f8f5ec;
+  padding: 1rem;
+  line-height: initial;
+}
+.dark-theme .feature-box {
+  background-color: #626262;
+  color: #dbdbdb;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
+}
+.feature-box .feature-thumbnail {
+  text-align: center;
+  display: inline-block;
+}
+.feature-box .feature-content {
+  padding-left: 2rem;
+  display: inline-block;
+}
+.feature-box .feature-content a .feature-title {
+  font-weight: bold;
+}
+.feature-box .feature-content .feature-body {
+  color: #c7254e;
+}
+.dark-theme .feature-box .feature-content .feature-body {
+  color: #fff;
 }
