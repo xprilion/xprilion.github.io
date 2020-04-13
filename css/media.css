@@ -132,17 +132,26 @@
   .categories .categories-card .card-item .categories {
     overflow: hidden;
   }
-  .maininfo {
-    padding-top: 30vh;
+  .profile-card {
+    width: 90vw;
+    position: relative;
+    top: 0;
+    transform: unset;
+  }
+}
+/* Milligram breakpoint ----------- */
+@media screen and (max-width: 639px) {
+  .profile-card {
+    width: 90vw;
+    position: relative;
+    top: 0;
+    transform: unset;
   }
 }
 /* iPads (portrait and landscape) ----------- */
 @media screen and (max-width: 1023px) {
   .navbar-mobile {
     display: none;
-  }
-  .maininfo {
-    padding-top: 30vh;
   }
 }
 /* Desktops and laptops ----------- */
