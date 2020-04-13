@@ -244,7 +244,7 @@ blockquote p {
   width: 100%;
   text-align: center;
   line-height: 4rem;
-  padding-top: 2em;
+  padding: 3em;
 }
 @charset "utf-8";
 
