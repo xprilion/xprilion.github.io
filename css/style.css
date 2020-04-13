@@ -1185,6 +1185,8 @@ header label {
 }
 .post-toc .tocbot-list ul li {
   margin-left: 0.25rem;
+  margin-bottom: unset;
+  line-height: 2.5rem;
 }
 .post-toc .toc-link::before {
   background-color: #fff;
