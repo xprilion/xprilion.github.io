@@ -40,18 +40,27 @@
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.2), 0 1px 5px 0 rgba(0,0,0,0.12);
   position: absolute;
   margin: auto;
-  background: #fff;
+  background: $light-background-color;
   top: 50%;
   transform: translateY(-50%);
+}
+.dark-theme .profile-card {
+  background: $dark-background-color !important;
+  color: $dark-font-color;
 }
 .profile-card div {
   display: block;
   position: relative;
-  background: #fff;
+  background: $light-background-color;
   text-align: center;
   padding: 30px 0 20px;
   z-index: 1;
   overflow: hidden;
+  color: $light-font-color;
+}
+.dark-theme .profile-card div {
+  background: $dark-background-color !important;
+  color: $dark-font-color;
 }
 .profile-card divbefore {
   content: "";
@@ -82,7 +91,6 @@
 .profile-card div h1 {
   font-weight: 200;
   font-size: 42px;
-  color: #444;
   letter-spacing: -3px;
   margin: 0;
   padding: 0;
@@ -90,7 +98,6 @@
 .profile-card div h2 {
   font-weight: 400;
   font-size: 14px;
-  color: #666;
   letter-spacing: 0.5px;
   margin: 0;
   padding: 0;
@@ -108,6 +115,10 @@
 .profile-card .profile-social-links li {
   display: table-cell;
   width: 33.3333333333%;
+  color: $light-global-link-color;
+}
+.dark-theme .profile-card .profile-social-links li {
+  color: $dark-global-link-color;
 }
 .profile-card .profile-social-links li a {
   display: block;

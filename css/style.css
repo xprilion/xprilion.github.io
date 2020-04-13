@@ -257,6 +257,10 @@ blockquote p {
   top: 50%;
   transform: translateY(-50%);
 }
+.dark-theme .profile-card {
+  background: #292a2d !important;
+  color: #dbdbdb;
+}
 .profile-card div {
   display: block;
   position: relative;
@@ -265,6 +269,11 @@ blockquote p {
   padding: 30px 0 20px;
   z-index: 1;
   overflow: hidden;
+  color: #161209;
+}
+.dark-theme .profile-card div {
+  background: #292a2d !important;
+  color: #dbdbdb;
 }
 .profile-card divbefore {
   content: "";
@@ -295,7 +304,6 @@ blockquote p {
 .profile-card div h1 {
   font-weight: 200;
   font-size: 42px;
-  color: #444;
   letter-spacing: -3px;
   margin: 0;
   padding: 0;
@@ -303,7 +311,6 @@ blockquote p {
 .profile-card div h2 {
   font-weight: 400;
   font-size: 14px;
-  color: #666;
   letter-spacing: 0.5px;
   margin: 0;
   padding: 0;
@@ -321,6 +328,10 @@ blockquote p {
 .profile-card .profile-social-links li {
   display: table-cell;
   width: 33.3333333333%;
+  color: #161209;
+}
+.dark-theme .profile-card .profile-social-links li {
+  color: #ddd;
 }
 .profile-card .profile-social-links li a {
   display: block;
