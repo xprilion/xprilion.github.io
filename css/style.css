@@ -310,7 +310,7 @@ blockquote p {
 }
 .profile-card .profile-bio {
   padding: 0 30px;
-  text-align: center;
+  text-align: right;
   color: #888;
 }
 .profile-card .profile-social-links {
