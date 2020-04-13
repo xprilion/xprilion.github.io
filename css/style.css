@@ -562,7 +562,6 @@ header label {
   width: 60%;
 }
 .intro {
-  transform: translateY(20vh);
   text-align: center;
 }
 .intro .avatar {
@@ -1217,7 +1216,7 @@ header label {
     width: 100%;
     text-align: center;
     line-height: 1.5rem;
-    padding-top: 2em;
+    padding: 3em;
   }
   .post-warp {
     padding-top: 6em;
