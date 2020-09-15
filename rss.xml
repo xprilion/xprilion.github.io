@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Sep 2020 04:24:16 GMT</lastBuildDate><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
+&lt;h2&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Projects which I’ve contributed to as an open source contributor - &lt;/p&gt;
+&lt;h3&gt;Submitty (&lt;a href=&quot;https://github.com/submitty/Submitty&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;I contributed to this project as a part of my Google Summer of Code 2019 program. Submitty is an open source programming assignment submission system from the Rensselaer Center for Open Source Software (RCOS), launched by the Department of Computer Science at Rensselaer Polytechnic Institute.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features I worked on&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Refactoring Forum Templates to work with Twig&lt;/li&gt;
+&lt;li&gt;Solving VPAT Issues to make the website more accessible&lt;/li&gt;
+&lt;li&gt;Add AJAX to the Forum&lt;/li&gt;
+&lt;li&gt;Add WebSocket to the Forum and Notifications
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;
+PHP, PostgreSQL, Python, JavaScript, Shell
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My GSoC Report&lt;/strong&gt;
+A detailed summary of my contribution to the project can be found here - &lt;a href=&quot;https://submitty.org/developer/google_summer_of_code/2019_AnubhavSingh&quot;&gt;Anubhav GSoC Report&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2&gt;Own Projects&lt;/h2&gt;
+&lt;p&gt;The projects that were my own initiatives, sometimes done in collaboration with fellow developers - &lt;/p&gt;
+&lt;h3&gt;Aify.JS (&lt;a href=&quot;https://github.com/aifyjs/how-to&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Aify.js is a library which when embedded on your web page, can quickly add the power of AI to your website in the form of several features, without you having to invest in any backend or machine learning costs.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Captioning for images on page&lt;/li&gt;
+&lt;li&gt;Label determination for page elements&lt;/li&gt;
+&lt;li&gt;Web page short summary&lt;/li&gt;
+&lt;li&gt;Voice UX&lt;/li&gt;
+&lt;li&gt;Browser Extension
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;
+Python (Django), PyTorch, Tesseract OCR, JavaScript (ES6), Google Cloud Platform, DialogFlow
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ayush Thakur (&lt;a href=&quot;https://github.com/ayulockin&quot;&gt;@ayulockin&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;iunv.in (&lt;a href=&quot;https://github.com/xprilion/iunvin&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;iunv was a built from scratch social network and search engine which during the time of its operation in 2012-2014 ranked among the top 500 websites in India. The social network hosted more than 60k users and over 1 million activities on the platform were recorded.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Worldwide search&lt;/li&gt;
+&lt;li&gt;Instant Messaging&lt;/li&gt;
+&lt;li&gt;Social features&lt;/li&gt;
+&lt;li&gt;Video sharing
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;
+PHP, MySQL, WebSockets, Web Crawler, Job Automation&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;RL-based traffic resolution (&lt;a href=&quot;https://github.com/xprilion/enginx&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Built for a contest by TATA Consultancy Services, the project won the 2nd runner’s up award, presenting a novel method of quickly resovling the traffic of a city by controlling the traffic light timings. The allgorithm was designed to adapt itself to the varying traffic intensity during the day, week and other special occasions.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reinforcement learning&lt;/li&gt;
+&lt;li&gt;Image processing&lt;/li&gt;
+&lt;li&gt;Internet of Things based solution
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;
+PHP, MySQL, REST APIs, Python
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ayush Thakur (&lt;a href=&quot;https://github.com/ayulockin&quot;&gt;@ayulockin&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;DistPano (&lt;a href=&quot;https://github.com/xprilion/distpano&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Built for a problem statement by the Indian Space Reasearch Organization, DistPano was a distributed computing system for performing image stitching on high resolution geo images using public compute nodes.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed computing&lt;/li&gt;
+&lt;li&gt;Fault tolerance&lt;/li&gt;
+&lt;li&gt;Low network consumpting&lt;/li&gt;
+&lt;li&gt;Integrable with BOINC
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;
+PHP, MySQL, REST APIs, Java, C++, Python
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mayank Gupta (&lt;a href=&quot;https://github.com/Mayankgbrc&quot;&gt;@Mayankgbrc&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Shreya Paul (&lt;a href=&quot;https://github.com/shreyapaul15&quot;&gt;@shreyapaul15&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Reetika Gautam (&lt;a href=&quot;https://github.com/Reetika12795&quot;&gt;@Reetika12795&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Amod Kumar (&lt;a href=&quot;https://github.com/xmavericks&quot;&gt;@xmavericks&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Publications]]></title><description><![CDATA[Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll…]]></description><link>https://xprilion.com/publications/</link><guid isPermaLink="false">https://xprilion.com/publications/</guid><content:encoded>&lt;p&gt;Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll help some explorers on their journey towards seeking knowledge. Listed below are some of my writings which are dear to me -&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Publisher&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Book&lt;/td&gt;
+&lt;td&gt;Mobile Deep Learning Projects&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085RF4GDV&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/mobile-deep-learning-projects&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Book&lt;/td&gt;
+&lt;td&gt;Hands-On Python Deep Learning for the Web&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085472LNB&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/hands-on-python-deep-learning-for-web&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tutorial&lt;/td&gt;
+&lt;td&gt;Introduction to Reinforcement Learning&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DataCamp&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.datacamp.com/community/tutorials/introduction-reinforcement-learning&quot;&gt;DataCamp Tutorial&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Talks]]></title><description><![CDATA[I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences…]]></description><link>https://xprilion.com/talks/</link><guid isPermaLink="false">https://xprilion.com/talks/</guid><content:encoded>&lt;p&gt;I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences and sometimes, I help them learn something new. Here are a few presentations that I have made in some of the community meetups, conferences or events with larger audiences. &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Presentation Title&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Event&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Links&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;AI for Web : Web for AI&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DevFest Ahmedabad 2019&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vReYwoFJfM3s9m9qiHOPhRnDJrtTSzSD4ux-CivX4NPGILmgwnmpgnZR0n3VO-HIHXf9msbuTiEXBU4/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=3000&quot;&gt;Slides&lt;/a&gt; · &lt;a href=&quot;https://www.youtube.com/watch?v=ttPsRnKGIxQ&quot;&gt;Video&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alternatives to Blockchain&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;SillyCon&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vTEgOTQSoTmiH6BpDEU3pyr-Mxwxt3uEPSsLdeHkuPURp1lUMa2gdNK_92JmvPwxRgeQ6RRhNuzOi2s/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Integrating ML with Web&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Let’s Build by GDG Kolkata&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQTzdptZCQLkDscxT97T8aJzylwlVGAKIM-HRIRdx5fmtFU6oSCuNxbfxt-YTfJr7ebfbtc8SAsLGbG/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Getting Started with Contributing to Open Source&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Systers TechTalks&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRCOfScxK9TNcRZfmogk2LCZ1LZIbzu2JOtb8Z3QY76zwlxtR1FbqPG1VvpaQS9iYDAgvApl1Eg1jf9/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction to End to End Web Development&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Let’s Talk Web by GDG Kolkata&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQB7RfdVnPP5s914qK-Ilah2mqLEQUAb2D__YFmTwOdV3PthaED0wplrTvC0kG-pNUnzWE1KkcodpBd/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A Peek Into the Future&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Introl To ML by DSC NSEC&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQBvLCJ1BqkrN8HTJq71p77lIs6WGD-Jk4qdeIf3C9TR3C5D6QBSB4Snkwccjq4D1eA3FnWwlWAXOki/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Do’s and Don’ts of Building an AI-powered website&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DevFest Goa 2019&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQBww5fNA-WtDt8rl1zj41ubGPg3yWn2QH7QBrtWqhQn2cXzJcyk1xh4q1zDxsx-g3wmF-Ax_4oB0Ta/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Simple Science Of Unsupervised NLP&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DevFest Kolkata 2018&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSJdhkRoNhfIN1-Cs9KO5xPrUL-fifhEm6ZoGxNdRbWG9xlQcF_4zdorqejf4f6SOjDi1F7L3m4uAGA/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Introduction to Machine Learning&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Equinox by Techno International Batanagar&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSVxvDrMtooeTxxiWMrk2hNoCtalTBXeLGF9bgf_OcIkJXVlxuyg2HsZ7eqy2SH4eaalC_FTCf1qMUp/pub?start=false&amp;#x26;loop=false&amp;#x26;delayms=60000&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[A Generic PyMongo Wrapper API with Flask]]></title><description><![CDATA[Hey there, hope you’re well! It’s been a while since I wrote something here, to my defence I wrote this tutorial about How to setup a secure…]]></description><link>https://xprilion.com/generic-pymongo-wrapper-using-flask/</link><guid isPermaLink="false">https://xprilion.com/generic-pymongo-wrapper-using-flask/</guid><pubDate>Mon, 14 Sep 2020 10:05:00 GMT</pubDate><content:encoded>&lt;p&gt;Hey there, hope you’re well! It’s been a while since I wrote something here, to my defence I wrote this tutorial about &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyterlab-environment-on-ubuntu-18-04&quot;&gt;How to setup a secure, remote JupyterLab workstation&lt;/a&gt; on &lt;a href=&quot;https://digitalocean.com&quot;&gt;DigitalOcean&lt;/a&gt;. Have you not read it yet? Go ahead and explore it if you’re interested in the topic! Now, moving ahead.&lt;/p&gt;
+&lt;p&gt;This blog is going to be about creating a generic wrapper API for your PyMongo installation using Flask. If you’ve little idea about what these terminologies mean, here we go - &lt;/p&gt;
+&lt;h2&gt;1. PyMongo&lt;/h2&gt;
+&lt;p&gt;When you’re working with the cool &lt;a href=&quot;https://mongodb.com&quot;&gt;MongoDB&lt;/a&gt; using Python, &lt;a href=&quot;https://pymongo.readthedocs.io/en/stable/&quot;&gt;PyMongo&lt;/a&gt; is your go to tool. The distribution facilitates a full fledged support for interacting with MongoDB databases, local or remote and provides a dead simple way of working with it through your Python code.&lt;/p&gt;
+&lt;h2&gt;2. Flask&lt;/h2&gt;
+&lt;p&gt;A very popular library in Python for creating web sites, often preferred for lightweight tasks and more often for creating API servers quickly, &lt;a href=&quot;https://flask.palletsprojects.com&quot;&gt;Flask&lt;/a&gt; provides a way to have a no-frills web server running in minutes.&lt;/p&gt;
+&lt;h2&gt;3. You&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/07feba4572471b21fd4258b6af83c9c4/tenor.gif&quot; alt=&quot;Who&amp;#x27;s awesome?&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A super cool person reading this nice blog for whom I hope I can make the time spent here worth!&lt;/p&gt;
+&lt;p&gt;Now that we’re done with the introductions, let’s chalk out a plan that we shall follow in this tutorial. Imagine a situation where you have a MongoDB database with yourselves, and are wondering how to use it for some basic &lt;a href=&quot;https://en.wikipedia.org/wiki/Create,_read,_update_and_delete&quot;&gt;CRUD&lt;/a&gt; operations from a remotely running application. Further, to make things interesting, you’re unsure what collections in the database your application shall need, or it may even need to create arbitrary collections at any moment. Fortunately, you hit upon the golden idea of creating some public APIs to your database server using Flask which allow just those operations with our without some authentication, as per your need. &lt;/p&gt;
+&lt;p&gt;While I’m going to leave the (tiny) headache of getting a MongoDB server to you, which you can easily get on many online providers, even for free at some places, I shall begin with the requirements of our API. &lt;/p&gt;
+&lt;h2&gt;The specification&lt;/h2&gt;
+&lt;p&gt;If you went through the specification of CRUD, you know that we need 4 REST APIs to begin with - &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Action&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Method&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;MongoDB&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Parameters&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;API&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;Create&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;POST, PUT&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Insert&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;None&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;example.com/table [POST]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;Read All/One&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;GET&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Find&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;None/Resource ID&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;example.com/table/[id] [POST]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;Update&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;POST, PUT, PATCH&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Update&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Resource ID&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;example.com/table/id [POST]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;Delete&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DELETE&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Delete&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Resource ID&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;example.com/table/id [POST]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Machine Learning On 2GB RAM]]></title><description><![CDATA[If you think you read the title, or maybe I typed it wrong, you’re wrong in both cases. The title proposes an article about performing…]]></description><link>https://xprilion.com/ml-on-2gb-ram/</link><guid isPermaLink="false">https://xprilion.com/ml-on-2gb-ram/</guid><pubDate>Tue, 28 Apr 2020 18:20:00 GMT</pubDate><content:encoded>&lt;p&gt;If you think you read the title, or maybe I typed it wrong, you’re wrong in both cases. The title proposes an article about performing machine learning with the bare minimmum RAM usage, and that’s what this article is going to be about.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;You might think I am joking. Maybe that’s what my life felt like when I did actually survive performing ML on a 2GB RAM laptop. However, I learned much from that phase, and have used those learnings till today to make decisions while choosing the right amount of RAM I would need for running my ML models.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/am-i-a-joke-to-you.jpg&quot; alt=&quot;Meme Am I a Joke to you&quot;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I am in no manner an expert of advicing about RAM requirements of applications, neither will I attempt to do so. What I share in this blog are simple observationsal learnings which I believe can be helpful at times.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Enough prologue, let’s dive in!&lt;/p&gt;
+&lt;h2&gt;So, how did you do it?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/its-magic.jpg&quot; alt=&quot;Its Magic Meme&quot;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Okay, it’s not magic.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Rather, I found out all possible ways to reduce the amount of RAM the forever running processes on my laptop were consuming. That left more power for the ML models to run! For this, I had to trim down the list of applications I needed to run parallely on the laptop.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;It can get confusing and tough to choose the ‘right set of applications’ you need.
+&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;How do I decide what applications I need?&lt;/h2&gt;
+&lt;p&gt;If you do not have a definite plan and list of requirements that you have from your system, it can be tough to choose the applications you need to run parallely.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In my case, I needed to run machine learning models, but I also had a daily limit on the Internet bandwidth available to me. I had two choices -
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/local-vs-cloud-ml.jpeg&quot; alt=&quot;ML on Local Vs Cloud&quot;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I could choose to run my ML models locally and save on the daily limit on my Internet. But then I would have to spend on buying an extension for the RAM. Or I could run the models online and find a way to minimize my Internet consumption.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This is a story of how I chose the latter option, and never looked back.
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Also, it is a short reminder that decisions made by developers often revolve around financial constraints and that’s &lt;strong&gt;okay&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Once you have laid down all your needs and constraints very clearly before yourself, you’ll find it simple to sort things out. Try putting them on a paper! :)&lt;/p&gt;
+&lt;h2&gt;What applications did I choose?&lt;/h2&gt;
+&lt;p&gt;After more decisions like the example above, my list of requirements boiled down to the following -
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;1. A minimal Linux desktop&lt;/h3&gt;
+&lt;p&gt;For this I chose &lt;a href=&quot;https://wiki.lxde.org/en/Main_Page&quot;&gt;LXDE&lt;/a&gt; which in its default installation contained the &lt;a href=&quot;https://wiki.lxde.org/en/Openbox&quot;&gt;Openbox&lt;/a&gt; desktop environment. It is super minimal, only offering me with a black screen and a menu to get things done in the most frills-away manner.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;With this choice, I immediately dropped the RAM usage by the default applications on my system to something around 200-300 MBs. I still had almost 6x the amount of that RAM to play with!&lt;/p&gt;
+&lt;h3&gt;2. A code editor that didn’t do what I did not ask it to&lt;/h3&gt;
+&lt;p&gt;While you may love your favorite code editor, it is worthwhile to check the amount of resources it is eating on your system. With &lt;a href=&quot;https://www.spyder-ide.org/&quot;&gt;Spyder&lt;/a&gt;, I felt power, but that power felt sluggish.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;As a replacement to Spyder, I chose to use &lt;a href=&quot;https://colab.research.google.com/&quot;&gt;Google Colaboratory&lt;/a&gt; (we’ll talk about this again) in the browser and for non-ML related tasks, I chose &lt;a href=&quot;https://www.sublimetext.com/3&quot;&gt;Sublime Text&lt;/a&gt;.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Sublime Text gave me a barebones editor with a few cool things, which didn’t eat away at the RAM. Hence, leaving me enough free RAM to run a browser!&lt;/p&gt;
+&lt;h3&gt;3. A browser that was modern and fast&lt;/h3&gt;
+&lt;p&gt;Now this is where you may doubt my choice - I chose &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; as my only browser on the system.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Yes, it did consume a lot of RAM. But at the same time, it offered me superb support for Colaboratory which I was going to use for running my ML models. The decision was simple.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A habit of minimal Chrome tab usage was developed. I still obsessively close tabs which I do not need.&lt;/p&gt;
+&lt;h2&gt;Is that all?&lt;/h2&gt;
+&lt;p&gt;Yeah, that’s pretty much all the setup you’ll need to start using your old dusty laptop for machine learning experiments!
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/thats-all-folks.jpg&quot; alt=&quot;That&amp;#x27;s all folks&quot;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Actually, we can have the questions in the comments below.&lt;/p&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you went through my then painful story of how I started my machine learning exploration on a 2GB RAM machine back in 2016. I hope this inspires you to crunch more results out of your current laptop!
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I’ll post more on this blog soon! Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://github.com/thecodefoundation&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Methods of Integrating Artificial Intelligence on Flutter]]></title><description><![CDATA[One of the coolest UI toolkit’s for cross-platform applications, Flutter, a Google offering has grown rapidly in popularity over the last…]]></description><link>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/</link><guid isPermaLink="false">https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/</guid><pubDate>Thu, 16 Apr 2020 21:19:00 GMT</pubDate><content:encoded>&lt;p&gt;One of the coolest UI toolkit’s for cross-platform applications, &lt;a href=&quot;https://flutter.dev&quot;&gt;Flutter&lt;/a&gt;, a Google offering has grown rapidly in popularity over the last few years. While there are speculations about how Flutter could affect the developer ecosystem, with the under-development &lt;a href=&quot;https://fuchsia.dev&quot;&gt;Fuchsia&lt;/a&gt; constantly making observers thrum with excitement, we cannot ignore the uprising of another popular market term - artificial intelligence (AI). This blog discusses the confluence of Flutter with AI!&lt;/p&gt;
+&lt;h2&gt;But isn’t AI super cool?&lt;/h2&gt;
+&lt;p&gt;Yes, and it’s hot as well!&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/artificial-intelligence-is-hot.png&quot; alt=&quot;Artificial Intelligence is Hot&quot;&gt;
+Source: &lt;a href=&quot;/&quot;&gt;Your Truly&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Should Flutter devs care for AI?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Definitely.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You’ll not be the first to ask why you would need AI on mobile apps, or why would you need a unified way of performing machine learning on your business websites and apps. So let me quickly introduce you to some folks who made it big by incorporating machine learning in their business apps - &lt;/p&gt;
+&lt;h3&gt;1. Google&lt;/h3&gt;
+&lt;p&gt;When we’re talking about machine learning and artificial intelligence in general, Google is one of the foremost names that pop up.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&apos;embed-container&apos;&gt;&lt;iframe src=&apos;https://www.youtube.com/embed/YuOBzWF0Aws&apos; frameborder=&apos;0&apos; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br&gt;
+Being as smart as Google is definitely not an easy task for a human. They leveraged the power of AI as one of the earliest players and today, a plethora of Google products such as GMail, Google Assistant, Google Translate and others. 
+&lt;h3&gt;2. Netflix&lt;/h3&gt;
+&lt;p&gt;Remember how tough it is to stop using the Netflix app once you started to explore the infinite treasures in it. each better than the previous? Netflix was one of the early betters on AI, and today, they lead the market of subscription based video streaming which keeps the viewers glued to their screens due to the power of recommendations that it makes.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/netflix-subscription.png&quot; alt=&quot;Netflix subscription meme&quot;&gt;
+Source: &lt;a href=&quot;/&quot;&gt;Your Truly Returns&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+Oh, and, please get your own subscription even if your crush does not ask you for your account. (And tell her to get one too!)
+&lt;hr&gt;
+&lt;p&gt;By now, if you’re convinced you do need artificial intelligence on your apps, let’s move on to discuss the various methods you have available for making AI enabled apps!&lt;/p&gt;
+&lt;h2&gt;How do I get AI on my app?&lt;/h2&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/April/super-cool-ai-app.jpg&quot; alt=&quot;Super cool AI app meme&quot;&gt;
+Source: &lt;a href=&quot;/&quot;&gt;Your Truly Again&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+To integrate machine learning with your mobile apps, you\&apos;ll need a model in place, and then, a way to call that model. In Flutter, the options you have available for running ML models in apps, at the time of writing this blog, are - 
+&lt;ul&gt;
+&lt;li&gt;Firebase ML Kit&lt;/li&gt;
+&lt;li&gt;On-device models&lt;/li&gt;
+&lt;li&gt;Models as APIs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s try to understand what each of these are, and how you would decide which one you would want.&lt;/p&gt;
+&lt;h3&gt;Firebase ML Kit&lt;/h3&gt;
+&lt;p&gt;ML Kit is a part of the Firebase suite which allows app developers to quickly import and use machine learing models from the Firebase console. Besides having the ability to host and import custom models (not yet available on Firebase for Flutter), there are a number of readymade state-of-the-art models available on Firebase such as - &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Face detection&lt;/li&gt;
+&lt;li&gt;On-device Translation&lt;/li&gt;
+&lt;li&gt;Object detection and tracking&lt;/li&gt;
+&lt;li&gt;Smart Reply, and others that keep getting added to the console!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This method is suitable when your application is using Firebase, or you have a custom model but do not want to host it on your own server setup. It is possible to cache the models hosted on Firebase, and hence this method is also suitable for model which expect regular but not very frequent updates.&lt;/p&gt;
+&lt;h3&gt;On-device models&lt;/h3&gt;
+&lt;p&gt;On device models are very powerful if you want to perform high-speed inference directly on the devices of the app users. A very popular way of creating such models is to first create them as TensorFlow models, and then to export them as &lt;code class=&quot;language-text&quot;&gt;.tflite&lt;/code&gt; files. You can then use the ML Kit plugin in your Flutter app to import from within the project repository the stored &lt;code class=&quot;language-text&quot;&gt;.tflite&lt;/code&gt; file and run it for inference.&lt;/p&gt;
+&lt;p&gt;You can find a sample Flutter application using the Face detection model available on Firebase, by first downloading it and then using it as an on-device model &lt;a href=&quot;https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects/tree/master/Chapter2/flutter_face_detection&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The code in the sample repository given above has been detailed in &lt;i&gt;Chapter 2: Mobile Vision - Face Detection Using On-Device Models&lt;/i&gt; of my book &lt;a href=&quot;https://www.packtpub.com/data/mobile-deep-learning-projects&quot;&gt;Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter&lt;/a&gt;. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This method is most suitable when you want your app users to experience no lag in the time it takes the model to perform inference, and are also confident that the model will not require rapid updates.&lt;/p&gt;
+&lt;h3&gt;Models as APIs&lt;/h3&gt;
+&lt;p&gt;This is another very popular method of integrating machine learning with apps. In this method, we wrap the model in an API service and host it using web based servers. These servers could be popular platforms like AWS Lambda, Google App Engine, Heroku or Virtual Machines with a runtime that supports running the model and serving it as a web based service.&lt;/p&gt;
+&lt;p&gt;This method is best suitable when you’re comfortable with working with servers and web interfaces, and also expect the model to update very frequently.&lt;/p&gt;
+&lt;p&gt;I shall be discussing this method in details in the future blogs. &lt;/p&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you learnt the available methods for integrating artificial intelligence on your Flutter apps. We’ll be going through all these methods in more details in the future!&lt;/p&gt;
+&lt;p&gt;Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://github.com/thecodefoundation&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Folding@Home Setup - Local and Cloud VM]]></title><description><![CDATA[The world is facing an unprecedented situation with the Coronavirus outbreak. It is crucial at these times for everyone to join hands and…]]></description><link>https://xprilion.com/folding-at-home-setup/</link><guid isPermaLink="false">https://xprilion.com/folding-at-home-setup/</guid><pubDate>Tue, 24 Mar 2020 13:49:00 GMT</pubDate><content:encoded>&lt;p&gt;The world is facing an unprecedented situation with the &lt;a href=&quot;https://www.who.int/emergencies/diseases/novel-coronavirus-2019&quot;&gt;Coronavirus outbreak&lt;/a&gt;. It is crucial at these times for everyone to join hands and fight the rapidly spreading virus. Computing power available to researchers is very valuable right now. &lt;a href=&quot;https://foldingathome.org/&quot;&gt;Folding@Home&lt;/a&gt; is a project which allows crowd-sourcing computing power by the help of distributed computing over public compute nodes for the study of biological proteins. The project is currently providing (at the time of writing this article) more than 470 petaFlops of computing power to researchers for studying Coronavirus, and to eventually prepare a cure for it.&lt;/p&gt;
+&lt;h2&gt;But, What should I do?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Contribute.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Your computer’s idle time can be utilized towards contributing to the Folding@Home project very, very easily.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/March/contribute.png&quot; alt=&quot;Contribute #1&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;What do I need?&lt;/h2&gt;
+&lt;p&gt;All that you need for contributing to the Folding@Home project - &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A working computer, can be local, can be a VM&lt;/li&gt;
+&lt;li&gt;A stable internet connection&lt;/li&gt;
+&lt;li&gt;A will to help, even if for a few hours a day!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Do you have these? If yes (or even if no), read on!&lt;/p&gt;
+&lt;h2&gt;How to setup?&lt;/h2&gt;
+&lt;p&gt;I shall provide a very quick but complete setup here that should get you started in no time. &lt;/p&gt;
+&lt;p&gt;The general procedure is as follows - &lt;/p&gt;
+&lt;ol start=&quot;0&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;https://apps.foldingathome.org/passkey/create&quot;&gt;Create a passkey&lt;/a&gt; for yourself.&lt;/li&gt;
+&lt;li&gt;Download and install the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; setup on the machine which will perform computation. You’ll need your passkey in this step.&lt;/li&gt;
+&lt;li&gt;Download the install the &lt;code class=&quot;language-text&quot;&gt;FAHControl&lt;/code&gt; setup on the machine which you will use to control and monitor your &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Any additional configuration as needed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let’s get started!&lt;/p&gt;
+&lt;h3&gt;Setup on a local machine&lt;/h3&gt;
+&lt;p&gt;Setting up on a local machine is very simple. Follow along the steps below -&lt;/p&gt;
+&lt;h4&gt;Windows&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://download.foldingathome.org/releases/public/release/fah-installer/windows-10-32bit/v7.5/fah-installer_7.5.1_x86.exe&quot;&gt;Download&lt;/a&gt; and run the installer.&lt;/li&gt;
+&lt;li&gt;Click Yes, Next, I Agree, Next, Finish.&lt;/li&gt;
+&lt;li&gt;Enter a name, &lt;code class=&quot;language-text&quot;&gt;team number 250120&lt;/code&gt; (to join our team, use 0 for no team), and Passkey.&lt;/li&gt;
+&lt;li&gt;Click Save.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Linux&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; package for your distro, using the following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://download.foldingathome.org/releases/public/release/fahclient/debian-testing-64bit/v7.4/fahclient_7.4.4_amd64.deb
+
+&lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://download.foldingathome.org/releases/public/release/fahclient/centos-5.3-64bit/v7.4/fahclient-7.4.4-1.x86_64.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Install package using following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg -i --force-depends fahclient_7.4.4_amd64.deb
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -f
+
+&lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; -i --nodeps fahclient-7.4.4-1.x86_64.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Enter a name, &lt;code class=&quot;language-text&quot;&gt;team number 250120&lt;/code&gt; (to join our team, use 0 for no team), and Passkey.&lt;/li&gt;
+&lt;li&gt;Complete the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; installation.&lt;/li&gt;
+&lt;li&gt;Download &lt;code class=&quot;language-text&quot;&gt;FAHControl&lt;/code&gt; using the following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://download.foldingathome.org/releases/public/release/fahcontrol/debian-testing-64bit/v7.4/fahcontrol_7.4.4-1_all.deb
+
+&lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://download.foldingathome.org/releases/public/release/fahcontrol/centos-5.3-64bit/v7.4/fahcontrol-7.4.4-1.noarch.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;Install FAHControl using the following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg -i --force-depends fahcontrol_7.4.4-1_all.deb
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -f
+
+&lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; -i --nodeps fahcontrol-7.4.4-1.noarch.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Setup on a VM&lt;/h3&gt;
+&lt;p&gt;After provisioning your VM, assuming it is a Linux VM (we prefer Ubuntu 18.04 LTS), follow the given steps - &lt;/p&gt;
+&lt;h4&gt;Steps to be performed on VM&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Update your package repository.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; update&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Download the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; package for your distro, using the following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://download.foldingathome.org/releases/public/release/fahclient/debian-testing-64bit/v7.4/fahclient_7.4.4_amd64.deb&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Install package using the following command:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Debian/Ubuntu/Mint
+sudo dpkg -i --force-depends fahclient_7.4.4_amd64.deb
+sudo apt install -f&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Enter a name, &lt;code class=&quot;language-text&quot;&gt;team number 250120&lt;/code&gt; (to join our team, use 0 for no team), and Passkey.&lt;/li&gt;
+&lt;li&gt;Complete the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; installation.&lt;/li&gt;
+&lt;li&gt;Stop the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; /etc/init.d/FAHClient stop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;Edit the configuration file, as shown below:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;nano&lt;/span&gt; /etc/fahclient/config.xml&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Your file should look like:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;config&amp;gt;
+  &amp;lt;!-- Client Control --&amp;gt;
+  &amp;lt;fold-anon v=&amp;#39;true&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- Folding Slot Configuration --&amp;gt;
+  &amp;lt;gpu v=&amp;#39;false&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- HTTP Server --&amp;gt;
+  &amp;lt;allow v=&amp;#39;127.0.0.1 your_local_system_ip&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- Slot Control --&amp;gt;
+  &amp;lt;power v=&amp;#39;full&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- User Information --&amp;gt;
+  &amp;lt;passkey v=&amp;#39;your_passkey&amp;#39;/&amp;gt;
+  &amp;lt;team v=&amp;#39;250120&amp;#39;/&amp;gt;
+  &amp;lt;user v=&amp;#39;your_name&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- Web Server --&amp;gt;
+  &amp;lt;web-allow v=&amp;#39;127.0.0.1 your_local_system_ip&amp;#39;/&amp;gt;
+
+  &amp;lt;!-- Folding Slots --&amp;gt;
+  &amp;lt;slot id=&amp;#39;0&amp;#39; type=&amp;#39;CPU&amp;#39;/&amp;gt;
+&amp;lt;/config&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;8&quot;&gt;
+&lt;li&gt;Restart the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; /etc/init.d/FAHClient start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;Steps to be performed locally&lt;/h4&gt;
+&lt;ol start=&quot;9&quot;&gt;
+&lt;li&gt;Now, you’ll need to install the &lt;code class=&quot;language-text&quot;&gt;FAHControl&lt;/code&gt; on your local system. Use the steps given in the &lt;a href=&quot;#Setup-on-a-local-machine&quot;&gt;Setup on local machine&lt;/a&gt; section to install &lt;code class=&quot;language-text&quot;&gt;FAHControl&lt;/code&gt; on your local system.&lt;/li&gt;
+&lt;li&gt;You should be able to access your remote &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; using the following address:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;http://your_vm_ip:7396&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You should see the dashboard displaying information as shown in the following screenshot:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/March/foldingcontrol.png&quot; alt=&quot;Folding@Home The Code Foundation Dashboard&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You can always head over the &lt;a href=&quot;https://foldingathome.org/support/faq/&quot;&gt;official installation documentation&lt;/a&gt; for more details and options! You can also ask questions on the &lt;a href=&quot;https://foldingforum.org/&quot;&gt;Folding Forum&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you learnt how you can join in the fight against coronavirus sitting from your home.&lt;/p&gt;
+&lt;p&gt;I’ll post more on this blog soon! Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://thecodefoundation.dev&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Being Noob - Starting a tech journey]]></title><description><![CDATA[Hi there! I realized I began sort of suddenly, talking about networks first and then a tech scholarship, while not having yet talked about…]]></description><link>https://xprilion.com/being-noob/</link><guid isPermaLink="false">https://xprilion.com/being-noob/</guid><pubDate>Sun, 12 Jan 2020 11:09:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi there! I realized I began sort of suddenly, talking about networks first and then a tech scholarship, while not having yet talked about how things began for me and what I believe is a good way to launch a journey in computer science.&lt;/p&gt;
+&lt;h2&gt;So, talking about past, eh?&lt;/h2&gt;
+&lt;p&gt;No really, but sort of, but unkinda.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/Jan/meme-1.jpg&quot; alt=&quot;Anubhav Singh Meme #1&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;How does it all begin?&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python2&quot;&gt;&lt;pre class=&quot;language-python2&quot;&gt;&lt;code class=&quot;language-python2&quot;&gt;print &amp;quot;Hello World&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Starting a journey in tech is more about willing to explore the unknown. Unlike other fields, its not about reading up a good deal of literature first and then trying to apply it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No programmer reads the documentation beyond Getting Started unless they’re stuck.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And that’s what you should do with your journey - if you really wish to start moving forward in your tech journey, stop trying to know &lt;em&gt;all&lt;/em&gt; about it. Just be like this - &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/Jan/meme-2.jpg&quot; alt=&quot;Anubhav Singh Meme #2&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Oh but what do I do?&lt;/h2&gt;
+&lt;p&gt;What you do once you’re started is simple - you do what you love doing. Computer Science is that one field which holds the potential to help you in whatever passion you hold - from high school algebra to politics (&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Great_Hack&quot;&gt;The Great Hack&lt;/a&gt;) or discovering new planets, your tech journey can take you pretty much anywhere you wish to go!&lt;/p&gt;
+&lt;p&gt;A nice way to begin climbing the mountain is to identify it. Set goals of what you wish to build. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don’t learn a language just because you wish to speak it, but don’t have anything to say.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/Jan/meme-3.jpeg&quot; alt=&quot;Anubhav Singh Meme #3&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;But..how do I learn X and Y to do Z?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Google.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Reading blogs, documentations, papers is probably the best habit you can develop in your tech journey. Start being a regular at Google and begin searching out all possible ways of expressing your query. Read as many resources you can get. Don’t straight off jump into video courses and lectures - take time to understand from blogs what you’re trying to learn and how it is going to be useful to you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don’t be technology intolerant. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Be fair to all frameworks or libraries you know or do not know of when deciding what you need to learn to build something. Don’t jump into learning something just because others are doing it. Rememeber, thoughts come before words, and we choose words based on thoughts. Choose your frameworks or languages based on what best suits the product you wish to build.&lt;/p&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you went through my take on what are the most important points you need to remember when starting a journey in tech!&lt;/p&gt;
+&lt;p&gt;I’ll post more on this blog on 16th Jan, 2020! Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://github.com/thecodefoundation&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What is the Venkat Panchapakesan Memorial Scholarship and Why its not won in a day.]]></title><description><![CDATA[It was with a crazy smile and immense gratitude that I read through the entire mail from Google India about being awarded the Venkat…]]></description><link>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1/</link><guid isPermaLink="false">https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1/</guid><pubDate>Wed, 08 Jan 2020 16:55:00 GMT</pubDate><content:encoded>&lt;p&gt;It was with a crazy smile and immense gratitude that I read through the entire mail from Google India about being awarded the &lt;a href=&quot;https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/&quot;&gt;Venkat Panchapakesan Memorial Scholarship&lt;/a&gt; for the session 2019-20. An amazing and prestigious scholarship, I am really happy to have been made a part of it and would love to talk more about it in hope that it would help someone deserving receive the same in the future.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2020/Jan/venkat-panchapakesan-memorial-scholarship-acceptance-letter.png&quot; alt=&quot;Image - Acceptance letter for Venkat Panchapakesan Memorial Scholarship&quot;&gt;&lt;/p&gt;
+&lt;p&gt;So,&lt;/p&gt;
+&lt;h2&gt;What is Venkat Panchapakesan Memorial Scholarship all about?&lt;/h2&gt;
+&lt;p&gt;The answer to this question begins with another question - &lt;/p&gt;
+&lt;h3&gt;Who was Venkat Panchapakesan?&lt;/h3&gt;
+&lt;p&gt;A description from &lt;a href=&quot;https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/&quot;&gt;Google’s Web page about the scholarship&lt;/a&gt; describes Venkat as given below - &lt;/p&gt;
+&lt;pre style=&quot;white-space : pre-wrap !important;&quot;&gt;
+Venkat was a much loved and highly respected engineer whose career took him to YouTube, Google, and Yahoo, among other notable companies. He tragically passed away too young, after a battle with cancer. During his short time he deeply touched the hearts and minds of his friends, family and colleagues. He taught us to be generous, humble, ever-optimistic and to always find the best in people.
+&lt;/pre&gt;
+&lt;p&gt;Once you read through, and try taking a look at some videos on YouTube about Venkat, you’ll come to realize the beauty of his personality and what made him so loved. But above that, you’ll realize what it means to be compassionate, supporting and forever happy to help. It is this understanding, which will help you answer the following question.&lt;/p&gt;
+&lt;h3&gt;Who is an ideal candidate for winning this scholarship?&lt;/h3&gt;
+&lt;p&gt;Frankly, that is best known to the selectors of the scholarship. In my opinion, my profile stood out due to my contribution to the various tech communities around me and my willingness to use technology for achieveing sustainable development goals. Hence, someone who loves helping people, goes beyond their way to aid those around them in their problems, loves spreading the word about technology and believes that they can help the world become a better and sustainable place with the help of technology would probably stand a good chance at winning the scholarship!&lt;/p&gt;
+&lt;p&gt;As long as you’re leaving a positive impact on even a handful of people around you, you’re doing good!&lt;/p&gt;
+&lt;h3&gt;And do I need to be a super programmer?&lt;/h3&gt;
+&lt;p&gt;No! All you need to do is to know how to and be willing to use technology for making this world a more sustainable place and to help people around you in having a better life. Now, ’sustainable’ could have a number of meanings, you can Google up &lt;code class=&quot;language-text&quot;&gt;United Nations Sustainable Development Goals&lt;/code&gt; and study about the several factors which contribute towards making the world a better place to live in! Remember, at the end of the day, the best person is he/she who uses whatever they have learnt for the best of people around them, in whatever measure they are able to!&lt;/p&gt;
+&lt;h2&gt;This scholarship is not won in a day :)&lt;/h2&gt;
+&lt;p&gt;From the above discussion so far, you’d have realized that winning this scholarship may require months or even years of previous work. Hence, to maximize your chances of being among the lucky 5-6 next year who bag this amazing opportunity, make sure you start giving back to your local ecosystem in any manner that’s possible for you! It will take time, patience, effort but at the end of it all, regarldess you win it or not, you’ll find yourself a much better version of yourself and will definitely be a loved face among the people around you!&lt;/p&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you learnt about the Venkat Panchapakesan Memorial Scholarship and why I think this scholarship recognizes those who do their best over a long period of time to help people around them using technology. There will be more posts coming on this topic in the future at regular intervals, and I hope you’ll be able to make the best of them when applying in the future! &lt;/p&gt;
+&lt;p&gt;I’ll post more on this blog on 12th Jan, 2020! Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://github.com/thecodefoundation&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Difference between localhost, 127.0.0.1 and 0.0.0.0]]></title><description><![CDATA[I’ve been often asked, why do we sometimes need to specify the IP for a program to be  in order to get it to be accessible from machines…]]></description><link>https://xprilion.com/difference-between-localhost-127.0.0.1-and-0.0.0.0/</link><guid isPermaLink="false">https://xprilion.com/difference-between-localhost-127.0.0.1-and-0.0.0.0/</guid><pubDate>Sat, 04 Jan 2020 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been often asked, why do we sometimes need to specify the IP for a program to be &lt;code class=&quot;language-text&quot;&gt;0.0.0.0&lt;/code&gt; in order to get it to be accessible from machines outsides the network. I shall attempt to answer the question in this post.&lt;/p&gt;
+&lt;h2&gt;What is 127.0.0.1&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;127.0.0.1&lt;/code&gt; is the loopback address. It means, whatever request is made, send it back to the same machine. When a remote host calls this, they’re actually calling themselves. &lt;/p&gt;
+&lt;h2&gt;What is localhost&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;localhost&lt;/code&gt; is simply a conventional mapping done in the &lt;code class=&quot;language-text&quot;&gt;hosts&lt;/code&gt; file of the OS. It can be changed. I could ask &lt;code class=&quot;language-text&quot;&gt;google.com&lt;/code&gt; to point to my loopback address and that would work same.&lt;/p&gt;
+&lt;h2&gt;What is 0.0.0.0&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;0.0.0.0&lt;/code&gt; is a wildcard for all open routes to the system within the system where the script runs. &lt;/p&gt;
+&lt;h2&gt;When do you face the need to differentiate between them -&lt;/h2&gt;
+&lt;p&gt;We specifically face the problem of differentiating them in Flask/Django/NodeJS applications because these are runtimes which require the user to define which IP (or routes) to listen on. If you’ve ever tried web development on PHP, you’d realize that the &lt;code class=&quot;language-text&quot;&gt;localhost&lt;/code&gt; web server was accessible using the IP of the computer’s LAN as well from other devices (say your mobile). This is because by default Apache listens on &lt;code class=&quot;language-text&quot;&gt;*:80&lt;/code&gt; which essentially means &lt;code class=&quot;language-text&quot;&gt;0.0.0.0:80&lt;/code&gt;, as given in its default virtual host configuration file - &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Ensure that Apache listens on port 80
+Listen 80
+&amp;lt;VirtualHost *:80&amp;gt;  # Notice this
+    DocumentRoot &amp;quot;/var/www/html&amp;quot; # OR &amp;quot;C:/xampp/htdocs&amp;quot; for Windows systems with XAMPP installation
+
+    # Other directives here
+&amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;What did you learn today&lt;/h2&gt;
+&lt;p&gt;Today, in under 3 minutes you learnt a very important difference between the different kind of IP addresses you generally encounter during development and while dealing with networks on the same machine!&lt;/p&gt;
+&lt;p&gt;I’ll post more on 8th Jan, 2020! Bookmark my site to stay tuned!&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;I am a web developer turned machine learning explorer who loves mixing and matching various stacks! I lead the team at &lt;a href=&quot;https://github.com/thecodefoundation&quot;&gt;The Code Foundation&lt;/a&gt; and we love solving problems about computer vision and NLP!&lt;/p&gt;
+&lt;p&gt;Send me a hi on &lt;a href=&quot;mailto:hi@xpri.dev&quot;&gt;hi@xpri.dev&lt;/a&gt;
+&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[OMG, a new look!]]></title><description><![CDATA[Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was…]]></description><link>https://xprilion.com/hello-world/</link><guid isPermaLink="false">https://xprilion.com/hello-world/</guid><pubDate>Sun, 24 Nov 2019 09:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was unexciting, and there was no fresh content on it. But did that worry me? Oh yes.&lt;/p&gt;
+&lt;h2&gt;So what did I do about it?&lt;/h2&gt;
+&lt;h3&gt;Ditch PHP website&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ &lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;I are poor men&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;So I ditched my legacy website (constant since 2016) and began the hunt of a perfect way to put forward my work and to have more fun on this website instead of simply hosting my unupdated resume.&lt;/p&gt;
+&lt;p&gt;Static Portfolios are BORING:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media3.giphy.com/media/l0HlzgveB7SAZC6Iw/giphy.gif&quot; alt=&quot;Anubhav Singh Says - Static Portfolios are boring&quot;&gt;&lt;/p&gt;
+&lt;p&gt;But PHP websites cost. And I needed to fit this thing in my budget.&lt;/p&gt;
+&lt;h2&gt;Hoping for more content in future :D&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ Anubhav &lt;span class=&quot;token string&quot;&gt;&quot;write&quot;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I have this bad habit of creating cool blog websites, and forgetting to write on them. This time, I do hope I am able to keep writing stuff here. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2019/Nov/jokes.jpg&quot; alt=&quot;Meme - I will post regularly on this blog and other jokes you can tell yourself&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Only hoping that I shall be able to keep this blog alive! &lt;/p&gt;
+&lt;p&gt;Thanks for hanging around! :)&lt;/p&gt;</content:encoded></item></channel></rss>

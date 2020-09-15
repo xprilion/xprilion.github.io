@@ -1,137 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://xprilion.com/</loc>
-    <lastmod>2020-01-24T07:31:39.175Z</lastmod>
-  </url>
-  
-    <url>
-      <loc>https://xprilion.com/projects/index.html</loc>
-      
-      <lastmod>2020-04-28T20:26:12.940Z</lastmod>
-      
-    </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/talks/index.html</loc>
-      
-      <lastmod>2020-04-28T20:22:58.260Z</lastmod>
-      
-    </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/ml-on-2gb-ram/</loc>
-      
-      <lastmod>2020-04-28T16:36:05.067Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/ml-on-2gb-ram/amp/</loc>
-        
-        <lastmod>2020-04-28T16:36:05.067Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/publications/index.html</loc>
-      
-      <lastmod>2020-04-28T13:06:44.835Z</lastmod>
-      
-    </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/</loc>
-      
-      <lastmod>2020-04-17T16:07:46.310Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/amp/</loc>
-        
-        <lastmod>2020-04-17T16:07:46.310Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/folding-at-home-setup/</loc>
-      
-      <lastmod>2020-03-24T11:20:07.308Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/folding-at-home-setup/amp/</loc>
-        
-        <lastmod>2020-03-24T11:20:07.308Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/being-noob/</loc>
-      
-      <lastmod>2020-01-12T06:19:48.596Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/being-noob/amp/</loc>
-        
-        <lastmod>2020-01-12T06:19:48.596Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1/</loc>
-      
-      <lastmod>2020-01-08T18:10:42.314Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1/amp/</loc>
-        
-        <lastmod>2020-01-08T18:10:42.314Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/difference-between-localhost-127.0.0.1-and-0.0.0.0/</loc>
-      
-      <lastmod>2020-01-04T17:08:58.597Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/difference-between-localhost-127.0.0.1-and-0.0.0.0/amp/</loc>
-        
-        <lastmod>2020-01-04T17:08:58.597Z</lastmod>
-        
-      </url>
-    
-  
-    <url>
-      <loc>https://xprilion.com/hello-world/</loc>
-      
-      <lastmod>2019-11-26T18:31:39.780Z</lastmod>
-      
-    </url>
-    
-      <url>
-        <loc>https://xprilion.com/hello-world/amp/</loc>
-        
-        <lastmod>2019-11-26T18:31:39.780Z</lastmod>
-        
-      </url>
-    
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://xprilion.com/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/talks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/generic-pymongo-wrapper-using-flask/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/ml-on-2gb-ram/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/folding-at-home-setup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/being-noob/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/difference-between-localhost-127.0.0.1-and-0.0.0.0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
