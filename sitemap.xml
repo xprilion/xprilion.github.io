@@ -3,6 +3,7 @@
 <url> <loc>https://xprilion.com/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/talks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/generic-mongodb-wrapper-using-flask-pymongo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/ml-on-2gb-ram/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/folding-at-home-setup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
