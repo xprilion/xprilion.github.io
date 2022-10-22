@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Oct 2022 16:33:13 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Oct 2022 03:20:59 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
 &lt;h2&gt;Open Source&lt;/h2&gt;
 &lt;p&gt;Projects which I’ve contributed to as an open source contributor - &lt;/p&gt;
 &lt;h3&gt;Submitty (&lt;a href=&quot;https://github.com/submitty/Submitty&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
@@ -356,7 +356,126 @@ Investors - sounds cool, brings in the $$&lt;/p&gt;
 &lt;h4&gt;Speed of inference against various inputs&lt;/h4&gt;
 &lt;p&gt;Speed of inference can change with changing input. If your model performs inference under 1s for most images ranging appx 10MB, what does it do when someone uploads an image of 1GB? Does your system reject the image or does it take down the building?&lt;/p&gt;
 &lt;h3&gt;Load testing ML-HADR systems&lt;/h3&gt;
-&lt;p&gt;To be updated.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dividing is Easy, Unite if you can]]></title><description><![CDATA[There’s always an easy option and one that needs courage, patience and a strong will. When I was a kid, every evening, I used to go out to…]]></description><link>https://xprilion.com/divide-vs-unite/</link><guid isPermaLink="false">https://xprilion.com/divide-vs-unite/</guid><pubDate>Fri, 18 Mar 2022 17:08:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/images/covers/divide-vs-unite.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Finally, let us load-test a few topologies which server ML based content. To do so, we shall be using the Locus tool along with a self-engineered set of scripts that work as nodes and load balancer.&lt;/p&gt;
+&lt;p&gt;I have published the code for this setup here - &lt;a href=&quot;https://github.com/xprilion/dummy-topology-loadtest&quot;&gt;https://github.com/xprilion/dummy-topology-loadtest&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The contents of this system are - &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;router.py&lt;/code&gt; : this file will act as a dummy load-balancer.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;predictors/predict**X**.py&lt;/code&gt; - these files are numbered, replacing X, and will be active as node servers.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;topology/**topology_name**.json&lt;/code&gt; - these json files contain information regarding the topologies available. We will be updating the data inside these files while load testing the topology they represent.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To setup the load test run, first ensure that in the files inside the &lt;code class=&quot;language-text&quot;&gt;topology&lt;/code&gt; directory, all the topology files are in their initial states, as shown below - &lt;/p&gt;
+&lt;h4&gt;Single server system&lt;/h4&gt;
+&lt;p&gt;In this system, there is a single server handling all resources.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+    &amp;quot;predict1&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;2 Active system&lt;/h4&gt;
+&lt;p&gt;In this system, initially, there are 2 servers responding to requests. In event of failure of any one or both servers, a third system steps in as replacement while the other two are fixed.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+    &amp;quot;predict1&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    },
+    &amp;quot;predict2&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9697&amp;quot;
+    },
+    &amp;quot;predict3&amp;quot;: {
+        &amp;quot;status&amp;quot;: false,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9698&amp;quot;
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Notice that the &lt;code class=&quot;language-text&quot;&gt;status&lt;/code&gt; of &lt;code class=&quot;language-text&quot;&gt;predict3&lt;/code&gt; server is set to &lt;code class=&quot;language-text&quot;&gt;false&lt;/code&gt;.&lt;/p&gt;
+&lt;h4&gt;3 Active system&lt;/h4&gt;
+&lt;p&gt;In a 3-active system, there are 3 servers available to handle requests.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+    &amp;quot;predict1&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    },
+    &amp;quot;predict2&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9697&amp;quot;
+    },
+    &amp;quot;predict3&amp;quot;: {
+        &amp;quot;status&amp;quot;: true,
+        &amp;quot;load&amp;quot;: 0,
+        &amp;quot;port&amp;quot;: &amp;quot;9698&amp;quot;
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then, ensure that in &lt;code class=&quot;language-text&quot;&gt;router.py&lt;/code&gt;, the &lt;code class=&quot;language-text&quot;&gt;topology&lt;/code&gt; variable is set to &lt;code class=&quot;language-text&quot;&gt;0&lt;/code&gt;. This will correspond to the single server system.&lt;/p&gt;
+&lt;p&gt;Next, we fire up the Locus UI by running the &lt;code class=&quot;language-text&quot;&gt;locust&lt;/code&gt; command inside the &lt;code class=&quot;language-text&quot;&gt;locust&lt;/code&gt; directory. &lt;/p&gt;
+&lt;p&gt;Specify the number of users to spawn and the spawn rate. Provide a suitable host. Locust will inform the server under stress that the requests are coming from the specified host.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2022/October/haml-9.png&quot; alt=&quot;Locust setup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Click on &lt;strong&gt;Start Swarming&lt;/strong&gt; to start throwing requests at the server based on the script specified in the &lt;code class=&quot;language-text&quot;&gt;locust/locustfile.py&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;Observe the charts that show how the system is responding to the increase in the load. After some time, the first server failures start appearing. We’ll keep a note of when the first error appears.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2022/October/haml-10.png&quot; alt=&quot;Single server system failure&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Now, change the &lt;code class=&quot;language-text&quot;&gt;topology&lt;/code&gt; variable in &lt;code class=&quot;language-text&quot;&gt;router.py&lt;/code&gt; to &lt;code class=&quot;language-text&quot;&gt;1&lt;/code&gt; and run Locust. In the next step, change the &lt;code class=&quot;language-text&quot;&gt;topology&lt;/code&gt; variable to &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; and run Locust again.&lt;/p&gt;
+&lt;p&gt;Let’s plot a chart of when the first failures happen in case of each system -&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Topology&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;RPS at failure&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Single&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;5.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;2-Active&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;8.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;3-Active&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;7.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As expected, the 2-Active system has the peak capacity in our use-case. However, here’s an interesting observation - &lt;/p&gt;
+&lt;p&gt;Let us compare the values of the predict servers on 2-Active and 3-Active systems after the load test - &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Server&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;2-Active&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;3-Active&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Predict1&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;10&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Predict2&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;10&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Predict3&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;9&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As we see, the 2-Active system is completely saturated while the 3-Active system is slightly above half its capacity. &lt;/p&gt;
+&lt;p&gt;Thus, even though the 2-Active system fails after the 3-Active system has shown its first error, the 3-Active system will saturate later and continue to serve requests for a longer duration.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Depending on the HADR system metric you may want to optimize for, you can choose the topology that works best for your use case. You can choose to have multiple replicas of the same network topology or create your own configuration. The scripts provided for load testing can be extended to more topologies. Have fun testing your HADR system designs with it!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dividing is Easy, Unite if you can]]></title><description><![CDATA[There’s always an easy option and one that needs courage, patience and a strong will. When I was a kid, every evening, I used to go out to…]]></description><link>https://xprilion.com/divide-vs-unite/</link><guid isPermaLink="false">https://xprilion.com/divide-vs-unite/</guid><pubDate>Fri, 18 Mar 2022 17:08:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/images/covers/divide-vs-unite.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;There’s always an easy option and one that needs courage, patience and a strong will.&lt;/p&gt;
 &lt;p&gt;When I was a kid, every evening, I used to go out to play in a park nearby my home. We were a good mix of kids - boys from several communities and natives of different states. One day, two new kids showed up and asked us if they could play with us. What was unusual about them was that unlike us, they wore shabby clothes, looked malnourished and were visibly shy. For a group of kids who had known each other for years and were mostly from decent households, we had been trained since childhood to avoid playing with anyone who resembled these two newcomers.&lt;/p&gt;
 &lt;p&gt;But did we care? Absolutely not. We played together and didn’t give any damn to any of the differentiating factors. We were kids playing in a park and that was our identity. Till this point in this story, I believe I have everyone’s approval. “You did good”, “kids are so pure” and all that feel-good responses are probably what I would get if I ended it here.&lt;/p&gt;

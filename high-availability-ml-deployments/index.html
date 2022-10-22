@@ -93,7 +93,126 @@ Investors - sounds cool, brings in the $$</p>
 <h4>Speed of inference against various inputs</h4>
 <p>Speed of inference can change with changing input. If your model performs inference under 1s for most images ranging appx 10MB, what does it do when someone uploads an image of 1GB? Does your system reject the image or does it take down the building?</p>
 <h3>Load testing ML-HADR systems</h3>
-<p>To be updated.</p></div><form action="https://tinyletter.com/xprilion" method="post" target="popupwindow" class="SignupForm"><h3>Subscribe to my newsletter</h3><i>I often write about my experiences, sometimes tech, sometimes life</i><br/><div class="Wrapper"><input type="text" aria-label="Email address" placeholder="Enter your email..." name="email" required="" id="tlemail"/><input type="hidden" value="1" name="embed"/><button type="submit">OK</button></div></form><div id="hyvor-talk-view"></div></div></main><hr/><footer style="max-width:800px;margin-left:auto;margin-right:auto">© Anubhav Singh <!-- -->2022<div style="display:inline-block;float:right"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/sitemap.xml">Sitemap</a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
+<p>Finally, let us load-test a few topologies which server ML based content. To do so, we shall be using the Locus tool along with a self-engineered set of scripts that work as nodes and load balancer.</p>
+<p>I have published the code for this setup here - <a href="https://github.com/xprilion/dummy-topology-loadtest">https://github.com/xprilion/dummy-topology-loadtest</a></p>
+<p>The contents of this system are - </p>
+<ol>
+<li><code class="language-text">router.py</code> : this file will act as a dummy load-balancer.</li>
+<li><code class="language-text">predictors/predict**X**.py</code> - these files are numbered, replacing X, and will be active as node servers.</li>
+<li><code class="language-text">topology/**topology_name**.json</code> - these json files contain information regarding the topologies available. We will be updating the data inside these files while load testing the topology they represent.</li>
+</ol>
+<p>To setup the load test run, first ensure that in the files inside the <code class="language-text">topology</code> directory, all the topology files are in their initial states, as shown below - </p>
+<h4>Single server system</h4>
+<p>In this system, there is a single server handling all resources.</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">{
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
+    }
+}</code></pre></div>
+<h4>2 Active system</h4>
+<p>In this system, initially, there are 2 servers responding to requests. In event of failure of any one or both servers, a third system steps in as replacement while the other two are fixed.</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">{
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
+    },
+    &quot;predict2&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9697&quot;
+    },
+    &quot;predict3&quot;: {
+        &quot;status&quot;: false,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9698&quot;
+    }
+}</code></pre></div>
+<p>Notice that the <code class="language-text">status</code> of <code class="language-text">predict3</code> server is set to <code class="language-text">false</code>.</p>
+<h4>3 Active system</h4>
+<p>In a 3-active system, there are 3 servers available to handle requests.</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">{
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
+    },
+    &quot;predict2&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9697&quot;
+    },
+    &quot;predict3&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9698&quot;
+    }
+}</code></pre></div>
+<p>Then, ensure that in <code class="language-text">router.py</code>, the <code class="language-text">topology</code> variable is set to <code class="language-text">0</code>. This will correspond to the single server system.</p>
+<p>Next, we fire up the Locus UI by running the <code class="language-text">locust</code> command inside the <code class="language-text">locust</code> directory. </p>
+<p>Specify the number of users to spawn and the spawn rate. Provide a suitable host. Locust will inform the server under stress that the requests are coming from the specified host.</p>
+<p><img src="/images/2022/October/haml-9.png" alt="Locust setup"></p>
+<p>Click on <strong>Start Swarming</strong> to start throwing requests at the server based on the script specified in the <code class="language-text">locust/locustfile.py</code>. </p>
+<p>Observe the charts that show how the system is responding to the increase in the load. After some time, the first server failures start appearing. We’ll keep a note of when the first error appears.</p>
+<p><img src="/images/2022/October/haml-10.png" alt="Single server system failure"></p>
+<p>Now, change the <code class="language-text">topology</code> variable in <code class="language-text">router.py</code> to <code class="language-text">1</code> and run Locust. In the next step, change the <code class="language-text">topology</code> variable to <code class="language-text">2</code> and run Locust again.</p>
+<p>Let’s plot a chart of when the first failures happen in case of each system -</p>
+<table>
+<thead>
+<tr>
+<th align="center">Topology</th>
+<th align="center">RPS at failure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Single</td>
+<td align="center">5.2</td>
+</tr>
+<tr>
+<td align="center">2-Active</td>
+<td align="center">8.6</td>
+</tr>
+<tr>
+<td align="center">3-Active</td>
+<td align="center">7.4</td>
+</tr>
+</tbody>
+</table>
+<p>As expected, the 2-Active system has the peak capacity in our use-case. However, here’s an interesting observation - </p>
+<p>Let us compare the values of the predict servers on 2-Active and 3-Active systems after the load test - </p>
+<table>
+<thead>
+<tr>
+<th align="center">Server</th>
+<th align="center">2-Active</th>
+<th align="center">3-Active</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Predict1</td>
+<td align="center">10</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">Predict2</td>
+<td align="center">10</td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td align="center">Predict3</td>
+<td align="center">9</td>
+<td align="center">8</td>
+</tr>
+</tbody>
+</table>
+<p>As we see, the 2-Active system is completely saturated while the 3-Active system is slightly above half its capacity. </p>
+<p>Thus, even though the 2-Active system fails after the 3-Active system has shown its first error, the 3-Active system will saturate later and continue to serve requests for a longer duration.</p>
+<h2>Conclusion</h2>
+<p>Depending on the HADR system metric you may want to optimize for, you can choose the topology that works best for your use case. You can choose to have multiple replicas of the same network topology or create your own configuration. The scripts provided for load testing can be extended to more topologies. Have fun testing your HADR system designs with it!</p></div><form action="https://tinyletter.com/xprilion" method="post" target="popupwindow" class="SignupForm"><h3>Subscribe to my newsletter</h3><i>I often write about my experiences, sometimes tech, sometimes life</i><br/><div class="Wrapper"><input type="text" aria-label="Email address" placeholder="Enter your email..." name="email" required="" id="tlemail"/><input type="hidden" value="1" name="embed"/><button type="submit">OK</button></div></form><div id="hyvor-talk-view"></div></div></main><hr/><footer style="max-width:800px;margin-left:auto;margin-right:auto">© Anubhav Singh <!-- -->2022<div style="display:inline-block;float:right"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/sitemap.xml">Sitemap</a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
   
   
   if(true) {
