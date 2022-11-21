@@ -1,46 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Nov 2022 06:58:57 GMT</lastBuildDate><item><title><![CDATA[Publications]]></title><description><![CDATA[Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll…]]></description><link>https://xprilion.com/publications/</link><guid isPermaLink="false">https://xprilion.com/publications/</guid><content:encoded>&lt;p&gt;Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll help some explorers on their journey towards seeking knowledge. Listed below are some of my writings which are dear to me -&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Type&lt;/th&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;Publisher&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Link&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Paper&lt;/td&gt;
-&lt;td&gt;A Novel SNN-ANN based IDS in Cloud Environment&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;IEEE&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/9155705&quot;&gt;IEEE&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Book&lt;/td&gt;
-&lt;td&gt;Mobile Deep Learning Projects&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085RF4GDV&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/mobile-deep-learning-projects&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Book&lt;/td&gt;
-&lt;td&gt;Hands-On Python Deep Learning for the Web&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085472LNB&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/hands-on-python-deep-learning-for-web&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tutorial&lt;/td&gt;
-&lt;td&gt;Introduction to Reinforcement Learning&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;DataCamp&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.datacamp.com/community/tutorials/introduction-reinforcement-learning&quot;&gt;DataCamp Tutorial&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tutorial&lt;/td&gt;
-&lt;td&gt;How To Set Up a JupyterLab Environment on Ubuntu 18.04&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;DigitalOcean&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyterlab-environment-on-ubuntu-18-04&quot;&gt;DigitalOcean Tutorial&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Nov 2022 19:39:09 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
 &lt;h2&gt;Open Source&lt;/h2&gt;
 &lt;p&gt;Projects which I’ve contributed to as an open source contributor - &lt;/p&gt;
 &lt;h3&gt;Submitty (&lt;a href=&quot;https://github.com/submitty/Submitty&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
@@ -135,7 +93,7 @@ PHP, MySQL, REST APIs, Java, C++, Python
 &lt;li&gt;Shreya Paul (&lt;a href=&quot;https://github.com/shreyapaul15&quot;&gt;@shreyapaul15&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Reetika Gautam (&lt;a href=&quot;https://github.com/Reetika12795&quot;&gt;@Reetika12795&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Amod Kumar (&lt;a href=&quot;https://github.com/xmavericks&quot;&gt;@xmavericks&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Talks]]></title><description><![CDATA[I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences…]]></description><link>https://xprilion.com/talks/</link><guid isPermaLink="false">https://xprilion.com/talks/</guid><content:encoded>&lt;p&gt;I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences and sometimes, I help them learn something new. Here are a few presentations that I have made in some of the community meetups, conferences or events with larger audiences. &lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Talks]]></title><description><![CDATA[I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences…]]></description><link>https://xprilion.com/talks/</link><guid isPermaLink="false">https://xprilion.com/talks/</guid><content:encoded>&lt;p&gt;I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences and sometimes, I help them learn something new. Here are a few presentations that I have made in some of the community meetups, conferences or events with larger audiences. &lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -261,7 +219,161 @@ PHP, MySQL, REST APIs, Java, C++, Python
 &lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://xpri.dev/neo4j-rootalpha&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content:encoded></item><item><title><![CDATA[High Availability ML Deployments]]></title><description><![CDATA[The average cost of IT downtime is $5,600 per minute.  ~ Gartner Downtimes can be costly. During downtimes, a company may face loss of…]]></description><link>https://xprilion.com/high-availability-ml-deployments/</link><guid isPermaLink="false">https://xprilion.com/high-availability-ml-deployments/</guid><pubDate>Sun, 09 Oct 2022 17:08:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/images/covers/high-availability-ml-deployments.png&quot;&gt;&lt;/p&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Publications]]></title><description><![CDATA[Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll…]]></description><link>https://xprilion.com/publications/</link><guid isPermaLink="false">https://xprilion.com/publications/</guid><content:encoded>&lt;p&gt;Writing has always been a strong passion within me. Over the years I have written blogs, pieces and books, in a hope that someday they’ll help some explorers on their journey towards seeking knowledge. Listed below are some of my writings which are dear to me -&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Publisher&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Paper&lt;/td&gt;
+&lt;td&gt;A Novel SNN-ANN based IDS in Cloud Environment&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;IEEE&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/9155705&quot;&gt;IEEE&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Book&lt;/td&gt;
+&lt;td&gt;Mobile Deep Learning Projects&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085RF4GDV&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/mobile-deep-learning-projects&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Book&lt;/td&gt;
+&lt;td&gt;Hands-On Python Deep Learning for the Web&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Packt&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.amazon.com/dp/B085472LNB&quot;&gt;Amazon&lt;/a&gt; · &lt;a href=&quot;https://www.packtpub.com/data/hands-on-python-deep-learning-for-web&quot;&gt;Packt&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tutorial&lt;/td&gt;
+&lt;td&gt;Introduction to Reinforcement Learning&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DataCamp&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.datacamp.com/community/tutorials/introduction-reinforcement-learning&quot;&gt;DataCamp Tutorial&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tutorial&lt;/td&gt;
+&lt;td&gt;How To Set Up a JupyterLab Environment on Ubuntu 18.04&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;DigitalOcean&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyterlab-environment-on-ubuntu-18-04&quot;&gt;DigitalOcean Tutorial&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Python Websockets SSL with Let's Encrypt]]></title><description><![CDATA[This tutorial is an explanation of my gist Python Websockets SSL with Let’s Encrypt
+. With the launch of HTML5 in 2008, a technology that…]]></description><link>https://xprilion.com/python-websockets-ssl-with-lets-encrypt/</link><guid isPermaLink="false">https://xprilion.com/python-websockets-ssl-with-lets-encrypt/</guid><pubDate>Mon, 21 Nov 2022 17:08:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/images/covers/python-websockets-ssl-with-lets-encrypt.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This tutorial is an explanation of my gist &lt;a href=&quot;https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6&quot;&gt;Python Websockets SSL with Let’s Encrypt
+&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With the launch of HTML5 in 2008, a technology that immediately took off in popularity was WebSockets. According to W3C, the basic definition of a Websocket is - an interface that enables web applications to maintain bidirectional communications with server-side processes.&lt;/p&gt;
+&lt;p&gt;In this short tutorial, I’ll be showing you how you can host a WebSocket server with SSL enabled on it. This allows your socket server to run on an HTTPS address. &lt;/p&gt;
+&lt;h2&gt;Setup&lt;/h2&gt;
+&lt;p&gt;We’ll be working with &lt;code class=&quot;language-text&quot;&gt;asyncio&lt;/code&gt; library and for WebSocket server implementation will be using the &lt;code class=&quot;language-text&quot;&gt;websockets&lt;/code&gt; library.&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;language-text&quot;&gt;asyncio&lt;/code&gt; library comes pre-packaged with Python distributions since Python 3.4. To install &lt;code class=&quot;language-text&quot;&gt;websockets&lt;/code&gt; library, you can use the following command:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;pip &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; websockets&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next, we’ll be looking to how to generate the SSL certificate files.&lt;/p&gt;
+&lt;h2&gt;Generate certificate and keyfile using Let’s Encrypt&lt;/h2&gt;
+&lt;p&gt;Before you can enable SSL on your WebSocket being run by a Python script, you’ll have to generate certificate files for your domain. &lt;/p&gt;
+&lt;p&gt;The basic gist of this step is to fetch Let’s Encrypt signed certficiates for your domain and store them on your server where the Python WebSocket script is running.&lt;/p&gt;
+&lt;p&gt;Here’s a great quick tutorial on &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-20-04&quot;&gt;How To Use Certbot Standalone Mode to Retrieve Let’s Encrypt SSL Certificates on Ubuntu 20.04&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Make certificate files accessible&lt;/h2&gt;
+&lt;p&gt;After generating the files correctly, you need to make them accessible to the current user who runs the Python WebSocket script. &lt;/p&gt;
+&lt;p&gt;In the previous step, if &lt;code class=&quot;language-text&quot;&gt;certbot&lt;/code&gt; stored your certificate files at &lt;code class=&quot;language-text&quot;&gt;/etc/letsencrypt/live/your_domain&lt;/code&gt; location, you should be able to see 4 files when you perform an &lt;code class=&quot;language-text&quot;&gt;ls&lt;/code&gt; on the folder - &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;ls&lt;/span&gt; /etc/letsencrypt/live/your_domain
+cert.pem  chain.pem  fullchain.pem  privkey.pem  README&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;To change the owner of the certificate files, use the following command:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chown&lt;/span&gt; -R &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; -u&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; -g&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next, ensure that the right permissions are applied to the folder:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chmod&lt;/span&gt; -R &lt;span class=&quot;token number&quot;&gt;400&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We’re now good to read these files from the Python WebSocket script.&lt;/p&gt;
+&lt;h2&gt;Create server script&lt;/h2&gt;
+&lt;p&gt;While your WebSocket server script will differ from the most barebones implementation, here’s one for you -&lt;/p&gt;
+&lt;p&gt;Create a file named &lt;code class=&quot;language-text&quot;&gt;socket_server.py&lt;/code&gt;. Then, make all the necessary imports.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;#!/usr/bin/env python&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# WS server example that synchronizes state across clients&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; asyncio
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; json
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; logging
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; websockets
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; ssl
+
+logging&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;basicConfig&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next, let us configure the SSL for this script, as shown below - &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;ssl_context &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; ssl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;SSLContext&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ssl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;PROTOCOL_TLS_SERVER&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# Generate with Lets Encrypt, chown to current user and 400 permissions&lt;/span&gt;
+ssl_cert &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/etc/letsencrypt/live/your_domain/fullchain.pem&quot;&lt;/span&gt;
+ssl_key &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/etc/letsencrypt/live/your_domain/privkey.pem&quot;&lt;/span&gt;
+
+ssl_context&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;load_cert_chain&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ssl_cert&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; keyfile&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;ssl_key&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The above code configures the script to run a TLS server with the certificates available in the folder generated by &lt;code class=&quot;language-text&quot;&gt;certbot&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;Next, we define the functions that shall be used to notify clients of the socket server and to get information from them.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;STATE &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+USERS &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;state_event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; json&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;dumps&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;state&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;**&lt;/span&gt;STATE&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;users_event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; json&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;dumps&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;users&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;count&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;USERS&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;notify_state&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; USERS&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token comment&quot;&gt;# asyncio.wait doesn&apos;t accept an empty list&lt;/span&gt;
+        message &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; state_event&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; asyncio&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;wait&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;user&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;send&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;message&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; user &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; USERS&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;notify_users&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; USERS&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token comment&quot;&gt;# asyncio.wait doesn&apos;t accept an empty list&lt;/span&gt;
+        message &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; users_event&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; asyncio&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;wait&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;user&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;send&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;message&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; user &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; USERS&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;After that, we need to add functions that register and unregister clients from the WebSocket.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;register&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    USERS&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;add&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; notify_users&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;unregister&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    USERS&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;remove&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; notify_users&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This done, let us implement a function that gets state update requests from clients and performs it.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;counter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# register(websocket) sends user_event() to websocket&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; register&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; websocket&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;send&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;state_event&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; message &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; websocket&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+            data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; json&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;loads&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;message&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; data&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;action&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;minus&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                STATE&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
+                &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; notify_state&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;elif&lt;/span&gt; data&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;action&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;plus&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                STATE&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
+                &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; notify_state&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                logging&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;error&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;unsupported event: {}&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; data&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;finally&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; unregister&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;websocket&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Finally, we run the server.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;start_server &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; websockets&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;serve&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;0.0.0.0&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6789&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; ssl&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;ssl_context&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+asyncio&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get_event_loop&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;run_until_complete&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;start_server&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+asyncio&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get_event_loop&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;run_forever&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;How you expose the server to the internet, I shall leave that on your use case. However, you can explore this tutorial on &lt;a href=&quot;https://websockets.readthedocs.io/en/stable/howto/nginx.html&quot;&gt;Websockets - Deploy behind nginx&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Implement a client page&lt;/h2&gt;
+&lt;p&gt;To test the above WebSocket script, you can spin up your own client script or feel free to use the &lt;a href=&quot;https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6#file-socket_client-html&quot;&gt;socket_client.html&lt;/a&gt; file I’ve provided.&lt;/p&gt;
+&lt;p&gt;Make sure to update the following line in the client file to point to your live server - &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;websocket &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;WebSocket&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;wss://localhost:6789/&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Note that we’re using the &lt;code class=&quot;language-text&quot;&gt;wss://&lt;/code&gt; protocol here instead of &lt;code class=&quot;language-text&quot;&gt;ws://&lt;/code&gt; protocol which is popularly found on other tutorials on the internet.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This was my attempt at explaining the gist I put out more than an year back. Hope it helps you go through the process easier than how I had first written it.&lt;/p&gt;
+&lt;p&gt;Make sure to leave me feedback on how this blog went!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[High Availability ML Deployments]]></title><description><![CDATA[The average cost of IT downtime is $5,600 per minute.  ~ Gartner Downtimes can be costly. During downtimes, a company may face loss of…]]></description><link>https://xprilion.com/high-availability-ml-deployments/</link><guid isPermaLink="false">https://xprilion.com/high-availability-ml-deployments/</guid><pubDate>Sun, 09 Oct 2022 17:08:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/images/covers/high-availability-ml-deployments.png&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The average cost of IT downtime is $5,600 per minute. &lt;/p&gt;
 &lt;p&gt;~ Gartner&lt;/p&gt;
@@ -1110,7 +1222,7 @@ sudo apt install -f&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;No really, but sort of, but unkinda.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/2020/Jan/meme-1.jpg&quot; alt=&quot;Anubhav Singh Meme #1&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;How does it all begin?&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python2&quot;&gt;&lt;pre class=&quot;language-python2&quot;&gt;&lt;code class=&quot;language-python2&quot;&gt;print &amp;quot;Hello World&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Starting a journey in tech is more about willing to explore the unknown. Unlike other fields, its not about reading up a good deal of literature first and then trying to apply it.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;No programmer reads the documentation beyond Getting Started unless they’re stuck.&lt;/p&gt;
