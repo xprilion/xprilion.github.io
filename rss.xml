@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 Jan 2023 09:36:21 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xprilion's blog]]></title><description><![CDATA[Anubhav writing about fancy things pretending they're important. Might write about Machine learning or Web development or random tech topics as per mood.]]></description><link>https://xprilion.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Apr 2023 10:19:03 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[About Me]]></description><link>https://xprilion.com/about/</link><guid isPermaLink="false">https://xprilion.com/about/</guid><content:encoded>&lt;p&gt;About Me&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Now]]></title><description><![CDATA[What am I doing now?]]></description><link>https://xprilion.com/now/</link><guid isPermaLink="false">https://xprilion.com/now/</guid><content:encoded>&lt;p&gt;What am I doing now?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Some of the best projects I have worked on, are listed here. Open Source Projects which I’ve contributed to as an open source contributor…]]></description><link>https://xprilion.com/projects/</link><guid isPermaLink="false">https://xprilion.com/projects/</guid><content:encoded>&lt;p&gt;Some of the best projects I have worked on, are listed here.&lt;/p&gt;
 &lt;h2&gt;Open Source&lt;/h2&gt;
 &lt;p&gt;Projects which I’ve contributed to as an open source contributor - &lt;/p&gt;
 &lt;h3&gt;Submitty (&lt;a href=&quot;https://github.com/submitty/Submitty&quot;&gt;GitHub&lt;/a&gt;)&lt;/h3&gt;
@@ -302,9 +302,9 @@ PHP, MySQL, REST APIs, Java, C++, Python
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;ls&lt;/span&gt; /etc/letsencrypt/live/your_domain
 cert.pem  chain.pem  fullchain.pem  privkey.pem  README&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;To change the owner of the certificate files, use the following command:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chown&lt;/span&gt; -R &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; -u&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; -g&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chown&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-R&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Next, ensure that the right permissions are applied to the folder:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chmod&lt;/span&gt; -R &lt;span class=&quot;token number&quot;&gt;400&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;~$ &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;chmod&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-R&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;400&lt;/span&gt; /etc/letsencrypt/live/your_domain&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;We’re now good to read these files from the Python WebSocket script.&lt;/p&gt;
 &lt;h2&gt;Create server script&lt;/h2&gt;
 &lt;p&gt;While your WebSocket server script will differ from the most barebones implementation, here’s one for you -&lt;/p&gt;
@@ -500,49 +500,49 @@ Investors - sounds cool, brings in the $$&lt;/p&gt;
 &lt;h4&gt;Single server system&lt;/h4&gt;
 &lt;p&gt;In this system, there is a single server handling all resources.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
-    &amp;quot;predict1&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
     }
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h4&gt;2 Active system&lt;/h4&gt;
 &lt;p&gt;In this system, initially, there are 2 servers responding to requests. In event of failure of any one or both servers, a third system steps in as replacement while the other two are fixed.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
-    &amp;quot;predict1&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
     },
-    &amp;quot;predict2&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9697&amp;quot;
+    &quot;predict2&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9697&quot;
     },
-    &amp;quot;predict3&amp;quot;: {
-        &amp;quot;status&amp;quot;: false,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9698&amp;quot;
+    &quot;predict3&quot;: {
+        &quot;status&quot;: false,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9698&quot;
     }
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Notice that the &lt;code class=&quot;language-text&quot;&gt;status&lt;/code&gt; of &lt;code class=&quot;language-text&quot;&gt;predict3&lt;/code&gt; server is set to &lt;code class=&quot;language-text&quot;&gt;false&lt;/code&gt;.&lt;/p&gt;
 &lt;h4&gt;3 Active system&lt;/h4&gt;
 &lt;p&gt;In a 3-active system, there are 3 servers available to handle requests.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
-    &amp;quot;predict1&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9696&amp;quot;
+    &quot;predict1&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9696&quot;
     },
-    &amp;quot;predict2&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9697&amp;quot;
+    &quot;predict2&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9697&quot;
     },
-    &amp;quot;predict3&amp;quot;: {
-        &amp;quot;status&amp;quot;: true,
-        &amp;quot;load&amp;quot;: 0,
-        &amp;quot;port&amp;quot;: &amp;quot;9698&amp;quot;
+    &quot;predict3&quot;: {
+        &quot;status&quot;: true,
+        &quot;load&quot;: 0,
+        &quot;port&quot;: &quot;9698&quot;
     }
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Then, ensure that in &lt;code class=&quot;language-text&quot;&gt;router.py&lt;/code&gt;, the &lt;code class=&quot;language-text&quot;&gt;topology&lt;/code&gt; variable is set to &lt;code class=&quot;language-text&quot;&gt;0&lt;/code&gt;. This will correspond to the single server system.&lt;/p&gt;
@@ -701,7 +701,7 @@ Investors - sounds cool, brings in the $$&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;You’ll need to download a &lt;a href=&quot;https://www.comodo.com/resources/small-business/digital-certificates.php&quot;&gt;Digital Certificate&lt;/a&gt; provided by Amazon to be able to connect to Keyspaces since the service only connects through TLS. To do so, use the following command in a terminal window - &lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; https://www.amazontrust.com/repository/AmazonRootCA1.pem -O&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; https://www.amazontrust.com/repository/AmazonRootCA1.pem &lt;span class=&quot;token parameter variable&quot;&gt;-O&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br /&gt;
 &lt;p&gt;Create a new folder in your working directory named &lt;code class=&quot;language-text&quot;&gt;.cassandra&lt;/code&gt; and move the &lt;code class=&quot;language-text&quot;&gt;AmazonRootCA1.pem&lt;/code&gt; file there. Just cleaning up the working space, tbh, you can keep it wherever you wish, as long as its accessible to your Python script.&lt;/p&gt;
 &lt;p&gt;Next, we shall need the &lt;code class=&quot;language-text&quot;&gt;cassandra-driver&lt;/code&gt; library for quick functionality to use Cassandra with Python. Run the following command to install it - &lt;/p&gt;
@@ -781,7 +781,7 @@ csql &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Cassandra&lt;sp
 
 &lt;span class=&quot;token comment&quot;&gt;# Insert Query&lt;/span&gt;
 results &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; csql&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;execute&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&quot;INSERT INTO users &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; age&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; city&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; \
-                        VALUES &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;6ab09bec&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e68e&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;48d9&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;a5f8&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;97e6fb4c9b47&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; \
+                        VALUES &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;6ab09bec&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e68e&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;48d9&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;a5f8&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;97e6fb4c9b47&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; \
                        &lt;span class=&quot;token string&quot;&gt;&apos;John&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;24&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Delhi&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&quot;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br /&gt;
 &lt;p&gt;Now, save the file and try executing it from the terminal using the following command - &lt;/p&gt;
@@ -794,7 +794,7 @@ results &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; csql&lt;span
 &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;x &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; x &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; results&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br /&gt;
 &lt;p&gt;You should see the output similar to this - &lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;[Row(id=UUID(&amp;#39;6ab09bec-e68e-48d9-a5f8-97e6fb4c9b47&amp;#39;), city=&amp;#39;Delhi&amp;#39;, age=24, name=&amp;#39;John&amp;#39;)]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;[Row(id=UUID(&apos;6ab09bec-e68e-48d9-a5f8-97e6fb4c9b47&apos;), city=&apos;Delhi&apos;, age=24, name=&apos;John&apos;)]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br /&gt;
 &lt;p&gt;If not, you need to observe the error message and try fixing the code! You can find the full code for this tutorial at - &lt;a href=&quot;https://github.com/xprilion/python-amazon-keyspaces&quot;&gt;https://github.com/xprilion/python-amazon-keyspaces&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cassandra can be a great tool if you’re looking to build highly scalable and mission-critical applications (given you need something like Cassandra, at all) and Amazon Keyspaces makes it very simple and efficient to use and manage.&lt;/p&gt;
@@ -905,7 +905,7 @@ mongo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; PyMongo&lt;spa
     &lt;span class=&quot;token keyword&quot;&gt;except&lt;/span&gt; Exception &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; e&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
         output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;error&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;e&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
         &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; send&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;output&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; HTTP_BAD_REQUEST&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;In the code above, you see that we created a &lt;code class=&quot;language-text&quot;&gt;/&amp;lt;collection_name&amp;gt;&lt;/code&gt; route. This means that we have kept the collection name generic, and whatever collection name is being passed to it, the API will attempt to insert data into it, or if it doesn’t exist yet in the database, it will first create the collection and then insert the item.&lt;/p&gt;
+&lt;p&gt;In the code above, you see that we created a &lt;code class=&quot;language-text&quot;&gt;/&amp;lt;collection_name&gt;&lt;/code&gt; route. This means that we have kept the collection name generic, and whatever collection name is being passed to it, the API will attempt to insert data into it, or if it doesn’t exist yet in the database, it will first create the collection and then insert the item.&lt;/p&gt;
 &lt;p&gt;The API returns an &lt;code class=&quot;language-text&quot;&gt;id&lt;/code&gt; which is useful for entry level operations like reading a single entry, updating it or deleting it.&lt;/p&gt;
 &lt;h3&gt;Step 5: Read API&lt;/h3&gt;
 &lt;p&gt;Next, we shall create an API to read the entries in the collection. There can be two instances of read - one in which you try to read exactly 1 entry and the other where you need all entries. Let us create these.&lt;/p&gt;
@@ -1148,11 +1148,11 @@ To integrate machine learning with your mobile apps, you\&apos;ll need a model i
 &lt;li&gt;Install package using following command:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg -i --force-depends fahclient_7.4.4_amd64.deb
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -f
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg &lt;span class=&quot;token parameter variable&quot;&gt;-i&lt;/span&gt; --force-depends fahclient_7.4.4_amd64.deb
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-f&lt;/span&gt;
 
 &lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; -i --nodeps fahclient-7.4.4-1.x86_64.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--nodeps&lt;/span&gt; fahclient-7.4.4-1.x86_64.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ol start=&quot;3&quot;&gt;
 &lt;li&gt;Enter a name, &lt;code class=&quot;language-text&quot;&gt;team number 250120&lt;/code&gt; (to join our team, use 0 for no team), and Passkey.&lt;/li&gt;
 &lt;li&gt;Complete the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt; installation.&lt;/li&gt;
@@ -1167,11 +1167,11 @@ To integrate machine learning with your mobile apps, you\&apos;ll need a model i
 &lt;li&gt;Install FAHControl using the following command:&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Debian/Ubuntu/Mint&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg -i --force-depends fahcontrol_7.4.4-1_all.deb
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -f
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; dpkg &lt;span class=&quot;token parameter variable&quot;&gt;-i&lt;/span&gt; --force-depends fahcontrol_7.4.4-1_all.deb
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-f&lt;/span&gt;
 
 &lt;span class=&quot;token comment&quot;&gt;# RedHat / CentOS / Fedora&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; -i --nodeps fahcontrol-7.4.4-1.noarch.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rpm&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--nodeps&lt;/span&gt; fahcontrol-7.4.4-1.noarch.rpm&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;Setup on a VM&lt;/h3&gt;
 &lt;p&gt;After provisioning your VM, assuming it is a Linux VM (we prefer Ubuntu 18.04 LTS), follow the given steps - &lt;/p&gt;
 &lt;h4&gt;Steps to be performed on VM&lt;/h4&gt;
@@ -1201,30 +1201,30 @@ sudo apt install -f&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;nano&lt;/span&gt; /etc/fahclient/config.xml&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Your file should look like:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;config&amp;gt;
-  &amp;lt;!-- Client Control --&amp;gt;
-  &amp;lt;fold-anon v=&amp;#39;true&amp;#39;/&amp;gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;config&gt;
+  &amp;lt;!-- Client Control --&gt;
+  &amp;lt;fold-anon v=&apos;true&apos;/&gt;
 
-  &amp;lt;!-- Folding Slot Configuration --&amp;gt;
-  &amp;lt;gpu v=&amp;#39;false&amp;#39;/&amp;gt;
+  &amp;lt;!-- Folding Slot Configuration --&gt;
+  &amp;lt;gpu v=&apos;false&apos;/&gt;
 
-  &amp;lt;!-- HTTP Server --&amp;gt;
-  &amp;lt;allow v=&amp;#39;127.0.0.1 your_local_system_ip&amp;#39;/&amp;gt;
+  &amp;lt;!-- HTTP Server --&gt;
+  &amp;lt;allow v=&apos;127.0.0.1 your_local_system_ip&apos;/&gt;
 
-  &amp;lt;!-- Slot Control --&amp;gt;
-  &amp;lt;power v=&amp;#39;full&amp;#39;/&amp;gt;
+  &amp;lt;!-- Slot Control --&gt;
+  &amp;lt;power v=&apos;full&apos;/&gt;
 
-  &amp;lt;!-- User Information --&amp;gt;
-  &amp;lt;passkey v=&amp;#39;your_passkey&amp;#39;/&amp;gt;
-  &amp;lt;team v=&amp;#39;250120&amp;#39;/&amp;gt;
-  &amp;lt;user v=&amp;#39;your_name&amp;#39;/&amp;gt;
+  &amp;lt;!-- User Information --&gt;
+  &amp;lt;passkey v=&apos;your_passkey&apos;/&gt;
+  &amp;lt;team v=&apos;250120&apos;/&gt;
+  &amp;lt;user v=&apos;your_name&apos;/&gt;
 
-  &amp;lt;!-- Web Server --&amp;gt;
-  &amp;lt;web-allow v=&amp;#39;127.0.0.1 your_local_system_ip&amp;#39;/&amp;gt;
+  &amp;lt;!-- Web Server --&gt;
+  &amp;lt;web-allow v=&apos;127.0.0.1 your_local_system_ip&apos;/&gt;
 
-  &amp;lt;!-- Folding Slots --&amp;gt;
-  &amp;lt;slot id=&amp;#39;0&amp;#39; type=&amp;#39;CPU&amp;#39;/&amp;gt;
-&amp;lt;/config&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &amp;lt;!-- Folding Slots --&gt;
+  &amp;lt;slot id=&apos;0&apos; type=&apos;CPU&apos;/&gt;
+&amp;lt;/config&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ol start=&quot;8&quot;&gt;
 &lt;li&gt;Restart the &lt;code class=&quot;language-text&quot;&gt;FAHClient&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -1301,11 +1301,11 @@ Venkat was a much loved and highly respected engineer whose career took him to Y
 &lt;p&gt;We specifically face the problem of differentiating them in Flask/Django/NodeJS applications because these are runtimes which require the user to define which IP (or routes) to listen on. If you’ve ever tried web development on PHP, you’d realize that the &lt;code class=&quot;language-text&quot;&gt;localhost&lt;/code&gt; web server was accessible using the IP of the computer’s LAN as well from other devices (say your mobile). This is because by default Apache listens on &lt;code class=&quot;language-text&quot;&gt;*:80&lt;/code&gt; which essentially means &lt;code class=&quot;language-text&quot;&gt;0.0.0.0:80&lt;/code&gt;, as given in its default virtual host configuration file - &lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Ensure that Apache listens on port 80
 Listen 80
-&amp;lt;VirtualHost *:80&amp;gt;  # Notice this
-    DocumentRoot &amp;quot;/var/www/html&amp;quot; # OR &amp;quot;C:/xampp/htdocs&amp;quot; for Windows systems with XAMPP installation
+&amp;lt;VirtualHost *:80&gt;  # Notice this
+    DocumentRoot &quot;/var/www/html&quot; # OR &quot;C:/xampp/htdocs&quot; for Windows systems with XAMPP installation
 
     # Other directives here
-&amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[OMG, a new look!]]></title><description><![CDATA[Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was…]]></description><link>https://xprilion.com/hello-world/</link><guid isPermaLink="false">https://xprilion.com/hello-world/</guid><pubDate>Sun, 24 Nov 2019 09:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was unexciting, and there was no fresh content on it. But did that worry me? Oh yes.&lt;/p&gt;
+&amp;lt;/VirtualHost&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[OMG, a new look!]]></title><description><![CDATA[Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was…]]></description><link>https://xprilion.com/hello-world/</link><guid isPermaLink="false">https://xprilion.com/hello-world/</guid><pubDate>Sun, 24 Nov 2019 09:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was unexciting, and there was no fresh content on it. But did that worry me? Oh yes.&lt;/p&gt;
 &lt;h2&gt;So what did I do about it?&lt;/h2&gt;
 &lt;h3&gt;Ditch PHP website&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ &lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;I are poor men&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
