@@ -5,6 +5,7 @@
 <url> <loc>https://xprilion.com/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/talks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xprilion.com/job-scheduling-on-google-cloud-platform/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/python-websockets-ssl-with-lets-encrypt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/high-availability-ml-deployments/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xprilion.com/divide-vs-unite/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
