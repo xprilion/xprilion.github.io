@@ -93,6 +93,7 @@
 <p>Then, publish a message to the Cloud Pub/Sub topic:</p>
 <div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash">gcloud pubsub topics publish my-data-topic <span class="token parameter variable">--message</span> <span class="token string">'{"data": "your-data-here"}'</span></code></pre></div>
 <p>This command publishes a message containing data to the <code class="language-text">my-data-topic</code> topic, which triggers the <code class="language-text">processData</code> function.</p>
+<p>The code for this function has not been included in this blog for sake of focus on the topic. You can check it out in this <a href="https://gist.github.com/xprilion/b2b763e11c3d4a51a90e2dfa8f49210d">Github Gist</a>.</p>
 <h3>Hybrid Example: Inventory Management</h3>
 <p>Manage inventory with hybrid scheduling, using time-based tasks for restocking and event-based tasks for real-time updates. For instance, you can create a Cloud Scheduler job for periodic restocking and a Cloud Function triggered by Cloud Pub/Sub for processing real-time inventory updates.</p>
 <p>First, create the Cloud Scheduler job for restocking:</p>
