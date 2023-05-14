@@ -45,16 +45,67 @@
 <ol>
 <li>
 <p><strong>Build the Docker image</strong>: Run the following command in the terminal, in the directory containing your Dockerfile. This command builds a Docker image with the tag <code class="language-text">my-python-app</code>.</p>
-<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">docker build -t my-python-app .</code></pre></div>
+<div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash"><span class="token function">docker</span> build <span class="token parameter variable">-t</span> my-python-app <span class="token builtin class-name">.</span></code></pre></div>
 </li>
 <li>
 <p><strong>Run the Docker container</strong>: Run the Docker container from the image you just created. Replace <code class="language-text">$PORT</code> with the port number you want to use.</p>
-<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">docker run -p $PORT:8080 -e PORT=8080 my-python-app</code></pre></div>
+<div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash"><span class="token function">docker</span> run <span class="token parameter variable">-p</span> <span class="token variable">$PORT</span>:8080 <span class="token parameter variable">-e</span> <span class="token assign-left variable">PORT</span><span class="token operator">=</span><span class="token number">8080</span> my-python-app</code></pre></div>
 <p>This command runs the Docker container, mapping the host’s <code class="language-text">$PORT</code> to the container’s <code class="language-text">8080</code> port, which the Flask application inside the Docker container is listening on.</p>
 </li>
 </ol>
 <p>Remember, you need to have Docker installed on your machine to execute these commands.</p>
-<p>In production scenarios, you would push your Docker image to a Docker registry (like Docker Hub, Google Container Registry, or AWS Elastic Container Registry), then pull and run the Docker image from machines where you want your application to run. Also, orchestration tools like Kubernetes, Docker Swarm, or managed services like Google Cloud Run, AWS ECS/Fargate could be used to handle deployment, scaling, and management of Docker containers in a production setting.</p></div><form action="https://tinyletter.com/xprilion" method="post" target="popupwindow" class="SignupForm"><h3>Subscribe to my newsletter</h3><i>I often write about my experiences, sometimes tech, sometimes life</i><br/><div class="Wrapper"><input type="text" aria-label="Email address" placeholder="Enter your email..." name="email" required="" id="tlemail"/><input type="hidden" value="1" name="embed"/><button type="submit">OK</button></div></form><div id="cusdis_thread" data-host="https://cusdis.com" data-page-id="130520231708" data-app-id="e9bc0bcb-d463-4f63-8604-34e78a1ec232" data-page-title="Docker Python Dump HTTP Request Example" data-page-url="https://xprilion.com/docker-python-dump-http-request/"></div></div></main><hr/><footer style="max-width:800px;margin-left:auto;margin-right:auto">© Anubhav Singh <!-- -->2023<div style="display:inline-block;float:right"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/sitemap.xml">Sitemap</a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
+<p>In production scenarios, you would push your Docker image to a Docker registry (like Docker Hub, Google Container Registry, or AWS Elastic Container Registry), then pull and run the Docker image from machines where you want your application to run. Also, orchestration tools like Kubernetes, Docker Swarm, or managed services like Google Cloud Run, AWS ECS/Fargate could be used to handle deployment, scaling, and management of Docker containers in a production setting.</p>
+<p>When you hit the endpoint created by deploying this code, you’ll get a response similar to the one below:</p>
+<div class="gatsby-highlight" data-language="json"><pre class="language-json"><code class="language-json"><span class="token punctuation">{</span>
+    <span class="token property">"uuid"</span><span class="token operator">:</span> <span class="token string">"f50cc7d0f26511eda4bb75c989e55f1e"</span><span class="token punctuation">,</span>
+    <span class="token property">"endpoint"</span><span class="token operator">:</span> <span class="token string">"hello_world"</span><span class="token punctuation">,</span>
+    <span class="token property">"method"</span><span class="token operator">:</span> <span class="token string">"GET"</span><span class="token punctuation">,</span>
+    <span class="token property">"cookies"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token property">"cookie-name"</span><span class="token operator">:</span> <span class="token string">"cookie-value"</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token property">"data"</span><span class="token operator">:</span> <span class="token string">"b''"</span><span class="token punctuation">,</span>
+    <span class="token property">"headers"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token property">"Host"</span><span class="token operator">:</span> <span class="token string">"test-cloud-run-custom.xpri.dev"</span><span class="token punctuation">,</span>
+        <span class="token property">"Cache-Control"</span><span class="token operator">:</span> <span class="token string">"max-age=0"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua"</span><span class="token operator">:</span> <span class="token string">"\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Mobile"</span><span class="token operator">:</span> <span class="token string">"?0"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Platform"</span><span class="token operator">:</span> <span class="token string">"\"macOS\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Upgrade-Insecure-Requests"</span><span class="token operator">:</span> <span class="token string">"1"</span><span class="token punctuation">,</span>
+        <span class="token property">"User-Agent"</span><span class="token operator">:</span> <span class="token string">"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"</span><span class="token punctuation">,</span>
+        <span class="token property">"Accept"</span><span class="token operator">:</span> <span class="token string">"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Arch"</span><span class="token operator">:</span> <span class="token string">"\"arm\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Platform-Version"</span><span class="token operator">:</span> <span class="token string">"\"13.3.1\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Model"</span><span class="token operator">:</span> <span class="token string">"\"\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Bitness"</span><span class="token operator">:</span> <span class="token string">"\"64\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Wow64"</span><span class="token operator">:</span> <span class="token string">"?0"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Ch-Ua-Full-Version-List"</span><span class="token operator">:</span> <span class="token string">"\"Chromium\";v=\"112.0.5615.137\", \"Google Chrome\";v=\"112.0.5615.137\", \"Not:A-Brand\";v=\"99.0.0.0\""</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Fetch-Site"</span><span class="token operator">:</span> <span class="token string">"none"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Fetch-Mode"</span><span class="token operator">:</span> <span class="token string">"navigate"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Fetch-User"</span><span class="token operator">:</span> <span class="token string">"?1"</span><span class="token punctuation">,</span>
+        <span class="token property">"Sec-Fetch-Dest"</span><span class="token operator">:</span> <span class="token string">"document"</span><span class="token punctuation">,</span>
+        <span class="token property">"Accept-Language"</span><span class="token operator">:</span> <span class="token string">"en-US,en;q=0.9"</span><span class="token punctuation">,</span>
+        <span class="token property">"X-Cloud-Trace-Context"</span><span class="token operator">:</span> <span class="token string">"7361fa590088de543df325a9832ab85e/4131215564459013469"</span><span class="token punctuation">,</span>
+        <span class="token property">"Traceparent"</span><span class="token operator">:</span> <span class="token string">"00-7361fa590088de543df325a9832ab85e-395506aaf224f55d-00"</span><span class="token punctuation">,</span>
+        <span class="token property">"X-Forwarded-For"</span><span class="token operator">:</span> <span class="token string">"2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx"</span><span class="token punctuation">,</span>
+        <span class="token property">"X-Forwarded-Proto"</span><span class="token operator">:</span> <span class="token string">"https"</span><span class="token punctuation">,</span>
+        <span class="token property">"Forwarded"</span><span class="token operator">:</span> <span class="token string">"for=\"[2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx]\";proto=https"</span><span class="token punctuation">,</span>
+        <span class="token property">"Accept-Encoding"</span><span class="token operator">:</span> <span class="token string">"gzip, deflate, br"</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token property">"args"</span><span class="token operator">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token property">"form"</span><span class="token operator">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token property">"remote_addr"</span><span class="token operator">:</span> <span class="token string">"169.xxx.xxx.xxx"</span><span class="token punctuation">,</span>
+    <span class="token property">"files"</span><span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+<span class="token punctuation">}</span></code></pre></div>
+<p>This response is a JSON representation of the details of an HTTP GET request received by the server. Let’s break down what each key-value pair means:</p>
+<p>“uuid”: “f50cc7d0f26511eda4bb75c989e55f1e”: This is a unique identifier for this request. It will change every time.</p>
+<p>“endpoint”: “hello_world”: The name of the endpoint that was hit. It corresponds to the function handling the request in the Flask application.</p>
+<p>“method”: “GET”: The HTTP method used for this request.</p>
+<p>“cookies”: {“cookie-name”: “cookie-value”}: The cookies sent with this request. In this case, there is one cookie named “cookie-name” with a value of “cookie-value”.</p>
+<p>“data”: “b””: The data sent with this request. In this case, no data was sent.</p>
+<p>“headers”: This is a dictionary containing all the HTTP headers that were sent with the request. This includes information about the client, the accepted response types, and more.</p>
+<p>“args”: {} and “form”: {}: These would contain any query parameters or form data sent with the request. In this case, none were sent.</p>
+<p>“remote_addr”: “169.xxx.xxx.xxx”: This is the IP address of the client that sent the request.</p>
+<p>“files”: []: This would contain any files sent with the request. In this case, none were sent.</p></div><form action="https://tinyletter.com/xprilion" method="post" target="popupwindow" class="SignupForm"><h3>Subscribe to my newsletter</h3><i>I often write about my experiences, sometimes tech, sometimes life</i><br/><div class="Wrapper"><input type="text" aria-label="Email address" placeholder="Enter your email..." name="email" required="" id="tlemail"/><input type="hidden" value="1" name="embed"/><button type="submit">OK</button></div></form><div id="cusdis_thread" data-host="https://cusdis.com" data-page-id="130520231708" data-app-id="e9bc0bcb-d463-4f63-8604-34e78a1ec232" data-page-title="Docker Python Dump HTTP Request Example" data-page-url="https://xprilion.com/docker-python-dump-http-request/"></div></div></main><hr/><footer style="max-width:800px;margin-left:auto;margin-right:auto">© Anubhav Singh <!-- -->2023<div style="display:inline-block;float:right"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/sitemap.xml">Sitemap</a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
   
   
   if(true) {
