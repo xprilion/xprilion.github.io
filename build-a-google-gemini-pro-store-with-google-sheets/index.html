@@ -12,6 +12,9 @@ Have you ever been in a situation where you had to qualitatively analyse a large
 <p>Duration: 1</p>
 <p>Have you ever been in a situation where you had to qualitatively analyse a large amount of data on a spreadsheet and you wished for someone to take away your pain? With Google's Gemini running directly in your Google Sheets you can now have a super smart AI assistant do the grind work for you!</p>
 <p>In this article, we'll cover a very simple way of giving personalities or specific roles to your Gemini powered API calls via the simple and popular interface of Google Sheets!</p>
+<p>Here's a screen recording of what we're building:</p>
+<div class="embed-wrapper"><div class="embed-loading"><div class="loadingRow"></div><div class="loadingRow"></div></div><a class="embed-card" href="https://youtu.be/KqUNS9WoMkQ">https://youtu.be/KqUNS9WoMkQ</a></div>
+<p> </p>
 <h2 id="heading-requirements">Requirements</h2>
 <p>Duration: 2</p>
 <p>In order to follow this codelab, you'll need the following:</p>
@@ -41,9 +44,22 @@ Have you ever been in a situation where you had to qualitatively analyse a large
 <p>Duration: 5</p>
 <p>Let us setup your Google Sheet to work like a Gemini Store. To do so, we'll create a second sheet in the default Google Sheet document titled "Geminis".</p>
 <p>Fill the following data in this sheet (only for example, you can change as per your wish):</p>
-<table><tbody><tr><td><p>name</p></td><td><p>sys prompt</p></td></tr><tr><td><p>Pilot Gemini</p></td><td><p>Drawing on your extensive experience as a seasoned pilot, how would you explain or advise on the following aviation-related query? Use a lot of Pilot terms!</p></td></tr><tr><td><p>Pirate Gemini</p></td><td><p>As a legendary pirate who has sailed the seven seas, how would you respond to this inquiry with your adventurous spirit and nautical knowledge? Reply in pirate language only.</p></td></tr><tr><td><p>Techie Gemini</p></td><td><p>As a tech enthusiast with a passion for the latest gadgets and innovations, how would you explain or solve this technology-related problem? Use techie terms!</p></td></tr></tbody></table>
-
-<h2 id="heading-setup-your-apps-script">Setup your Apps Script</h2>
+<div class="hn-table">
+<table>
+<thead>
+<tr>
+<td>name</td><td>sys prompt</td></tr>
+</thead>
+<tbody>
+<tr>
+<td>Pilot Gemini</td><td>Drawing on your extensive experience as a seasoned pilot, how would you explain or advise on the following aviation-related query? Use a lot of Pilot terms!</td></tr>
+<tr>
+<td>Pirate Gemini</td><td>As a legendary pirate who has sailed the seven seas, how would you respond to this inquiry with your adventurous spirit and nautical knowledge? Reply in pirate language only.</td></tr>
+<tr>
+<td>Techie Gemini</td><td>As a tech enthusiast with a passion for the latest gadgets and innovations, how would you explain or solve this technology-related problem? Use techie terms!</td></tr>
+</tbody>
+</table>
+</div><h2 id="heading-setup-your-apps-script">Setup your Apps Script</h2>
 <p>Duration: 3</p>
 <p>We will now create the AppScript code to interface between Google Sheets and the Gemini Pro API.</p>
 <ol>
