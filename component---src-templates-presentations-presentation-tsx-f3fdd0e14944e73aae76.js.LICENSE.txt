@@ -1,6 +1,6 @@
 /**
  * @license React
- * react-server-dom-webpack.production.min.js
+ * react-jsx-runtime.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
