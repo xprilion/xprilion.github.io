@@ -11,7 +11,7 @@ b:I[2223,[],""]
 :HL["/_next/static/css/e860dc25c955b608.css","style"]
 :HL["/_next/static/css/2dba37557e579c7e.css","style"]
 :HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
-0:{"P":null,"b":"bkgYRAEmQiiaRkJi7pI_N","p":"","c":["","golang-vs-python-api-performance-load-test"],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","golang-vs-python-api-performance-load-test","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e860dc25c955b608.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/png","href":"/apple-icon.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/icon0.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"xprilion's blog"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","meta",null,{"name":"theme-color","content":"#7b46f6"}],["$","meta",null,{"charSet":"utf-8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"itemProp":"name","content":"xprilion's blog"}],["$","meta",null,{"itemProp":"description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"itemProp":"image","content":"/favicon.png"}],["$","meta",null,{"property":"og:title","content":"xprilion's blog"}],["$","meta",null,{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"property":"og:image","content":"/favicon.png"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"name":"twitter:card","content":"summary_large_image"}],["$","meta",null,{"name":"twitter:site","content":"@xprilion"}],["$","meta",null,{"name":"twitter:creator","content":"@xprilion"}],["$","meta",null,{"name":"twitter:title","content":"xprilion's blog"}],["$","meta",null,{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"name":"twitter:image","content":"/favicon.png"}]]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L6","$L7"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","golang-vs-python-api-performance-load-test","d"],"$L8",{"children":["__PAGE__","$L9",{},null,false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+0:{"P":null,"b":"8FgTwGgTIIcdGeRh0o67R","p":"","c":["","golang-vs-python-api-performance-load-test"],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","golang-vs-python-api-performance-load-test","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e860dc25c955b608.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/png","href":"/apple-icon.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/icon0.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"xprilion's blog"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","meta",null,{"name":"theme-color","content":"#7b46f6"}],["$","meta",null,{"charSet":"utf-8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"itemProp":"name","content":"xprilion's blog"}],["$","meta",null,{"itemProp":"description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"itemProp":"image","content":"/favicon.png"}],["$","meta",null,{"property":"og:title","content":"xprilion's blog"}],["$","meta",null,{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"property":"og:image","content":"/favicon.png"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"name":"twitter:card","content":"summary_large_image"}],["$","meta",null,{"name":"twitter:site","content":"@xprilion"}],["$","meta",null,{"name":"twitter:creator","content":"@xprilion"}],["$","meta",null,{"name":"twitter:title","content":"xprilion's blog"}],["$","meta",null,{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"name":"twitter:image","content":"/favicon.png"}]]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L6","$L7"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","golang-vs-python-api-performance-load-test","d"],"$L8",{"children":["__PAGE__","$L9",{},null,false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
 d:I[3424,[],"OutletBoundary"]
 f:I[7001,[],"AsyncMetadataOutlet"]
 11:I[3424,[],"ViewportBoundary"]
@@ -24,35 +24,49 @@ f:I[7001,[],"AsyncMetadataOutlet"]
 a:["$","$1","h",{"children":[null,[["$","$L11",null,{"children":"$L12"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L13",null,{"children":["$","div",null,{"hidden":true,"children":["$","$14",null,{"fallback":null,"children":"$L15"}]}]}]]}]
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:null
-16:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-10bdac749bc0ce9b.js"],"default"]
-17:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-10bdac749bc0ce9b.js"],""]
-18:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-10bdac749bc0ce9b.js"],"default"]
-19:T15a7,<p>In 2016, when I had started learning Python, I was increasingly convinced it would be the last programming language I would learn. After countless projects created with Python, a couple of technical books written, I am now learning Golang.</p><p>Why?</p><p>While working on <a href="https://callchimp.ai">Callchimp.ai</a>, the team came across a requirement of an efficient multithreading component as part of the system infrastructure. We initially tried to pull it off using Python but the code kept getting very ugly very soon, along with being slightly beyond our understanding of how it was working.</p><p>Hence, I decided to take a page from the book of world's multithreading king - Google.</p><p>But before I could commit to re-writing the functionality of our component using Golang, I needed concrete numbers to support the "uh..its faster..like zip-zap-zoom faster" comparison of Golang with Python.</p><p>Here's a short walkthrough of how I put "zip-zap-zoom faster" into a number.</p><h2 id="create-a-minimal-golang-server">Create a minimal Golang server</h2><p>First up, I created a barebones web server using Golang:</p><pre><code class="language-go">// server.go
+16:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],"default"]
+17:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],""]
+18:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],"default"]
+19:T14d4,<p>In 2016, when I had started learning Python, I was increasingly convinced it would be the last programming language I would learn. After countless projects created with Python, a couple of technical books written, I am now learning Golang.</p>
+<p>Why?</p>
+<p>While working on <a href="https://callchimp.ai">Callchimp.ai</a>, the team came across a requirement of an efficient multithreading component as part of the system infrastructure. We initially tried to pull it off using Python but the code kept getting very ugly very soon, along with being slightly beyond our understanding of how it was working.</p>
+<p>Hence, I decided to take a page from the book of world&#39;s multithreading king - Google.</p>
+<p>But before I could commit to re-writing the functionality of our component using Golang, I needed concrete numbers to support the &quot;uh..its faster..like zip-zap-zoom faster&quot; comparison of Golang with Python.</p>
+<p>Here&#39;s a short walkthrough of how I put &quot;zip-zap-zoom faster&quot; into a number.</p>
+<h2>Create a minimal Golang server</h2>
+<p>First up, I created a barebones web server using Golang:</p>
+<pre><code class="language-go">// server.go
 
 package main
 
 import (
-	"fmt"
-	"net/http"
+	&quot;fmt&quot;
+	&quot;net/http&quot;
 )
 
 func greetHandler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello, visitor! You've requested: %s\n", r.URL.Path)
+	fmt.Fprintf(w, &quot;Hello, visitor! You&#39;ve requested: %s\n&quot;, r.URL.Path)
 }
 
 func main() {
 	// Register the greetHandler with the default mux (router)
-	http.HandleFunc("/", greetHandler)
+	http.HandleFunc(&quot;/&quot;, greetHandler)
 
 	// Start the web server on port 8080 and log any errors
-	fmt.Println("Starting server on :8080")
-	if err := http.ListenAndServe(":8080", nil); err != nil {
-		fmt.Printf("Error starting server: %s\n", err)
+	fmt.Println(&quot;Starting server on :8080&quot;)
+	if err := http.ListenAndServe(&quot;:8080&quot;, nil); err != nil {
+		fmt.Printf(&quot;Error starting server: %s\n&quot;, err)
 	}
 }
-</code></pre><p>This I compiled to an executable and started its execution on port <code>8080</code> using the following commands:</p><pre><code class="language-bash">go build -o mygoserver server.go
+</code></pre>
+<p>This I compiled to an executable and started its execution on port <code>8080</code> using the following commands:</p>
+<pre><code class="language-bash">go build -o mygoserver server.go
 ./mygoserver
-</code></pre><p>Next, I needed an equivalent Python server.</p><h2 id="create-a-minimal-python-server">Create a minimal Python server</h2><p>Since I was relying on Golang's native http library for the server, it made sense to do the same for Python. Hence, a minimal equivalent server was written:</p><pre><code class="language-python"># server.py
+</code></pre>
+<p>Next, I needed an equivalent Python server.</p>
+<h2>Create a minimal Python server</h2>
+<p>Since I was relying on Golang&#39;s native http library for the server, it made sense to do the same for Python. Hence, a minimal equivalent server was written:</p>
+<pre><code class="language-python"># server.py
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
@@ -61,25 +75,39 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
         self.end_headers()
-        self.wfile.write(f"Hello, visitor! You've requested: {self.path}\n".encode())
+        self.wfile.write(f&quot;Hello, visitor! You&#39;ve requested: {self.path}\n&quot;.encode())
 
 def run(server_class=HTTPServer, handler_class=SimpleHTTPRequestHandler, port=8081):
-    server_address = ('', port)
+    server_address = (&#39;&#39;, port)
     httpd = server_class(server_address, handler_class)
-    print(f"Starting server on :{port}")
+    print(f&quot;Starting server on :{port}&quot;)
     httpd.serve_forever()
 
-if __name__ == "__main__":
+if __name__ == &quot;__main__&quot;:
     run()
-</code></pre><p>This, I ran on port <code>8081</code> using the following command:</p><pre><code class="language-bash">python server.py
-</code></pre><p>With the servers up and running, I was ready to start testing them.</p><h2 id="install-a-load-test-tool">Install a load test tool</h2><p>To perform the load test, I needed an appropriate tool. I decided to use "rakyll/hey" for this - <a href="https://github.com/rakyll/hey">https://github.com/rakyll/hey</a>. This amazing tool is super lightweight and (interestingly?) written in Golang.</p><p>Then I ran the following commands in sequence to generate outputs which I compiled in the table that comes afterwards:</p><h4 id="time-taken-to-respond-to-10000-requests-100-concurrent-requests">Time taken to respond to 10,000 requests, 100 concurrent requests</h4><pre><code class="language-bash">time bash -c 'hey -n 10000 -c 100 http://localhost:8080/abc &gt;&gt; /dev/null'
-time bash -c 'hey -n 10000 -c 100 http://localhost:8081/abc &gt;&gt; /dev/null'
-</code></pre><h4 id="how-many-requests-can-it-respond-to-in-5-seconds-100-concurrent-requests">How many requests can it respond to in 5 seconds, 100 concurrent requests</h4><pre><code class="language-bash">hey -z=5s -c 100 http://localhost:8080/abc
+</code></pre>
+<p>This, I ran on port <code>8081</code> using the following command:</p>
+<pre><code class="language-bash">python server.py
+</code></pre>
+<p>With the servers up and running, I was ready to start testing them.</p>
+<h2>Install a load test tool</h2>
+<p>To perform the load test, I needed an appropriate tool. I decided to use &quot;rakyll/hey&quot; for this - <a href="https://github.com/rakyll/hey">https://github.com/rakyll/hey</a>. This amazing tool is super lightweight and (interestingly?) written in Golang.</p>
+<p>Then I ran the following commands in sequence to generate outputs which I compiled in the table that comes afterwards:</p>
+<h4>Time taken to respond to 10,000 requests, 100 concurrent requests</h4>
+<pre><code class="language-bash">time bash -c &#39;hey -n 10000 -c 100 http://localhost:8080/abc &gt;&gt; /dev/null&#39;
+time bash -c &#39;hey -n 10000 -c 100 http://localhost:8081/abc &gt;&gt; /dev/null&#39;
+</code></pre>
+<h4>How many requests can it respond to in 5 seconds, 100 concurrent requests</h4>
+<pre><code class="language-bash">hey -z=5s -c 100 http://localhost:8080/abc
 hey -z=5s -c 100 http://localhost:8081/abc
-</code></pre><h4 id="how-many-requests-can-it-respond-to-in-5-seconds-1-concurrent-request">How many requests can it respond to in 5 seconds, 1 concurrent request</h4><pre><code class="language-bash">hey -z=5s -c 1 http://localhost:8080/abc
+</code></pre>
+<h4>How many requests can it respond to in 5 seconds, 1 concurrent request</h4>
+<pre><code class="language-bash">hey -z=5s -c 1 http://localhost:8080/abc
 hey -z=5s -c 1 http://localhost:8081/abc
-</code></pre><p>With the tests done, it was time for the moment of truth.</p><h2 id="compiling-the-results">Compiling the results</h2><p>After running the tests, I put together my findings in this table -</p>
-<!--kg-card-begin: html-->
+</code></pre>
+<p>With the tests done, it was time for the moment of truth.</p>
+<h2>Compiling the results</h2>
+<p>After running the tests, I put together my findings in this table -</p>
 <table>
 <thead>
 <tr>
@@ -90,8 +118,7 @@ hey -z=5s -c 1 http://localhost:8081/abc
 <th>Errors</th>
 </tr>
 </thead>
-<tbody>
-<tr>
+<tbody><tr>
 <td>Python</td>
 <td>10000</td>
 <td>100</td>
@@ -133,13 +160,18 @@ hey -z=5s -c 1 http://localhost:8081/abc
 <td>5</td>
 <td>0</td>
 </tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>Hence the verdict came out to be -</p><ol><li>Single concurrent request: Golang is 17x faster than Python.</li><li>100 concurrent requests: Golang is 60x faster than Python.</li></ol><h2 id="conclusion">Conclusion</h2><p>Friends, Romans, countrymen, I am so learning Golang.</p>c:["$","$L16",null,{"children":[["$","div",null,{"className":"mb-6","children":[["$","$L17",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Golang vs Python: API Performance Load Test"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"27 February, 2024"}]]}],null,["$","$L18",null,{"html":"$19","slug":"golang-vs-python-api-performance-load-test","title":"Golang vs Python: API Performance Load Test"}],"$L1a","$L1b"]}]
-1c:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-10bdac749bc0ce9b.js"],""]
+</tbody></table>
+<p>Hence the verdict came out to be -</p>
+<ul>
+<li>Single concurrent request: Golang is 17x faster than Python.</li>
+<li>100 concurrent requests: Golang is 60x faster than Python.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Friends, Romans, countrymen, I am so learning Golang.</p>
+c:["$","$L16",null,{"children":[["$","div",null,{"className":"mb-6","children":[["$","$L17",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Golang vs Python: API Performance Load Test"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"2 May, 2025"}]]}],"",["$","$L18",null,{"html":"$19","slug":"golang-vs-python-api-performance-load-test","title":"Golang vs Python: API Performance Load Test"}],"$L1a","$L1b"]}]
+1c:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],""]
 1a:["$","$L1c",null,{"id":"MathJax-script","src":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js","async":true,"strategy":"afterInteractive"}]
 1b:["$","$L1c",null,{"id":"MathJax-config","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"\n          MathJax = {\n            tex: {\n              inlineMath: [['((', '))']],\n              displayMath: [['[[', ']]']],\n            },\n            svg: {\n              fontCache: 'global'\n            }\n          };\n        "}}]
 1d:I[9993,[],"IconMark"]
-10:{"metadata":[["$","title","0",{"children":"Golang vs Python: API Performance Load Test"}],["$","meta","1",{"name":"description","content":"In 2016, when I had started learning Python, I was increasingly convinced it would be the last programming language I would learn. After countless projects created with Python, a couple of technical books written, I am now learning Golang.\n\nWhy?\n\nWhile working on Callchimp.ai, the team came across a requirement of an efficient multithreading component as part of the system infrastructure. We initially tried to pull it off using Python but the code kept getting very ugly very soon, along with bei"}],["$","link","2",{"rel":"icon","href":"/logo.jpg"}],["$","$L1d","3",{}]],"error":null,"digest":"$undefined"}
+10:{"metadata":[["$","title","0",{"children":"Golang vs Python: API Performance Load Test"}],["$","meta","1",{"name":"description","content":"In 2016, when I had started learning Python, I was increasingly convinced it would be the last programming language I would learn. After countless projects created with Python, a couple of technical b"}],["$","link","2",{"rel":"icon","href":"/logo.jpg"}],["$","$L1d","3",{}]],"error":null,"digest":"$undefined"}
 15:"$10:metadata"
