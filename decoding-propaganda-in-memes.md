@@ -1,0 +1,63 @@
+# Decoding Propaganda In Memes
+
+Memes - the nice images you see floating around literally everywhere on the Internet these days and the stuff that fuels your social media. Memes began as a source of entertainment - containing jokes and visual additions to the joke which would often add more spice to it. However, memes have evolved in the recent times to deliver a wider range of content - news, opinions, dissent, praises and unfortunately - propaganda and fake information.
+
+What goes on in your mind when you view a meme which is funny, but is under the hood demeaning to a community or a group of people who believe in something? Have you seen memes which you felt were trying hard to push the ideology of a certain section of people in the society or memes which felt downright an attack on someone?
+
+Are you able to recognize such memes instantly? Or has it been that you shared a meme which you found funny but someone pointed out its falsehood to you, only after you had already spread it to a good number of people? It is important here to realize that opinion and falsehood are different things. It is crucial to be able to differentiate when you are spreading ideas and when you are being a tool for spreading misinformation by sharing a meme which has a falsehood based bias in it.
+
+Let's try to understand the width of the impact that biased memes can have on your day to day life. Consider the following Google Trends chart about how much "political meme" has been searched in the last decade (October 2010 - October 2020) -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-15.png)
+Notice the days when there has been a major spike. You shall observe the spikes happened in the years - 2020, 2016, 2012. What's common in these years? The US Presidential elections.
+
+This article, is going to help you with a few pointers which you can keep in mind to realize the bias in memes that you view, in a hope that the next time you share a meme, you'll have a fair idea about what impact it can have.
+
+Case #1 - The Positive Propaganda
+
+Let's begin on a lighter tone. Propaganda need not always be negative. It could be directed towards creating a genuine positive sentiment for someone/something. Take a look at this one -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-16.png)
+This one is fairly easy to understand - a happy man. Happiness radiates the presence of no worries and thus, a content person. Now, you might ask yourself who do you see as content - someone who has made good decisions in life? Or is it someone who has a lot of money and does not have to worry about the trivials of life? In short, someone who is successful.
+
+Thus, if you were to see this meme anywhere, you would take the presented political leader as someone who is successful and does not worry about his opponents.
+
+In contrast, if I were to present you with the following meme -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-17.png)
+Here you find that the same political leader is asking for financial support for his campaigns. While this is a serious and obvious message, it is seen as a moment of weakness. Thus, it was imperative for the opponents to seize opportunity of this moment and turn it into a popular meme, such that every time someone saw this image of the political leader, they would develop a feeling that the leader was weak and would not likely be successful in his campaign.
+
+Case #2 - Destroying image of organization/person
+
+Often, memes target a single person or organization. This may be done for several reasons, but often it has happened that this leads to media trials and unfair pressure against an entity which may not have done anything wrong.
+
+Consider the following meme -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-18.png)
+While it may tickle the bone of some for the implications that the teacher in the meme is actually a terrorist trying to educate the student in terrorist activities, there is an addition of the logo of Khan Academy at 3 places in this meme. This has been done to implicate that Khan Academy is a terrorist organization and the education imparted there is to train terrorists.
+
+To an uninformed individual, this meme holds the potential to set a negative image of Khan Academy in his/her mind. Further, the meme tries to implicate that any organization starting with the word "Khan" may be a terrorist organization and furthers this point by adding a Muslim skull cap to the student in the meme.
+
+For those of you who do not know - Khan Academy is one of the most revolutionary ideas that came up in this century and has benefited students all across the globe by offering free education. Several other educational startups sprang up trying to replicate their model with a difference that they would charge money. Khan Academy remains free and unparalleled to the date.
+
+It is uncomely that such attempt at maligning a beautiful initiative has been made.
+
+Case #3 - The Hate spreading
+
+Now let's look at some more serious type of biases memes can present. Spreading hate is one of the most common acts that memes try to pull of these days. Look at the following memes -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-20.png)![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-21.png)
+In both the above instances, hatred is being spread either in the meme itself or by the caption. The first image is an instance of spreading hatred towards an entire community and further, in the caption it uses a popular provoking slogan which was used by certain political leaders to incite venom towards a larger community in a different situation.
+
+The other one is a morphed image of a political leader aiming to indignify the individual and thus, weaken the person's worth in the society.
+
+Such memes which openly target a certain person or society either within the meme itself or by the accompanying caption tend to be repeatedly promoted by people of the group which benefits by sharing them. Such groups of people who want those memes to become viral will likely post it several times in the same or similar forums and try to use more and more provocative language along with them to incite hot reactions from the opposing groups, thus increasing the reach of their posts.
+
+## The Checklist of Propaganda Memes
+
+Now let me get down to a checklist which can help you identify quickly memes which are trying hard to send down your brain propaganda of their benefit -
+![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-22.png)
+If the meme you are viewing ticks any of the above points, you might want to double check it for propaganda. It may not always be the same, but in most cases you will find evidence of it promoting or discrediting a certain idea, person or community.
+
+Pages or social media influencers who regularly post such content might be trying to politically or socially influence you into hating or promoting a single idea, political or social figure or community. It might be a wise idea to give such pages an unfollow to make sure that you base your opinions on factual information instead of the idea that is fed to you subconsciously through online propaganda campaigns which in the current date often include memes, popular meme pages, influencers, videos which may seem humorous, etc.
+
+Remember that your memes have to be entertaining - if it is not funny, it is not a meme, its plain propaganda. Don't let anyone buy their way into your mental health and influence you to hate someone.
+
+Be safe online!
+
+If you have instances of memes which are biased or drive a propaganda, feel free to put them in the comments below with what you think it is trying to do. It would an added case study and definitely help the next reader! :)
