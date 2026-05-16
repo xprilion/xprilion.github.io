@@ -13,148 +13,148 @@ e:"$Sreact.suspense"
 :HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/e860dc25c955b608.css","style"]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
 :HL["/_next/static/css/2dba37557e579c7e.css","style"]
-0:{"P":null,"b":"8f5FXoBTY-uWk3dkheTrK","p":"","c":["","talks"],"i":false,"f":[[["",{"children":["talks",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e860dc25c955b608.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/png","href":"/apple-icon.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/icon0.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"xprilion's blog"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","meta",null,{"name":"theme-color","content":"#7b46f6"}],["$","meta",null,{"charSet":"utf-8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"itemProp":"name","content":"xprilion's blog"}],["$","meta",null,{"itemProp":"description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"itemProp":"image","content":"/favicon.png"}],["$","meta",null,{"property":"og:title","content":"xprilion's blog"}],["$","meta",null,{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"property":"og:image","content":"/favicon.png"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"name":"twitter:card","content":"summary_large_image"}],["$","meta",null,{"name":"twitter:site","content":"@xprilion"}],["$","meta",null,{"name":"twitter:creator","content":"@xprilion"}],["$","meta",null,{"name":"twitter:title","content":"xprilion's blog"}],["$","meta",null,{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"name":"twitter:image","content":"/favicon.png"}]]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]]}],{"children":["talks",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
-c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+0:{"P":null,"b":"mdoBm-5s9yUZuNR5b5jww","p":"","c":["","talks"],"i":false,"f":[[["",{"children":["talks",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["talks",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
 8:null
 11:I[9993,[],"IconMark"]
-a:{"metadata":[["$","title","0",{"children":"Talks | xprilion's blog"}],["$","meta","1",{"name":"description","content":"My talks and presentations about software development, cloud computing, and career growth in tech."}],["$","meta","2",{"property":"og:title","content":"Anubhav Singh | xprilion's blog"}],["$","meta","3",{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta","4",{"property":"og:url","content":"https://xprilion.com"}],["$","meta","5",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","6",{"property":"og:image","content":"https://cdn.xpri.dev/og-image.png"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Anubhav Singh | xprilion's blog"}],["$","meta","10",{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta","11",{"name":"twitter:image","content":"https://cdn.xpri.dev/og-image.png"}],["$","link","12",{"rel":"icon","href":"/logo.jpg"}],["$","$L11","13",{}]],"error":null,"digest":"$undefined"}
+a:{"metadata":[["$","title","0",{"children":"Talks | xprilion's blog"}],["$","meta","1",{"name":"description","content":"My talks and presentations about software development, cloud computing, and career growth in tech."}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"creator","content":"Anubhav Singh"}],["$","meta","6",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","link","8",{"rel":"canonical","href":"https://xprilion.com/talks"}],["$","meta","9",{"property":"og:title","content":"Anubhav Singh | xprilion's blog"}],["$","meta","10",{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta","11",{"property":"og:url","content":"https://xprilion.com"}],["$","meta","12",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","13",{"property":"og:image","content":"https://cdn.xpri.dev/og-image.png"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:site","content":"@xprilion"}],["$","meta","17",{"name":"twitter:creator","content":"@xprilion"}],["$","meta","18",{"name":"twitter:title","content":"xprilion's blog"}],["$","meta","19",{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta","20",{"name":"twitter:image","content":"https://cdn.xpri.dev/og-image.png"}],["$","link","21",{"rel":"icon","href":"/favicon.ico"}],["$","link","22",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","23",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L11","25",{}]],"error":null,"digest":"$undefined"}
 f:"$a:metadata"
 12:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","130","static/chunks/app/talks/page-b165f342a295d7ff.js"],"default"]
-13:T2111,<p>I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences and sometimes, I help them learn something new. Here are a few presentations that I have made in some of the community meetups, conferences or events with larger audiences.</p>
+13:T26b5,<p>I enjoy talking to people about what I have learnt from my experimentations with technology. Sometimes I simply talk about my experiences and sometimes, I help them learn something new. Here are a few presentations that I have made in some of the community meetups, conferences or events with larger audiences.</p>
 <ul>
 <li>How to secure your Firebase databases the right way
 Event: DevFest Nagpur 2023, Dec 2023
-Links: <a href="https://xpri.dev/firebase-database-security">Slides</a></li>
+Links: <a href="https://xpri.dev/firebase-database-security" rel="noopener noreferrer">Slides</a></li>
 <li>Build Serverless, Ship Faster
 Event: DevFest Jammu 2023, Dec 2023
-Links: <a href="https://xpri.dev/devfestjammu2023">Slides</a></li>
+Links: <a href="https://xpri.dev/devfestjammu2023" rel="noopener noreferrer">Slides</a></li>
 <li>Supercharging Your LLMs: Fine-Tuning for Performance and Cost-Efficiency
 Event: DevFest Hong Kong, Kuala Lumpur, Nov - Dec 2023
-Links: <a href="https://xpri.dev/devfest-kl-2023">Slides</a></li>
-<li>Re-imagine What&#39;s Possible with Gen AI Studio
+Links: <a href="https://xpri.dev/devfest-kl-2023" rel="noopener noreferrer">Slides</a></li>
+<li>Re-imagine What's Possible with Gen AI Studio
 Event: Multiple DevFests (KL, Coimbatore, etc.), Oct-Dec 2023
-Links: <a href="https://xpri.dev/devfestpatna2023">Slides</a></li>
+Links: <a href="https://xpri.dev/devfestpatna2023" rel="noopener noreferrer">Slides</a></li>
 <li>Gen AI with GCP
 Event: Google Edu Tech Labs, Aug - Sept 2023
-Links: <a href="https://xpri.dev/genai-with-gcp">Slides</a></li>
+Links: <a href="https://xpri.dev/genai-with-gcp" rel="noopener noreferrer">Slides</a></li>
 <li>Introduction to GDSC and Google Cloud
 Event: GDSC Mentoring sessions 2023</li>
 <li>Gen AI as a Backend
 Event: I/O Extended (Prayagraj, Patna, etc.), July 2023
-Links: <a href="https://xpri.dev/genai-as-backend">Slides</a></li>
-<li>Boundaries don&#39;t matter in the world of tech
+Links: <a href="https://xpri.dev/genai-as-backend" rel="noopener noreferrer">Slides</a></li>
+<li>Boundaries don't matter in the world of tech
 Event: TEDxHITKolkata, July 2023
-Links: <a href="https://xpri.dev/tedx">Video</a></li>
+Links: <a href="https://xpri.dev/tedx" rel="noopener noreferrer">Video</a></li>
 <li>Build Serverless, Ship Faster
 Event: Google I/O Connect Bengaluru, June 2023
-Links: <a href="https://xpri.dev/io2023">Slides</a></li>
+Links: <a href="https://xpri.dev/io2023" rel="noopener noreferrer">Slides</a></li>
 <li>Introduction to Google Cloud and Certifications
 Event: Google I/O Extended Gwalior, June 2023
-Links: <a href="https://xpri.dev/intro-to-gcp">Slides</a></li>
+Links: <a href="https://xpri.dev/intro-to-gcp" rel="noopener noreferrer">Slides</a></li>
 <li>Predicting IPL Scores with ML on Cloud
 Event: Google I/O Extended Bhilai, June 2023
-Links: <a href="https://xpri.dev/tf-ipl-gcp">Slides</a></li>
+Links: <a href="https://xpri.dev/tf-ipl-gcp" rel="noopener noreferrer">Slides</a></li>
 <li>GCP in Hackathons
 Event: GDSC Explore, Assam, May 2023
-Links: <a href="https://xpri.dev/hacking-with-gcp">Slides</a></li>
+Links: <a href="https://xpri.dev/hacking-with-gcp" rel="noopener noreferrer">Slides</a></li>
 <li>Cloud Run backends to Load Balancers
 Event: GCCD Chennai, May 2023
-Links: <a href="https://xpri.dev/cloud-run-load-balancer">Slides</a></li>
+Links: <a href="https://xpri.dev/cloud-run-load-balancer" rel="noopener noreferrer">Slides</a></li>
 <li>My Road to GDE
 Event: DevX by GDSC TIU, April 2023
-Links: <a href="https://www.telegraphindia.com/edugraph/campus/devx-2023-techno-india-university-and-gdsc-organises-annual-spring-fest/cid/1934117">News</a></li>
+Links: <a href="https://www.telegraphindia.com/edugraph/campus/devx-2023-techno-india-university-and-gdsc-organises-annual-spring-fest/cid/1934117" rel="noopener noreferrer">News</a></li>
 <li>High Availability ML System Architecture
 Event: TFUG Kolkata Meetup, April 2023
-Links: <a href="https://xpri.dev/high-availability-ml-system">Slides</a></li>
+Links: <a href="https://xpri.dev/high-availability-ml-system" rel="noopener noreferrer">Slides</a></li>
 <li>Hacking Solutions with GCP
 Event: IWD Jammu, April 2023
-Links: <a href="https://xpri.dev/hacking-with-gcp">Slides</a>, <a href="https://www.youtube.com/watch?v=xR4DnRXd9fk">Video</a></li>
+Links: <a href="https://xpri.dev/hacking-with-gcp" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=xR4DnRXd9fk" rel="noopener noreferrer">Video</a></li>
 <li>Job Scheduling on GCP
 Event: GCCD Bhopal, Pune, Bangalore, April 2023
-Links: <a href="https://xpri.dev/gcp-job-scheduling">Slides</a>, <a href="https://www.youtube.com/watch?v=AOzlp5Ly9_I&t=7431s">Video</a></li>
+Links: <a href="https://xpri.dev/gcp-job-scheduling" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=AOzlp5Ly9_I&amp;t=7431s" rel="noopener noreferrer">Video</a></li>
 <li>Scaling Computer Vision Projects
 Event: DevFest 2022 (Ahmedabad, Surat, Patna)
-Links: <a href="https://xpri.dev/cv-tutorials-to-fundraising">Slides</a></li>
+Links: <a href="https://xpri.dev/cv-tutorials-to-fundraising" rel="noopener noreferrer">Slides</a></li>
 <li>Cloud is all you need
 Event: DevFest 2022 (Gandhinagar, Ranchi, etc.)
-Links: <a href="https://xpri.dev/cloud-is-all-you-need">Slides</a></li>
+Links: <a href="https://xpri.dev/cloud-is-all-you-need" rel="noopener noreferrer">Slides</a></li>
 <li>Plan More, Code Less
 Event: GDSC NIT Durgapur, Nov 2022
-Links: <a href="https://xpri.dev/nitdgp22">Slides</a></li>
+Links: <a href="https://xpri.dev/nitdgp22" rel="noopener noreferrer">Slides</a></li>
 <li>Opportunities in IT
 Event: Guest Lecture at NSEC, Nov 2022
-Links: <a href="https://xpri.dev/opportunities-in-it-2022">Slides</a></li>
+Links: <a href="https://xpri.dev/opportunities-in-it-2022" rel="noopener noreferrer">Slides</a></li>
 <li>Old Photos to Insights - A GCP Story
 Event: DevFest 2022 (Mysuru, Siliguri)
-Links: <a href="https://xpri.dev/gcp-nytimes">Slides</a>, <a href="https://youtu.be/BWP8B63g_I0">Video</a></li>
+Links: <a href="https://xpri.dev/gcp-nytimes" rel="noopener noreferrer">Slides</a>, <a href="https://youtu.be/BWP8B63g_I0" rel="noopener noreferrer">Video</a></li>
 <li>Cloud Cost Optimization Case Study
 Event: GCCD 2022 Mumbai, Mysuru
-Links: <a href="https://xpri.dev/cloud-costs-story">Slides</a></li>
+Links: <a href="https://xpri.dev/cloud-costs-story" rel="noopener noreferrer">Slides</a></li>
 <li>High Availability ML System Design
 Event: GCCD 2022 Indore, Pune
-Links: <a href="https://xpri.dev/high-availability-ml-system">Slides</a></li>
+Links: <a href="https://xpri.dev/high-availability-ml-system" rel="noopener noreferrer">Slides</a></li>
 <li>EasyCard Payment System
 Event: Google I/O Extended Kolkata 2022
-Links: <a href="https://xpri.dev/build-your-easycard">Slides</a>, <a href="https://github.com/xprilion/KolPay">Code</a></li>
+Links: <a href="https://xpri.dev/build-your-easycard" rel="noopener noreferrer">Slides</a>, <a href="https://github.com/xprilion/KolPay" rel="noopener noreferrer">Code</a></li>
 <li>Preparing for the Future of Tech
 Event: Sister Nivedita University, 2022
-Links: <a href="https://xpri.dev/snu-future-of-tech-2022">Slides</a></li>
+Links: <a href="https://xpri.dev/snu-future-of-tech-2022" rel="noopener noreferrer">Slides</a></li>
 <li>Introduction to Audio AI
 Event: GDG Jammu, July 2022
-Links: <a href="https://xpri.dev/gdg-jammu-audio-ai">Slides</a></li>
+Links: <a href="https://xpri.dev/gdg-jammu-audio-ai" rel="noopener noreferrer">Slides</a></li>
 <li>GSoC 2022 Intro
 Event: GDG Sousse, April 2022
-Links: <a href="https://xpri.dev/gsoc2022">Slides</a>, <a href="https://www.youtube.com/watch?v=bQ56A-pFbzM">Video</a></li>
+Links: <a href="https://xpri.dev/gsoc2022" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=bQ56A-pFbzM" rel="noopener noreferrer">Video</a></li>
 <li>Up in a Flash with Flask!
 Event: The Python Week, 2021
-Links: <a href="https://xpri.dev/thepythonweek2021">Slides</a>, <a href="https://www.youtube.com/watch?v=NtgBL1j4N0k">Video</a></li>
+Links: <a href="https://xpri.dev/thepythonweek2021" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=NtgBL1j4N0k" rel="noopener noreferrer">Video</a></li>
 <li>Building your own SentiBot
 Event: Deeplearning.ai Meetup, July 2020
-Links: <a href="https://xpri.dev/diy-sentibot">Slides</a>, <a href="https://www.youtube.com/watch?v=xeveNWZ6yxA&t=480s">Video</a></li>
+Links: <a href="https://xpri.dev/diy-sentibot" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=xeveNWZ6yxA&amp;t=480s" rel="noopener noreferrer">Video</a></li>
 <li>Scalable Solutions - Plan More, Code Less
 Event: DSC OMG 2020
-Links: <a href="https://xpri.dev/dscomg">Slides</a></li>
+Links: <a href="https://xpri.dev/dscomg" rel="noopener noreferrer">Slides</a></li>
 <li>SNN-ANN based IDS in Cloud
 Event: ICESCS 2020
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQh1Ei45a5cs84fW8LDIjhILwqze-PTGr1w6nwLAOKF4pAFNJSc2JapvQC3zbFyMJF31G1dZZz-y87M/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQh1Ei45a5cs84fW8LDIjhILwqze-PTGr1w6nwLAOKF4pAFNJSc2JapvQC3zbFyMJF31G1dZZz-y87M/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Linear &amp; Tree-based Models
 Event: Deeplearning.ai Meetup, May 2020
-Links: <a href="https://xpri.dev/linear-tree-models">Slides</a>, <a href="https://www.youtube.com/watch?v=wY9vfDebn7w&t=3241s">Video</a></li>
+Links: <a href="https://xpri.dev/linear-tree-models" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=wY9vfDebn7w&amp;t=3241s" rel="noopener noreferrer">Video</a></li>
 <li>AI for Web : Web for AI
 Event: DevFest Ahmedabad 2019
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vReYwoFJfM3s9m9qiHOPhRnDJrtTSzSD4ux-CivX4NPGILmgwnmpgnZR0n3VO-HIHXf9msbuTiEXBU4/pub?start=false&loop=false&delayms=3000">Slides</a>, <a href="https://www.youtube.com/watch?v=ttPsRnKGIxQ">Video</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vReYwoFJfM3s9m9qiHOPhRnDJrtTSzSD4ux-CivX4NPGILmgwnmpgnZR0n3VO-HIHXf9msbuTiEXBU4/pub?start=false&amp;loop=false&amp;delayms=3000" rel="noopener noreferrer">Slides</a>, <a href="https://www.youtube.com/watch?v=ttPsRnKGIxQ" rel="noopener noreferrer">Video</a></li>
 <li>Alternatives to Blockchain
 Event: SillyCon
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vTEgOTQSoTmiH6BpDEU3pyr-Mxwxt3uEPSsLdeHkuPURp1lUMa2gdNK_92JmvPwxRgeQ6RRhNuzOi2s/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vTEgOTQSoTmiH6BpDEU3pyr-Mxwxt3uEPSsLdeHkuPURp1lUMa2gdNK_92JmvPwxRgeQ6RRhNuzOi2s/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Integrating ML with Web
 Event: GDG Kolkata
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTzdptZCQLkDscxT97T8aJzylwlVGAKIM-HRIRdx5fmtFU6oSCuNxbfxt-YTfJr7ebfbtc8SAsLGbG/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTzdptZCQLkDscxT97T8aJzylwlVGAKIM-HRIRdx5fmtFU6oSCuNxbfxt-YTfJr7ebfbtc8SAsLGbG/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Contributing to Open Source
 Event: Systers TechTalks
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRCOfScxK9TNcRZfmogk2LCZ1LZIbzu2JOtb8Z3QY76zwlxtR1FbqPG1VvpaQS9iYDAgvApl1Eg1jf9/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRCOfScxK9TNcRZfmogk2LCZ1LZIbzu2JOtb8Z3QY76zwlxtR1FbqPG1VvpaQS9iYDAgvApl1Eg1jf9/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Intro to End-to-End Web Dev
 Event: GDG Kolkata
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQB7RfdVnPP5s914qK-Ilah2mqLEQUAb2D__YFmTwOdV3PthaED0wplrTvC0kG-pNUnzWE1KkcodpBd/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQB7RfdVnPP5s914qK-Ilah2mqLEQUAb2D__YFmTwOdV3PthaED0wplrTvC0kG-pNUnzWE1KkcodpBd/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>A Peek Into the Future
 Event: DSC NSEC
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBvLCJ1BqkrN8HTJq71p77lIs6WGD-Jk4qdeIf3C9TR3C5D6QBSB4Snkwccjq4D1eA3FnWwlWAXOki/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBvLCJ1BqkrN8HTJq71p77lIs6WGD-Jk4qdeIf3C9TR3C5D6QBSB4Snkwccjq4D1eA3FnWwlWAXOki/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>AI-powered Website - Do’s &amp; Don’ts
 Event: DevFest Goa 2019
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBww5fNA-WtDt8rl1zj41ubGPg3yWn2QH7QBrtWqhQn2cXzJcyk1xh4q1zDxsx-g3wmF-Ax_4oB0Ta/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBww5fNA-WtDt8rl1zj41ubGPg3yWn2QH7QBrtWqhQn2cXzJcyk1xh4q1zDxsx-g3wmF-Ax_4oB0Ta/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Intro to Neural Networks
 Event: Seminar at NSEC 2019
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vT9bW9EPkJ6JM0wTDWA37kIG4LwhgyqDfLcVYiwApqBeMKw_-RwingnKTr2zc-DvATIaocPqUdwNcdo/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vT9bW9EPkJ6JM0wTDWA37kIG4LwhgyqDfLcVYiwApqBeMKw_-RwingnKTr2zc-DvATIaocPqUdwNcdo/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Unsupervised NLP
 Event: DevFest Kolkata 2018
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSJdhkRoNhfIN1-Cs9KO5xPrUL-fifhEm6ZoGxNdRbWG9xlQcF_4zdorqejf4f6SOjDi1F7L3m4uAGA/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSJdhkRoNhfIN1-Cs9KO5xPrUL-fifhEm6ZoGxNdRbWG9xlQcF_4zdorqejf4f6SOjDi1F7L3m4uAGA/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Intro to Machine Learning
 Event: Equinox by Techno International Batanagar
-Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSVxvDrMtooeTxxiWMrk2hNoCtalTBXeLGF9bgf_OcIkJXVlxuyg2HsZ7eqy2SH4eaalC_FTCf1qMUp/pub?start=false&loop=false&delayms=60000">Slides</a></li>
+Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSVxvDrMtooeTxxiWMrk2hNoCtalTBXeLGF9bgf_OcIkJXVlxuyg2HsZ7eqy2SH4eaalC_FTCf1qMUp/pub?start=false&amp;loop=false&amp;delayms=60000" rel="noopener noreferrer">Slides</a></li>
 <li>Introduction to Neo4j
 Event: Neo4j Rootalpha Meetup
-Links: <a href="https://xpri.dev/neo4j-rootalpha">Slides</a></li>
+Links: <a href="https://xpri.dev/neo4j-rootalpha" rel="noopener noreferrer">Slides</a></li>
 </ul>
 6:["$","$L12",null,{"children":[["$","div",null,{"className":"mb-8","children":["$","h1",null,{"className":"text-3xl font-bold mb-4 mt-0 pt-0","children":"Talks & Presentations"}]}],["$","div",null,{"className":"space-y-12","children":["$","div",null,{"className":"prose prose-blue max-w-none","dangerouslySetInnerHTML":{"__html":"$13"}}]}],"$L14"]}]
 15:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","130","static/chunks/app/talks/page-b165f342a295d7ff.js"],""]

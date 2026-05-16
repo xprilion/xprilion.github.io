@@ -3,32 +3,28 @@
 3:I[1181,[],""]
 4:I[7305,[],""]
 5:I[6213,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"GoogleAnalytics"]
-b:I[2223,[],""]
+7:I[3424,[],"OutletBoundary"]
+9:I[7001,[],"AsyncMetadataOutlet"]
+b:I[3424,[],"ViewportBoundary"]
+d:I[3424,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[2223,[],""]
 :HL["/_next/static/media/22966f4f11fece13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/e860dc25c955b608.css","style"]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
 :HL["/_next/static/css/2dba37557e579c7e.css","style"]
 :HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
-0:{"P":null,"b":"8f5FXoBTY-uWk3dkheTrK","p":"","c":["","docker-python-dump-http-request"],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","docker-python-dump-http-request","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e860dc25c955b608.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/png","href":"/apple-icon.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/icon0.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"xprilion's blog"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","meta",null,{"name":"theme-color","content":"#7b46f6"}],["$","meta",null,{"charSet":"utf-8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"itemProp":"name","content":"xprilion's blog"}],["$","meta",null,{"itemProp":"description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"itemProp":"image","content":"/favicon.png"}],["$","meta",null,{"property":"og:title","content":"xprilion's blog"}],["$","meta",null,{"property":"og:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"property":"og:image","content":"/favicon.png"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"name":"twitter:card","content":"summary_large_image"}],["$","meta",null,{"name":"twitter:site","content":"@xprilion"}],["$","meta",null,{"name":"twitter:creator","content":"@xprilion"}],["$","meta",null,{"name":"twitter:title","content":"xprilion's blog"}],["$","meta",null,{"name":"twitter:description","content":"Hey, I'm Anubhav Singh. I love building software, mixing stacks and making memes."}],["$","meta",null,{"name":"twitter:image","content":"/favicon.png"}]]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L6","$L7"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","docker-python-dump-http-request","d"],"$L8",{"children":["__PAGE__","$L9",{},null,false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
-d:I[3424,[],"OutletBoundary"]
-f:I[7001,[],"AsyncMetadataOutlet"]
-11:I[3424,[],"ViewportBoundary"]
-13:I[3424,[],"MetadataBoundary"]
-14:"$Sreact.suspense"
-6:["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}]
-7:["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]
-8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-9:["$","$1","c",{"children":["$Lc",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}]
-a:["$","$1","h",{"children":[null,[["$","$L11",null,{"children":"$L12"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L13",null,{"children":["$","div",null,{"hidden":true,"children":["$","$14",null,{"fallback":null,"children":"$L15"}]}]}]]}]
-12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-e:null
-16:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],"default"]
-17:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],""]
-18:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],"default"]
-19:T30cf,<p>This blog is an explanation for the code present in the <a href="http://github.com/xprilion/docker-python-dump-http-request-example">github.com/xprilion/docker-python-dump-http-request-example</a> repo.</p>
-<p>The main purpose of the repo is to create a simple HTTP server developed using Python&#39;s Flask framework, hosted in a Docker environment. The server is designed to log HTTP request and response data for debugging or informational purposes. The HTTP server receives requests, stores information about them, and then responds with a JSON representation of the request data.</p>
+0:{"P":null,"b":"mdoBm-5s9yUZuNR5b5jww","p":"","c":["","docker-python-dump-http-request"],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","docker-python-dump-http-request","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","docker-python-dump-http-request","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+8:null
+11:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-bdbf9bc85d193dbb.js"],"default"]
+12:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-bdbf9bc85d193dbb.js"],""]
+13:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-bdbf9bc85d193dbb.js"],""]
+14:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-bdbf9bc85d193dbb.js"],"default"]
+15:T2d21,<p>This blog is an explanation for the code present in the <a href="http://github.com/xprilion/docker-python-dump-http-request-example" rel="noopener noreferrer">github.com/xprilion/docker-python-dump-http-request-example</a> repo.</p>
+<p>The main purpose of the repo is to create a simple HTTP server developed using Python's Flask framework, hosted in a Docker environment. The server is designed to log HTTP request and response data for debugging or informational purposes. The HTTP server receives requests, stores information about them, and then responds with a JSON representation of the request data.</p>
 <h2>Code Explanation</h2>
 <p>The repo contains the following files:</p>
 <pre><code class="language-plaintext">root/
@@ -37,16 +33,16 @@ e:null
 ├── main.py
 └── requirements.txt
 </code></pre>
-<p>Let&#39;s go over these files in sequence of how they appear in the tree structure.</p>
-<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/.dockerignore">.dockerignore</a></h3>
-<p>The <code>.dockerignore</code> file specifies a pattern for each file or directory that should be ignored when building a Docker image using a Dockerfile. Here&#39;s what some lines in our <code>.dockerignore</code> file means:</p>
+<p>Let's go over these files in sequence of how they appear in the tree structure.</p>
+<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/.dockerignore" rel="noopener noreferrer">.dockerignore</a></h3>
+<p>The <code>.dockerignore</code> file specifies a pattern for each file or directory that should be ignored when building a Docker image using a Dockerfile. Here's what some lines in our <code>.dockerignore</code> file means:</p>
 <ul>
 <li><code>Dockerfile</code>: This line tells Docker to ignore the <code>Dockerfile</code> itself when building the Docker image. Although it might seem strange, this is a common practice. The <code>Dockerfile</code> is used to build the Docker image and is not usually required within the container itself.</li>
 <li><code>*.pyc, *.pyo, *.pyd</code>: These lines tell Docker to ignore Python compiled files. When Python programs run, they often create compiled versions of the Python source code. These files are not needed to run the Python program, as Python can run the source code directly.</li>
 <li><code>__pycache__</code>: This line tells Docker to ignore the <strong>pycache</strong> directory. When Python 3.2 and later versions run, they store compiled files in this directory. These files are not needed to run the Python program.</li>
 <li><code>.pytest_cache</code>: This line tells Docker to ignore the .pytest_cache directory. This directory is created when running tests with pytest, a testing framework for Python. It is not needed to run the Python application, and including it in the Docker image would increase the size of the image without providing any benefits.</li>
 </ul>
-<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/Dockerfile">Dockerfile</a></h3>
+<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/Dockerfile" rel="noopener noreferrer">Dockerfile</a></h3>
 <p>This Dockerfile outlines the steps to create a Docker image for a Python application:</p>
 <ul>
 <li><code>FROM python:3.11-slim</code>: The base image is the official lightweight Python 3.11 image from Docker Hub.</li>
@@ -56,17 +52,17 @@ e:null
 <li><code>RUN pip install --no-cache-dir -r requirements.txt</code>: Installs the Python dependencies from <code>requirements.txt</code> file without storing the cache, for a smaller image.</li>
 <li><code>CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 main:app</code>: Specifies the command to run when the Docker container is started. The application is served using the Gunicorn HTTP server, binding to the environment variable <code>$PORT</code>, with one worker process and eight threads. The timeout is set to 0 to disable worker timeouts, leaving scaling management to the hosting platform (e.g., Google Cloud Run). The application instance is accessed via <code>main:app</code>, where <code>main</code> is the Python module (file) and <code>app</code> is the Flask application instance.</li>
 </ul>
-<h3><a href="http://main.py">main.py</a></h3>
-<p>The <a href="http://main.py"><code>main.py</code></a> script is a Flask application that logs HTTP request and response data. Here&#39;s what it does:</p>
+<h3><a href="http://main.py" rel="noopener noreferrer">main.py</a></h3>
+<p>The <a href="http://main.py" rel="noopener noreferrer"><code>main.py</code></a> script is a Flask application that logs HTTP request and response data. Here's what it does:</p>
 <ul>
 <li><strong>Initialization</strong>: A new Flask application is created and debugging is enabled.</li>
 <li><strong>Request Saving</strong>: The <code>save_request</code> function collects details from the incoming HTTP request, including endpoint, method, cookies, data, headers, arguments, form data, remote address, and file information, if any.</li>
 <li><strong>Response Saving</strong>: The <code>save_response</code> function collects details from the HTTP response, including status code, status message, headers, and response data.</li>
 <li><strong>Request and Response Logging</strong>: <code>before_request</code> logs the HTTP method and endpoint of each incoming request. <code>after_request</code> adds CORS headers to the response, logs the response data, and then returns the response.</li>
 <li><strong>Root Endpoint Handling</strong>: The <code>hello_world</code> function responds to HTTP GET requests at the root (<code>/</code>) endpoint. It generates a unique identifier for the request, saves the request data, creates a response containing the request data in JSON format, sets a cookie, and returns the response.</li>
-<li><strong>Server Launch</strong>: The server runs on all network interfaces (<code>0.0.0.0</code>) and listens on the port specified by the &quot;PORT&quot; environment variable, or 8080 if not set.</li>
+<li><strong>Server Launch</strong>: The server runs on all network interfaces (<code>0.0.0.0</code>) and listens on the port specified by the "PORT" environment variable, or 8080 if not set.</li>
 </ul>
-<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/requirements.txt">requirements.txt</a></h3>
+<h3><a href="https://github.com/xprilion/docker-python-dump-http-request-example/blob/main/requirements.txt" rel="noopener noreferrer">requirements.txt</a></h3>
 <p>A <code>requirements.txt</code> file in a Python project is used to specify the dependencies of the project along with their versions (optional).</p>
 <p>In this <code>requirements.txt</code> file, we load Flask and gunicorn, which are enough for us to build the project. In most real world projects there are far more dependencies and the <code>requirements.txt</code> file for such projects may span several dozen lines.</p>
 <p>When setting up the project, you can use <code>pip install -r requirements.txt</code> to install all of the dependencies. If version numbers are provided, pip will try to install the exact version numbers or else default to the latest available version.</p>
@@ -75,71 +71,68 @@ e:null
 <p><strong>Run the Docker container</strong>: Run the Docker container from the image you just created. Replace <code>$PORT</code> with the port number you want to use.</p>
 <pre><code class="language-bash">docker run -p $PORT:8080 -e PORT=8080 my-python-app
 </code></pre>
-<p>This command runs the Docker container, mapping the host&#39;s <code>$PORT</code> to the container&#39;s <code>8080</code> port, which the Flask application inside the Docker container is listening on.</p>
+<p>This command runs the Docker container, mapping the host's <code>$PORT</code> to the container's <code>8080</code> port, which the Flask application inside the Docker container is listening on.</p>
 <p><strong>Build the Docker image</strong>: Run the following command in the terminal, in the directory containing your Dockerfile. This command builds a Docker image with the tag <code>my-python-app</code>.</p>
 <pre><code class="language-bash">docker build -t my-python-app .
 </code></pre>
 <p>Remember, you need to have Docker installed on your machine to execute these commands.</p>
 <p>In production scenarios, you would push your Docker image to a Docker registry (like Docker Hub, Google Container Registry, or AWS Elastic Container Registry), then pull and run the Docker image from machines where you want your application to run. Also, orchestration tools like Kubernetes, Docker Swarm, or managed services like Google Cloud Run, AWS ECS/Fargate could be used to handle deployment, scaling, and management of Docker containers in a production setting.</p>
-<p>When you hit the endpoint created by deploying this code, you&#39;ll get a response similar to the one below:</p>
+<p>When you hit the endpoint created by deploying this code, you'll get a response similar to the one below:</p>
 <pre><code class="language-json">{
-    &quot;uuid&quot;: &quot;f50cc7d0f26511eda4bb75c989e55f1e&quot;,
-    &quot;endpoint&quot;: &quot;hello_world&quot;,
-    &quot;method&quot;: &quot;GET&quot;,
-    &quot;cookies&quot;: {
-        &quot;cookie-name&quot;: &quot;cookie-value&quot;
+    "uuid": "f50cc7d0f26511eda4bb75c989e55f1e",
+    "endpoint": "hello_world",
+    "method": "GET",
+    "cookies": {
+        "cookie-name": "cookie-value"
     },
-    &quot;data&quot;: &quot;b&#39;&#39;&quot;,
-    &quot;headers&quot;: {
-        &quot;Host&quot;: &quot;test-cloud-run-custom.xpri.dev&quot;,
-        &quot;Cache-Control&quot;: &quot;max-age=0&quot;,
-        &quot;Sec-Ch-Ua&quot;: &quot;\&quot;Chromium\&quot;;v=\&quot;112\&quot;, \&quot;Google Chrome\&quot;;v=\&quot;112\&quot;, \&quot;Not:A-Brand\&quot;;v=\&quot;99\&quot;&quot;,
-        &quot;Sec-Ch-Ua-Mobile&quot;: &quot;?0&quot;,
-        &quot;Sec-Ch-Ua-Platform&quot;: &quot;\&quot;macOS\&quot;&quot;,
-        &quot;Upgrade-Insecure-Requests&quot;: &quot;1&quot;,
-        &quot;User-Agent&quot;: &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&quot;,
-        &quot;Accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7&quot;,
-        &quot;Sec-Ch-Ua-Arch&quot;: &quot;\&quot;arm\&quot;&quot;,
-        &quot;Sec-Ch-Ua-Platform-Version&quot;: &quot;\&quot;13.3.1\&quot;&quot;,
-        &quot;Sec-Ch-Ua-Model&quot;: &quot;\&quot;\&quot;&quot;,
-        &quot;Sec-Ch-Ua-Bitness&quot;: &quot;\&quot;64\&quot;&quot;,
-        &quot;Sec-Ch-Ua-Wow64&quot;: &quot;?0&quot;,
-        &quot;Sec-Ch-Ua-Full-Version-List&quot;: &quot;\&quot;Chromium\&quot;;v=\&quot;112.0.5615.137\&quot;, \&quot;Google Chrome\&quot;;v=\&quot;112.0.5615.137\&quot;, \&quot;Not:A-Brand\&quot;;v=\&quot;99.0.0.0\&quot;&quot;,
-        &quot;Sec-Fetch-Site&quot;: &quot;none&quot;,
-        &quot;Sec-Fetch-Mode&quot;: &quot;navigate&quot;,
-        &quot;Sec-Fetch-User&quot;: &quot;?1&quot;,
-        &quot;Sec-Fetch-Dest&quot;: &quot;document&quot;,
-        &quot;Accept-Language&quot;: &quot;en-US,en;q=0.9&quot;,
-        &quot;X-Cloud-Trace-Context&quot;: &quot;7361fa590088de543df325a9832ab85e/4131215564459013469&quot;,
-        &quot;Traceparent&quot;: &quot;00-7361fa590088de543df325a9832ab85e-395506aaf224f55d-00&quot;,
-        &quot;X-Forwarded-For&quot;: &quot;2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx&quot;,
-        &quot;X-Forwarded-Proto&quot;: &quot;https&quot;,
-        &quot;Forwarded&quot;: &quot;for=\&quot;[2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx]\&quot;;proto=https&quot;,
-        &quot;Accept-Encoding&quot;: &quot;gzip, deflate, br&quot;
+    "data": "b''",
+    "headers": {
+        "Host": "test-cloud-run-custom.xpri.dev",
+        "Cache-Control": "max-age=0",
+        "Sec-Ch-Ua": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Sec-Ch-Ua-Arch": "\"arm\"",
+        "Sec-Ch-Ua-Platform-Version": "\"13.3.1\"",
+        "Sec-Ch-Ua-Model": "\"\"",
+        "Sec-Ch-Ua-Bitness": "\"64\"",
+        "Sec-Ch-Ua-Wow64": "?0",
+        "Sec-Ch-Ua-Full-Version-List": "\"Chromium\";v=\"112.0.5615.137\", \"Google Chrome\";v=\"112.0.5615.137\", \"Not:A-Brand\";v=\"99.0.0.0\"",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-User": "?1",
+        "Sec-Fetch-Dest": "document",
+        "Accept-Language": "en-US,en;q=0.9",
+        "X-Cloud-Trace-Context": "7361fa590088de543df325a9832ab85e/4131215564459013469",
+        "Traceparent": "00-7361fa590088de543df325a9832ab85e-395506aaf224f55d-00",
+        "X-Forwarded-For": "2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx",
+        "X-Forwarded-Proto": "https",
+        "Forwarded": "for=\"[2401:4900:xxxx:xxxx:xxxx:5400:xxxx:xxxx]\";proto=https",
+        "Accept-Encoding": "gzip, deflate, br"
     },
-    &quot;args&quot;: {},
-    &quot;form&quot;: {},
-    &quot;remote_addr&quot;: &quot;169.xxx.xxx.xxx&quot;,
-    &quot;files&quot;: []
+    "args": {},
+    "form": {},
+    "remote_addr": "169.xxx.xxx.xxx",
+    "files": []
 }
 </code></pre>
-<p>This response is a JSON representation of the details of an HTTP GET request received by the server. Let&#39;s break down what each key-value pair means:</p>
+<p>This response is a JSON representation of the details of an HTTP GET request received by the server. Let's break down what each key-value pair means:</p>
 <ul>
-<li><code>&quot;uuid&quot;: &quot;f50cc7d0f26511eda4bb75c989e55f1e&quot;</code>: This is a unique identifier for this request.</li>
-<li><code>&quot;endpoint&quot;: &quot;hello_world&quot;</code>: The name of the endpoint that was hit. It corresponds to the function handling the request in the Flask application.</li>
-<li><code>&quot;method&quot;: &quot;GET&quot;</code>: The HTTP method used for this request.</li>
-<li><code>&quot;cookies&quot;: {&quot;cookie-name&quot;: &quot;cookie-value&quot;}</code>: The cookies sent with this request. In this case, there is one cookie named &quot;cookie-name&quot; with a value of &quot;cookie-value&quot;.</li>
-<li><code>&quot;data&quot;: &quot;b&#39;&#39;&quot;</code>: The data sent with this request. In this case, no data was sent.</li>
-<li><code>&quot;headers&quot;</code>: This is a dictionary containing all the HTTP headers that were sent with the request. This includes information about the client, the accepted response types, and more.</li>
-<li><code>&quot;args&quot;: {}</code> and <code>&quot;form&quot;: {}</code>: These would contain any query parameters or form data sent with the request. In this case, none were sent.</li>
-<li><code>&quot;remote_addr&quot;: &quot;169.254.1.1&quot;</code>: This is the IP address of the client that sent the request.</li>
-<li><code>&quot;files&quot;: []</code>: This would contain any files sent with the request. In this case, none were sent.</li>
+<li><code>"uuid": "f50cc7d0f26511eda4bb75c989e55f1e"</code>: This is a unique identifier for this request.</li>
+<li><code>"endpoint": "hello_world"</code>: The name of the endpoint that was hit. It corresponds to the function handling the request in the Flask application.</li>
+<li><code>"method": "GET"</code>: The HTTP method used for this request.</li>
+<li><code>"cookies": {"cookie-name": "cookie-value"}</code>: The cookies sent with this request. In this case, there is one cookie named "cookie-name" with a value of "cookie-value".</li>
+<li><code>"data": "b''"</code>: The data sent with this request. In this case, no data was sent.</li>
+<li><code>"headers"</code>: This is a dictionary containing all the HTTP headers that were sent with the request. This includes information about the client, the accepted response types, and more.</li>
+<li><code>"args": {}</code> and <code>"form": {}</code>: These would contain any query parameters or form data sent with the request. In this case, none were sent.</li>
+<li><code>"remote_addr": "169.254.1.1"</code>: This is the IP address of the client that sent the request.</li>
+<li><code>"files": []</code>: This would contain any files sent with the request. In this case, none were sent.</li>
 </ul>
 <p>The server logs all of these details for each request it receives. This can be useful for debugging, analytics, and other purposes.</p>
-c:["$","$L16",null,{"children":[["$","div",null,{"className":"mb-6","children":[["$","$L17",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Docker Python Dump HTTP Request Example"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"20 April, 2025"}]]}],"",["$","$L18",null,{"html":"$19","slug":"docker-python-dump-http-request","title":"Docker Python Dump HTTP Request Example"}],"$L1a","$L1b"]}]
-1c:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-96920393002296c8.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-c418f8b972a4b1b5.js"],""]
-1a:["$","$L1c",null,{"id":"MathJax-script","src":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js","async":true,"strategy":"afterInteractive"}]
-1b:["$","$L1c",null,{"id":"MathJax-config","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"\n          MathJax = {\n            tex: {\n              inlineMath: [['((', '))']],\n              displayMath: [['[[', ']]']],\n            },\n            svg: {\n              fontCache: 'global'\n            }\n          };\n        "}}]
-1d:I[9993,[],"IconMark"]
-10:{"metadata":[["$","title","0",{"children":"Docker Python Dump HTTP Request Example"}],["$","meta","1",{"name":"description","content":"This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.\n\nThe mai"}],["$","link","2",{"rel":"icon","href":"/logo.jpg"}],["$","$L1d","3",{}]],"error":null,"digest":"$undefined"}
-15:"$10:metadata"
+6:["$","$L11",null,{"children":[["$","$L12",null,{"id":"post-json-ld-docker-python-dump-http-request","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Docker Python Dump HTTP Request Example\",\"description\":\"This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.\\n\\nThe mai\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/20d308b5-2d91-48fc-a2e5-318fd38b4a19.jpg\"],\"datePublished\":\"2025-04-20T05:47:13Z\",\"dateModified\":\"2025-04-20T05:47:13Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/docker-python-dump-http-request\",\"keywords\":\"post\"}"}}],["$","div",null,{"className":"mb-6","children":[["$","$L13",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Docker Python Dump HTTP Request Example"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"20 April, 2025"}]]}],"",["$","$L14",null,{"html":"$15","slug":"docker-python-dump-http-request","title":"Docker Python Dump HTTP Request Example"}],false]}]
+16:I[9993,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Docker Python Dump HTTP Request Example | xprilion's blog"}],["$","meta","1",{"name":"description","content":"This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.\n\nThe mai"}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"post"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/docker-python-dump-http-request"}],["$","meta","10",{"property":"og:title","content":"Docker Python Dump HTTP Request Example | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.\n\nThe mai"}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/docker-python-dump-http-request"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/20d308b5-2d91-48fc-a2e5-318fd38b4a19.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-20T05:47:13Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"post"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Docker Python Dump HTTP Request Example"}],["$","meta","21",{"name":"twitter:description","content":"This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.\n\nThe mai"}],["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/20d308b5-2d91-48fc-a2e5-318fd38b4a19.jpg"}],["$","link","23",{"rel":"icon","href":"/favicon.ico"}],["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L16","27",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

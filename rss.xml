@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss version="2.0">
+      <channel>
+        <title>xprilion&apos;s blog</title>
+        <link>https://xprilion.com</link>
+        <description>Hey, I&apos;m Anubhav Singh. I love building software, mixing stacks and making memes.</description>
+        <language>en</language>
+        
+        <item>
+          <title>74% better Hindi for IBM Granite 4.1 on a Laptop GPU</title>
+          <link>https://xprilion.com/teching-ibm-granite-hindi-on-a-laptop-gpu</link>
+          <guid>https://xprilion.com/teching-ibm-granite-hindi-on-a-laptop-gpu</guid>
+          <description>The model beats Opus 4.6 on table extraction, a sweet use-case for an SLM, and supports 10+ languages, alas, no Hindi. I decided to change that.</description>
+          <pubDate>Fri, 01 May 2026 05:56:11 GMT</pubDate>
+        </item>
+        <item>
+          <title>Autoscaling LLM Inference on GKE with TPU v5e and vLLM</title>
+          <link>https://xprilion.com/autoscaling-llm-inference-on-gke-with-tpu-v5e-and-vllm</link>
+          <guid>https://xprilion.com/autoscaling-llm-inference-on-gke-with-tpu-v5e-and-vllm</guid>
+          <description>This post documents the end-to-end process of deploying an autoscaling LLM inference endpoint on Google Kubernetes Engine using Cloud TPU v5e and vLLM. It covers everything from quota discovery to a l</description>
+          <pubDate>Wed, 29 Apr 2026 05:56:49 GMT</pubDate>
+        </item>
+        <item>
+          <title>Building YouTube Shopping AI with Gemini 3 Flash</title>
+          <link>https://xprilion.com/youtube-shopping-ai-with-gemini-3-flash</link>
+          <guid>https://xprilion.com/youtube-shopping-ai-with-gemini-3-flash</guid>
+          <description>YouTube-first shopping guides with Next.js + Gemini + Programmable Search</description>
+          <pubDate>Sat, 20 Dec 2025 20:02:23 GMT</pubDate>
+        </item>
+        <item>
+          <title>Golang vs Rust: API Performance Load Test</title>
+          <link>https://xprilion.com/golang-vs-rust-api-performance-load-test</link>
+          <guid>https://xprilion.com/golang-vs-rust-api-performance-load-test</guid>
+          <description>Roughly 8 months back, I wrote [an article comparing the performance of Python against Golang](https://xprilion.com/golang-vs-python-api-performance-load-test/), and the latter emerged a clear winner.</description>
+          <pubDate>Fri, 02 May 2025 12:05:06 GMT</pubDate>
+        </item>
+        <item>
+          <title>What&apos;s Next for Call Centers? Embracing AI in 2024</title>
+          <link>https://xprilion.com/whats-next-for-call-centers-embracing-ai-in-2024</link>
+          <guid>https://xprilion.com/whats-next-for-call-centers-embracing-ai-in-2024</guid>
+          <description>Stuck at a problem with your newly bought printer? Or maybe your order is being shipped to another country without your consent? Like, you turned to a call-based customer support session to get it sol</description>
+          <pubDate>Fri, 02 May 2025 12:02:37 GMT</pubDate>
+        </item>
+        <item>
+          <title>Ollama Models on Cloud Run</title>
+          <link>https://xprilion.com/ollama-models-on-google-cloud-run</link>
+          <guid>https://xprilion.com/ollama-models-on-google-cloud-run</guid>
+          <description>This blog is a read-along for the repository [xprilion/ollama-cloud-run](https://github.com/xprilion/ollama-cloud-run/) which shows how to deploy various models using the Ollama API on Cloud Run, to r</description>
+          <pubDate>Fri, 02 May 2025 11:58:31 GMT</pubDate>
+        </item>
+        <item>
+          <title>Firebase Data Connect - Getting Started</title>
+          <link>https://xprilion.com/firebase-data-connect-getting-started</link>
+          <guid>https://xprilion.com/firebase-data-connect-getting-started</guid>
+          <description>tl;dr - Demo: [https://dataconnectdemo-x.web.app/](https://dataconnectdemo-x.web.app/), Github: [https://github.com/xprilion/firebase-data-connect-demo](https://github.com/xprilion/firebase-data-conne</description>
+          <pubDate>Fri, 02 May 2025 11:35:07 GMT</pubDate>
+        </item>
+        <item>
+          <title>How much Randomness do you really need?</title>
+          <link>https://xprilion.com/how-much-randomness-do-you-really-need</link>
+          <guid>https://xprilion.com/how-much-randomness-do-you-really-need</guid>
+          <description>&gt; tl;dr: This article doesn&apos;t tell you how to generate more random numbers, it asks you - do you need it? And also sort of tells you how to generate more random numbers along the way.
+
+In a world full</description>
+          <pubDate>Fri, 02 May 2025 09:06:38 GMT</pubDate>
+        </item>
+        <item>
+          <title>Resume Template by Anubhav - Beat the ATS</title>
+          <link>https://xprilion.com/resume-template-by-anubhav</link>
+          <guid>https://xprilion.com/resume-template-by-anubhav</guid>
+          <description>tl;dr - I made [a resume template that scores high on ATS systems and has become insanely popular](https://www.overleaf.com/latex/templates/resume-template-by-anubhav/dhmkrwtksdgy)! Since then, I have</description>
+          <pubDate>Fri, 02 May 2025 09:00:48 GMT</pubDate>
+        </item>
+        <item>
+          <title>Golang vs Python: API Performance Load Test</title>
+          <link>https://xprilion.com/golang-vs-python-api-performance-load-test</link>
+          <guid>https://xprilion.com/golang-vs-python-api-performance-load-test</guid>
+          <description>In 2016, when I had started learning Python, I was increasingly convinced it would be the last programming language I would learn. After countless projects created with Python, a couple of technical b</description>
+          <pubDate>Fri, 02 May 2025 08:58:32 GMT</pubDate>
+        </item>
+        <item>
+          <title>Build a Gemini Store with Google Sheets</title>
+          <link>https://xprilion.com/build-a-google-gemini-pro-store-with-google-sheets</link>
+          <guid>https://xprilion.com/build-a-google-gemini-pro-store-with-google-sheets</guid>
+          <description>Giving personalities to your Gemini APIs via Gemini Store in Google Sheets</description>
+          <pubDate>Fri, 02 May 2025 08:57:32 GMT</pubDate>
+        </item>
+        <item>
+          <title>Revamping my blog with Hashnode Headless CMS</title>
+          <link>https://xprilion.com/gatsby-hashnode-headless-starter-kit</link>
+          <guid>https://xprilion.com/gatsby-hashnode-headless-starter-kit</guid>
+          <description>This blog has been written for the Hashnode Headless API Hackathon and the Gatsby + Hashnode Headless + Typescript is publicly available at - [https://github.com/xprilion/gatsby-hashnode-headless](htt</description>
+          <pubDate>Fri, 02 May 2025 08:55:11 GMT</pubDate>
+        </item>
+        <item>
+          <title>The Story of the Wright Brothers and Samuel Pierpont Langley</title>
+          <link>https://xprilion.com/the-story-of-the-wright-brothers-and-samuel-pierpont-langley</link>
+          <guid>https://xprilion.com/the-story-of-the-wright-brothers-and-samuel-pierpont-langley</guid>
+          <description>*In the dawn of the 20th century, the quest to conquer the skies was akin to a modern space race. The central figures in this drama were the Wright brothers, Orville and Wilbur, and a distinguished fi</description>
+          <pubDate>Fri, 02 May 2025 08:53:26 GMT</pubDate>
+        </item>
+        <item>
+          <title>Docker Python Dump HTTP Request Example</title>
+          <link>https://xprilion.com/docker-python-dump-http-request</link>
+          <guid>https://xprilion.com/docker-python-dump-http-request</guid>
+          <description>This blog is an explanation for the code present in the [github.com/xprilion/docker-python-dump-http-request-example](http://github.com/xprilion/docker-python-dump-http-request-example) repo.
+
+The mai</description>
+          <pubDate>Sun, 20 Apr 2025 05:47:13 GMT</pubDate>
+        </item>
+        <item>
+          <title>Job Scheduling on Google Cloud Platform</title>
+          <link>https://xprilion.com/job-scheduling-on-google-cloud-platform</link>
+          <guid>https://xprilion.com/job-scheduling-on-google-cloud-platform</guid>
+          <description>&gt; Job scheduling is like conducting an orchestra; every task must play its part at the right time to create a harmonious symphony of efficiency.
+
+In the world of software systems, job scheduling plays</description>
+          <pubDate>Sun, 20 Apr 2025 05:44:31 GMT</pubDate>
+        </item>
+        <item>
+          <title>Python Websockets SSL with Let&apos;s Encrypt</title>
+          <link>https://xprilion.com/python-websockets-ssl-with-lets-encrypt</link>
+          <guid>https://xprilion.com/python-websockets-ssl-with-lets-encrypt</guid>
+          <description>This tutorial is an explanation of my gist [Python Websockets SSL with Let&apos;s Encrypt](https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6) .
+
+With the launch of HTML5 in 2008, a technolo</description>
+          <pubDate>Sun, 20 Apr 2025 05:27:09 GMT</pubDate>
+        </item>
+        <item>
+          <title>High Availability ML Deployments</title>
+          <link>https://xprilion.com/high-availability-ml-deployments</link>
+          <guid>https://xprilion.com/high-availability-ml-deployments</guid>
+          <description>&gt; The average cost of IT downtime is $5,600 per minute.
+
+~ Gartner
+
+Downtimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the te</description>
+          <pubDate>Sun, 20 Apr 2025 05:19:39 GMT</pubDate>
+        </item>
+        <item>
+          <title>Dividing is Easy, Unite if you can</title>
+          <link>https://xprilion.com/divide-vs-unite</link>
+          <guid>https://xprilion.com/divide-vs-unite</guid>
+          <description>There’s always an easy option and one that needs courage, patience and a strong will.
+
+When I was a kid, every evening, I used to go out to play in a park nearby my home. We were a good mix of kids </description>
+          <pubDate>Sun, 20 Apr 2025 05:16:51 GMT</pubDate>
+        </item>
+        <item>
+          <title>The Cost of Standing Out</title>
+          <link>https://xprilion.com/cost-of-standing-out</link>
+          <guid>https://xprilion.com/cost-of-standing-out</guid>
+          <description>9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.
+
+The website gained almost 60</description>
+          <pubDate>Sun, 20 Apr 2025 05:14:17 GMT</pubDate>
+        </item>
+        <item>
+          <title>Decoding Propaganda In Memes</title>
+          <link>https://xprilion.com/decoding-propaganda-in-memes</link>
+          <guid>https://xprilion.com/decoding-propaganda-in-memes</guid>
+          <description>Memes - the nice images you see floating around literally everywhere on the Internet these days and the stuff that fuels your social media. Memes began as a source of entertainment - containing jokes </description>
+          <pubDate>Sun, 20 Apr 2025 05:08:42 GMT</pubDate>
+        </item>
+        <item>
+          <title>Working with Amazon Keyspaces Cassandra distribution using Python</title>
+          <link>https://xprilion.com/python-amazon-keyspaces-cassandra</link>
+          <guid>https://xprilion.com/python-amazon-keyspaces-cassandra</guid>
+          <description>[Cassandra](https://cassandra.apache.org/doc/latest/) is a popular NoSQL database with capabilities to handle massive data by using a distributed array of commodity hardware. After a boring introducti</description>
+          <pubDate>Sun, 20 Apr 2025 05:05:54 GMT</pubDate>
+        </item>
+        <item>
+          <title>A Generic MongoDB Wrapper API with Flask and PyMongo</title>
+          <link>https://xprilion.com/generic-mongodb-wrapper-using-flask-pymongo</link>
+          <guid>https://xprilion.com/generic-mongodb-wrapper-using-flask-pymongo</guid>
+          <description>---
+
+Hey there, hope you&apos;re well! It&apos;s been a while since I wrote something here, to my defence I wrote this tutorial about [How to setup a secure, remote JupyterLab workstation](https://www.digitaloc</description>
+          <pubDate>Sun, 20 Apr 2025 04:51:04 GMT</pubDate>
+        </item>
+        <item>
+          <title>Machine Learning On 2GB RAM</title>
+          <link>https://xprilion.com/ml-on-2gb-ram</link>
+          <guid>https://xprilion.com/ml-on-2gb-ram</guid>
+          <description>If you think you read the title, or maybe I typed it wrong, you&apos;re wrong in both cases. The title proposes an article about performing machine learning with the bare minimum RAM usage, and that&apos;s what</description>
+          <pubDate>Sun, 20 Apr 2025 04:37:03 GMT</pubDate>
+        </item>
+        <item>
+          <title>Methods of Integrating Artificial Intelligence on Flutter</title>
+          <link>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter</link>
+          <guid>https://xprilion.com/methods-of-integrating-artificial-intelligence-on-flutter</guid>
+          <description>---
+
+One of the coolest UI toolkit&apos;s for cross-platform applications, [Flutter](https://flutter.dev), a Google offering has grown rapidly in popularity over the last few years. While there are specula</description>
+          <pubDate>Fri, 18 Apr 2025 18:38:02 GMT</pubDate>
+        </item>
+        <item>
+          <title>Folding@Home Setup - Local and Cloud VM</title>
+          <link>https://xprilion.com/folding-at-home-setup</link>
+          <guid>https://xprilion.com/folding-at-home-setup</guid>
+          <description>---
+
+The world is facing an unprecedented situation with the [Coronavirus outbreak](https://www.who.int/emergencies/diseases/novel-coronavirus-2019). It is crucial at these times for everyone to join </description>
+          <pubDate>Fri, 18 Apr 2025 18:35:47 GMT</pubDate>
+        </item>
+        <item>
+          <title>Being Noob - Starting a tech journey</title>
+          <link>https://xprilion.com/being-noob</link>
+          <guid>https://xprilion.com/being-noob</guid>
+          <description>Hi there! I realized I began sort of suddenly, talking about networks first and then a tech scholarship, while not having yet talked about how things began for me and what I believe is a good way to l</description>
+          <pubDate>Fri, 18 Apr 2025 18:32:38 GMT</pubDate>
+        </item>
+        <item>
+          <title>What is the Venkat Panchapakesan Memorial Scholarship and Why its not won in a day</title>
+          <link>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1</link>
+          <guid>https://xprilion.com/venkat-panchapakesan-memorial-scholarship-part-1</guid>
+          <description>It was with a crazy smile and immense gratitude that I read through the entire mail from Google India about being awarded the [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgo</description>
+          <pubDate>Fri, 18 Apr 2025 18:30:44 GMT</pubDate>
+        </item>
+        <item>
+          <title>Difference between localhost, 127.0.0.1 and 0.0.0.0</title>
+          <link>https://xprilion.com/difference-between-localhost-127001-and-0000</link>
+          <guid>https://xprilion.com/difference-between-localhost-127001-and-0000</guid>
+          <description>I&apos;ve been often asked, why do we sometimes need to specify the IP for a program to be `0.0.0.0` in order to get it to be accessible from machines outsides the network. I shall attempt to answer the qu</description>
+          <pubDate>Fri, 18 Apr 2025 18:25:54 GMT</pubDate>
+        </item>
+        <item>
+          <title>OMG, a new look!</title>
+          <link>https://xprilion.com/hello-world</link>
+          <guid>https://xprilion.com/hello-world</guid>
+          <description>Hey there! If you have visited my website in 2019 or before, you would know that my website was pretty blue and very blue. Overall, it was unexciting, and there was no fresh content on it. But did tha</description>
+          <pubDate>Fri, 18 Apr 2025 07:41:34 GMT</pubDate>
+        </item>
+      </channel>
+    </rss>
