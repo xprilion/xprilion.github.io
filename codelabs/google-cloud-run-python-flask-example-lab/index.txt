@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[2076,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"ThemeProvider"]
+3:I[1181,[],""]
+4:I[7305,[],""]
+5:I[6213,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"GoogleAnalytics"]
+7:I[3424,[],"OutletBoundary"]
+9:I[7001,[],"AsyncMetadataOutlet"]
+b:I[3424,[],"ViewportBoundary"]
+d:I[3424,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[2223,[],""]
+:HL["/_next/static/media/22966f4f11fece13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
+:HL["/_next/static/css/2dba37557e579c7e.css","style"]
+:HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
+0:{"P":null,"b":"D1ojAiT21PmIQlbzCsiMa","p":"","c":["","codelabs","google-cloud-run-python-flask-example-lab",""],"i":false,"f":[[["",{"children":["codelabs",{"children":[["slug","google-cloud-run-python-flask-example-lab","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["codelabs",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","google-cloud-run-python-flask-example-lab","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+8:null
+11:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],""]
+12:I[2631,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],"default"]
+13:I[3792,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],"default"]
+14:Tc1f,<h2>Overview</h2>
+<p>Duration: 1</p>
+<p>Hey there!</p>
+<p>This codelab will walk you through the process of creating a simple "Hello World" application using Python Flask and deploying it to Google Cloud Run.</p>
+<h2>Requirements</h2>
+<p>Duration: 2</p>
+<p>In order to follow this codelab, you'll need the following:</p>
+<ul>
+<li>A Google Cloud Platform account.</li>
+<li>Google Cloud CLI installed and initialized.</li>
+<li>Python installed locally.</li>
+</ul>
+<h2>Setting Up Your Google Cloud Account</h2>
+<p>Duration: 10</p>
+<ul>
+<li>Head over to <a href="https://console.cloud.google.com/" rel="noopener noreferrer">Google Cloud Platform</a> and create an account.</li>
+<li>Enable billing</li>
+<li>Create a new project, let's name it <code>project-x</code>.</li>
+</ul>
+<h2>Install Google Cloud CLI</h2>
+<p>Duration: 5</p>
+<p>Follow the official guide to install the Google Cloud CLI: <a href="https://cloud.google.com/sdk/docs/install" rel="noopener noreferrer">Installing Google Cloud SDK</a>.</p>
+<h2>Create and Run the Flask Application</h2>
+<p>Duration: 15</p>
+<p>Create a file named <a href="http://main.py" rel="noopener noreferrer"><code>main.py</code></a> with the following content:</p>
+<pre><code class="language-python">from flask import Flask
+import os
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+
+if __name__ == '__main__':
+    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
+</code></pre>
+<p>Install Flask:</p>
+<pre><code class="language-bash">pip install Flask
+</code></pre>
+<p>Create a Python virtual environment and activate it:</p>
+<pre><code class="language-bash">python3 -m venv .venv
+source .venv/bin/activate
+</code></pre>
+<p>Set up a new directory for your project:</p>
+<pre><code class="language-bash">mkdir hello-world-cloud-run
+cd hello-world-cloud-run
+</code></pre>
+<h2>Running the App Locally</h2>
+<p>Duration: 2</p>
+<ul>
+<li>Open your web browser and go to <a href="http://localhost:8080" rel="noopener noreferrer"><code>http://localhost:8080</code></a>. You should see the "Hello, World!" message.</li>
+</ul>
+<p>Run your application locally:</p>
+<pre><code class="language-bash">python main.py
+</code></pre>
+<h2>Deploy to Google Cloud Run</h2>
+<p>Duration: 5</p>
+<ul>
+<li>Wait for the deployment to complete. You will receive a URL where your application is live.</li>
+</ul>
+<p>Deploy your application to Google Cloud Run:</p>
+<pre><code class="language-bash">gcloud run deploy
+</code></pre>
+<p>Generate the requirements.txt file</p>
+<pre><code class="language-bash">pip list --format=freeze &gt; requirements.txt
+</code></pre>
+<h2>Conclusion</h2>
+<p>Duration: 1</p>
+<p>Congratulations! You've just built and deployed a simple application on Google Cloud Run using Python and Flask!</p>
+<h2>What's Next?</h2>
+<p>Duration: 1</p>
+<ul>
+<li>Experiment with adding more routes and functionalities to your Flask application.</li>
+<li>Learn more about managing and monitoring your applications on Google Cloud Run.</li>
+<li>Explore other Google Cloud services that can enhance your application.</li>
+</ul>
+6:["$","div",null,{"className":"flex flex-col min-h-screen px-2 md:px-4 bg-background text-foreground","children":[["$","$L11",null,{"id":"codelab-json-ld-google-cloud-run-python-flask-example-lab","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"LearningResource\",\"headline\":\"Google Cloud Run example using Python Flask\",\"name\":\"Google Cloud Run example using Python Flask\",\"description\":\"An example of deploying a Python Flask application to Google Cloud Run.\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/210ad8eb-acea-4150-ba52-58ce6d568e9c.jpg\"],\"datePublished\":\"2025-05-02T08:52:27Z\",\"dateModified\":\"2025-05-02T08:52:27Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/codelabs/google-cloud-run-python-flask-example-lab\",\"keywords\":\"codelab, python, gcp, cloud-run\",\"learningResourceType\":\"Codelab\"}"}}],["$","$L12",null,{"title":"Google Cloud Run example using Python Flask","closeBtn":true}],["$","main",null,{"className":"flex-grow w-full px-1","children":["$","div",null,{"className":"w-full py-2","children":["$","$L13",null,{"htmlContent":"$14","upperContent":"$L15","bottomContent":"$L16"}]}]}],"$L17",false]}]
+18:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],""]
+15:"$undefined"
+16:"$undefined"
+17:["$","div",null,{"className":"w-full mx-auto py-6 max-w-6xl px-4 border-t border-border","children":[["$","div",null,{"className":"flex flex-col sm:flex-row justify-between gap-2","children":[["$","div",null,{"className":"text-center sm:text-left text-foreground","children":["© Anubhav Singh ",2026]}],["$","div",null,{"className":"text-center sm:text-right","children":[["$","$L18",null,{"href":"/sitemap.xml","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Sitemap"}],["$","span",null,{"className":"mx-1 text-foreground","children":"·"}],["$","$L18",null,{"href":"/newsletter","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Newsletter"}]]}]]}],["$","p",null,{"className":"mt-4 text-center text-sm text-muted-foreground","children":["Powered by"," ",["$","$L18",null,{"href":"https://whiz.pub","className":"text-primary hover:underline","target":"_blank","rel":"noopener noreferrer","children":"Whiz.pub"}],". Create your own minimal blog today."]}]]}]
+19:I[9993,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Google Cloud Run example using Python Flask | xprilion's blog"}],["$","meta","1",{"name":"description","content":"An example of deploying a Python Flask application to Google Cloud Run."}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"codelab,python,gcp,cloud-run"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/codelabs/google-cloud-run-python-flask-example-lab/"}],["$","meta","10",{"property":"og:title","content":"Google Cloud Run example using Python Flask | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"An example of deploying a Python Flask application to Google Cloud Run."}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/codelabs/google-cloud-run-python-flask-example-lab/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/210ad8eb-acea-4150-ba52-58ce6d568e9c.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-05-02T08:52:27Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"codelab"}],["$","meta","19",{"property":"article:tag","content":"python"}],["$","meta","20",{"property":"article:tag","content":"gcp"}],["$","meta","21",{"property":"article:tag","content":"cloud-run"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"Google Cloud Run example using Python Flask"}],["$","meta","24",{"name":"twitter:description","content":"An example of deploying a Python Flask application to Google Cloud Run."}],["$","meta","25",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/210ad8eb-acea-4150-ba52-58ce6d568e9c.jpg"}],["$","link","26",{"rel":"icon","href":"/favicon.ico"}],["$","link","27",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","28",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","29",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L19","30",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

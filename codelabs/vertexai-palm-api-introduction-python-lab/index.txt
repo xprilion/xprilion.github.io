@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[2076,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"ThemeProvider"]
+3:I[1181,[],""]
+4:I[7305,[],""]
+5:I[6213,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"GoogleAnalytics"]
+7:I[3424,[],"OutletBoundary"]
+9:I[7001,[],"AsyncMetadataOutlet"]
+b:I[3424,[],"ViewportBoundary"]
+d:I[3424,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[2223,[],""]
+:HL["/_next/static/media/22966f4f11fece13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
+:HL["/_next/static/css/2dba37557e579c7e.css","style"]
+:HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
+0:{"P":null,"b":"D1ojAiT21PmIQlbzCsiMa","p":"","c":["","codelabs","vertexai-palm-api-introduction-python-lab",""],"i":false,"f":[[["",{"children":["codelabs",{"children":[["slug","vertexai-palm-api-introduction-python-lab","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["codelabs",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vertexai-palm-api-introduction-python-lab","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+8:null
+11:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],""]
+12:I[2631,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],"default"]
+13:I[3792,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],"default"]
+14:T1f1d,<h2>Overview</h2>
+<p>Duration: 1</p>
+<p>Hey there!</p>
+<p>In this Codelab, we'll walk through creating a simple chatbot based game using Google Cloud's Vertex AI and Flask, a popular web framework in Python. Our application will ask you to make a guess about what the bot is thinking and the bot will respond with hints about what it is thinking and how far away your guess is from the correct item.</p>
+<h2>Requirements</h2>
+<p>Duration: 2</p>
+<p>In order to follow this codelab, you'll need the following:</p>
+<ul>
+<li>A Google Cloud Platform account with active billing.</li>
+<li>A development environment with Python 3.7 or above installed.</li>
+<li>Access to terminal/shell for executing commands.</li>
+</ul>
+<h2>Setting Up Your Google Cloud Environment</h2>
+<p>Duration: 10</p>
+<ul>
+<li>Log in to your <a href="https://console.cloud.google.com/" rel="noopener noreferrer">Google Cloud Platform</a> account.</li>
+<li>Create a new project, let's name it <code>project-x</code>.</li>
+<li>Enable <a href="https://cloud.google.com/billing/docs/how-to/modify-project" rel="noopener noreferrer">billing for the project</a>.</li>
+<li>Navigate to the <a href="https://console.cloud.google.com/apis/dashboard" rel="noopener noreferrer">APIs &amp; Services dashboard</a> and enable the Vertex AI API.</li>
+<li><a href="https://cloud.google.com/iam/docs/keys-create-delete" rel="noopener noreferrer">Create a service account and download the JSON key file</a> (<code>key.json</code>). Store this file safely.</li>
+</ul>
+<h2>Setting Up Your Local Environment</h2>
+<p>Duration: 5</p>
+<p>Install other required libraries:</p>
+<pre><code class="language-bash">pip install marko google-cloud-aiplatform
+</code></pre>
+<p>Install Flask:</p>
+<pre><code class="language-bash">pip install Flask
+</code></pre>
+<h2>Write the driving code</h2>
+<p>Duration: 10</p>
+<ul>
+<li><strong>Importing Libraries</strong>: We start by importing necessary Python libraries. Flask for our web framework, Vertex AI for AI model interaction, and others for various functionalities.</li>
+</ul>
+<pre><code class="language-python">import os
+from flask import Flask, request, Response, g, render_template, jsonify
+import marko
+import vertexai
+from vertexai.language_models import TextGenerationModel
+</code></pre>
+<ul>
+<li><strong>Initializing the App and Vertex AI</strong>: We initialize our Flask app and configure Vertex AI with our GCP project details.</li>
+</ul>
+<pre><code class="language-python">
+app = Flask(__name__)
+app.debug = True
+
+vertexai.init(project="project-x", location="us-central1")
+parameters = {
+    "temperature": 1,
+    "max_output_tokens": 256,
+    "top_p": 0.8,
+    "top_k": 40
+}
+
+model = TextGenerationModel.from_pretrained("text-bison@001")
+</code></pre>
+<ul>
+<li><strong>Defining Routes</strong>: We define two routes - one for the home page and another for handling chat messages.</li>
+</ul>
+<pre><code class="language-python">@app.route('/', methods=['GET'])
+def hello_world():
+    return render_template("chat.html")
+
+@app.route('/chat/&lt;guess&gt;/&lt;actual&gt;', methods=['GET'])
+def chat(guess, actual):
+    response = model.predict(
+        "You are the bot in a guessing game where the player tries to guess a secret item you are thinking about. " +
+        "The rules of the game are: 1. the player will make a guess. 2. if the guess is correct or very close to the correct answer, you will say, 'Congratulations, you've got it right!' " +
+         "3. If they are not very close to the actual item, respond with a humorous remark about their guess. Then without mentioning the actual item, " + actual + ", provide a subtle hint to guide the player closer to the secret item." +
+        "The player has just guessed " + guess + ".",
+        **parameters
+    )
+
+    return jsonify({
+        "response": marko.convert(response.text)
+    })
+
+if __name__ == '__main__':
+    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
+</code></pre>
+<p>With the backend done, we're free to implement the UI for the API in any manner we want to.</p>
+<h2>UI for the application</h2>
+<p>Duration: 10</p>
+<p>Now, we can develop a quick UI to work with the API of the chatbot. Here's some sample HTML/JS to create one such UI.</p>
+<pre><code class="language-html">&lt;div&gt;
+    &lt;div id="chat-box" class="bg-light p-3 mb-3 rounded"&gt;
+        &lt;blockquote style="border-left: 4px solid #43a047;"&gt;Bot: Can you guess what am I thinking?&lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;progress id="progress-bar" style="display: none"&gt;&lt;/progress&gt;
+    &lt;div class="input-group"&gt;
+        &lt;input id="chat-input" type="text" class="form-control" placeholder="Type your message..."&gt;
+        &lt;div class="input-group-append"&gt;
+            &lt;button id="send-button" class="btn btn-primary"&gt;Guess&lt;/button&gt;
+            &lt;button id="quit-button"&gt;Give Up&lt;/button&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+$(function() {
+    const items = [
+    "Eiffel Tower",
+    "Pineapple",
+    // ... many more!
+    "Rubik's Cube",
+    "Bamboo"
+];
+
+    var actual_item = items[Math.floor(Math.random()*items.length)];
+
+    $('#chat-input').keypress(function(e) {
+        if(e.which == 13) { // 13 is the Enter key
+            $('#send-button').click();
+        }
+    });
+
+    $('#quit-button').click(function() {
+        $('#chat-box').append('&lt;blockquote style="border-left: 4px solid red;"&gt;Bot: The answer was ' + actual_item + '&lt;/blockquote&gt;');
+        $('#chat-input').val('');
+        $('#chat-input').prop('disabled', true);
+        $('#send-button').prop('disabled', true);
+        $('#quit-button').prop('disabled', true);
+    });
+
+    $('#send-button').click(function() {
+        var input = $('#chat-input').val().trim();
+        if (input !== '') {
+            $('#chat-box').append('&lt;blockquote style="border-left: 4px solid dodgerblue;"&gt;User: ' + input + '&lt;/blockquote&gt;');
+            $('#chat-input').val('');
+            $('#progress-bar').show();
+            // Use AJAX to send the input to the server and get a response
+            $.ajax({
+                url: '/chat/' + encodeURIComponent(input) + '/' + encodeURIComponent(actual_item),
+                type: 'GET',
+                success: function(data) {
+                    $('#chat-box').append('&lt;blockquote style="border-left: 4px solid #43a047;"&gt;Bot: ' + data.response + '&lt;/blockquote&gt;');
+                    $('#progress-bar').hide();
+                },
+                error: function() {
+                    $('#chat-box').append('&lt;blockquote style="border-left: 4px solid red;"&gt;Bot: Sorry, I am not able to respond at the moment.&lt;/blockquote&gt;');
+                    $('#progress-bar').hide();
+                }
+            });
+        }
+    });
+});
+&lt;/script&gt;
+</code></pre>
+<h2>Running the App</h2>
+<p>Duration: 2</p>
+<ul>
+<li>Open your web browser and go to <a href="http://localhost:8080" rel="noopener noreferrer"><code>http://localhost:8080</code></a>. You should see your chatbot interface.</li>
+</ul>
+<p>Run your application:</p>
+<pre><code class="language-bash">python main.py
+</code></pre>
+<h2>Interacting with Your Chatbot</h2>
+<p>Duration: 2</p>
+<ul>
+<li>The bot will greet you asking you to guess what the bot is thinking about.</li>
+<li>Enter a guess in the chat interface.</li>
+<li>The chatbot will respond with if your guess was close to what the actual secret item it was thinking about!</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Duration: 1</p>
+<p>Congratulations! You've just built and deployed a simple chatbot using Flask and Google Cloud's Vertex AI. This bot plays a guessing game with the users!</p>
+<h2>What's Next?</h2>
+<p>Duration: 1</p>
+<ul>
+<li>Experiment with different model parameters to see how they affect the output.</li>
+<li>Try integrating this chatbot into a larger web application.</li>
+<li>Explore other capabilities of Vertex AI.</li>
+</ul>
+6:["$","div",null,{"className":"flex flex-col min-h-screen px-2 md:px-4 bg-background text-foreground","children":[["$","$L11",null,{"id":"codelab-json-ld-vertexai-palm-api-introduction-python-lab","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"LearningResource\",\"headline\":\"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP\",\"name\":\"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP\",\"description\":\"A starter guide to building innovative solutions with PaLM2 API via Vertex AI on GCP.\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/ae811b68-b61b-4953-84ab-f66fa757db42.jpg\"],\"datePublished\":\"2025-05-02T08:50:07Z\",\"dateModified\":\"2025-05-02T08:50:07Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/codelabs/vertexai-palm-api-introduction-python-lab\",\"keywords\":\"codelab\",\"learningResourceType\":\"Codelab\"}"}}],["$","$L12",null,{"title":"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP","closeBtn":true}],["$","main",null,{"className":"flex-grow w-full px-1","children":["$","div",null,{"className":"w-full py-2","children":["$","$L13",null,{"htmlContent":"$14","upperContent":"$L15","bottomContent":"$L16"}]}]}],"$L17",false]}]
+18:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","188","static/chunks/188-e20208721c881689.js","182","static/chunks/app/codelabs/%5Bslug%5D/page-cc31c9cd8c924116.js"],""]
+15:"$undefined"
+16:"$undefined"
+17:["$","div",null,{"className":"w-full mx-auto py-6 max-w-6xl px-4 border-t border-border","children":[["$","div",null,{"className":"flex flex-col sm:flex-row justify-between gap-2","children":[["$","div",null,{"className":"text-center sm:text-left text-foreground","children":["© Anubhav Singh ",2026]}],["$","div",null,{"className":"text-center sm:text-right","children":[["$","$L18",null,{"href":"/sitemap.xml","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Sitemap"}],["$","span",null,{"className":"mx-1 text-foreground","children":"·"}],["$","$L18",null,{"href":"/newsletter","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Newsletter"}]]}]]}],["$","p",null,{"className":"mt-4 text-center text-sm text-muted-foreground","children":["Powered by"," ",["$","$L18",null,{"href":"https://whiz.pub","className":"text-primary hover:underline","target":"_blank","rel":"noopener noreferrer","children":"Whiz.pub"}],". Create your own minimal blog today."]}]]}]
+19:I[9993,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP | xprilion's blog"}],["$","meta","1",{"name":"description","content":"A starter guide to building innovative solutions with PaLM2 API via Vertex AI on GCP."}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"codelab"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/codelabs/vertexai-palm-api-introduction-python-lab/"}],["$","meta","10",{"property":"og:title","content":"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"A starter guide to building innovative solutions with PaLM2 API via Vertex AI on GCP."}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/codelabs/vertexai-palm-api-introduction-python-lab/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/ae811b68-b61b-4953-84ab-f66fa757db42.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-05-02T08:50:07Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"codelab"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Introduction to Building Solutions with PaLM2 API via VertexAI on GCP"}],["$","meta","21",{"name":"twitter:description","content":"A starter guide to building innovative solutions with PaLM2 API via Vertex AI on GCP."}],["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/ae811b68-b61b-4953-84ab-f66fa757db42.jpg"}],["$","link","23",{"rel":"icon","href":"/favicon.ico"}],["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L19","27",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

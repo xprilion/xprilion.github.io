@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[2076,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"ThemeProvider"]
+3:I[1181,[],""]
+4:I[7305,[],""]
+5:I[6213,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"GoogleAnalytics"]
+7:I[3424,[],"OutletBoundary"]
+9:I[7001,[],"AsyncMetadataOutlet"]
+b:I[3424,[],"ViewportBoundary"]
+d:I[3424,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[2223,[],""]
+:HL["/_next/static/media/22966f4f11fece13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
+:HL["/_next/static/css/2dba37557e579c7e.css","style"]
+:HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
+0:{"P":null,"b":"D1ojAiT21PmIQlbzCsiMa","p":"","c":["","high-availability-ml-deployments",""],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","high-availability-ml-deployments","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","high-availability-ml-deployments","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+8:null
+11:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],"default"]
+12:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],""]
+13:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],""]
+14:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],"default"]
+15:T3337,<blockquote>
+<p>The average cost of IT downtime is $5,600 per minute.</p>
+</blockquote>
+<p>~ Gartner</p>
+<p>Downtimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the technical and business community, or even all of these together. Downtimes are not fun, and until it happens to us, we all tend to think it cannot happen to us.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-23.png" alt="" />
+What makes the challenge more difficult is the fact that the world is rapidly incorporating more and more Machine learning on the web, and this has led to complexities that did not exist with non-ML software solutions.</p>
+<p>In this blog, we'll be exploring how to design a machine learning based solution that is highly reliable and does not suffer much when downtimes occur.</p>
+<p>In this 2 part article, we’ll try to find answers to the following questions:</p>
+<ul>
+<li>How quickly can your system bounce back from disasters?</li>
+<li>Are your ML deployments resilient?</li>
+<li>When can you call your system architecture “high availability”?</li>
+</ul>
+<h2>Part 1 - Undestanding HADR systems</h2>
+<p>Let us begin by understanding a few basics of High Availability Disaster Recovery (HADR) systems. We'll cover a few key terms and then some common system topologies.</p>
+<h3>Key terms related to HADR systems</h3>
+<p>Key terms that you should know about HADR systems -</p>
+<h4>High Availability</h4>
+<p>High availability (HA) describes the ability of an application to withstand all planned and unplanned outages (a planned outage could be performing a system upgrade) and to provide continuous processing for business-critical applications.</p>
+<h4>Disaster Recovery</h4>
+<p>Disaster recovery (DR) involves a set of policies, tools, and procedures for returning a system, an application, or an entire data center to full operation after a catastrophic interruption. It includes procedures for copying and storing an installed system's essential data in a secure location, and for recovering that data to restore normalcy of operation.</p>
+<h4>Unplanned downtime</h4>
+<p>Downtime caused by factors which were not introduced on purpose is called unplanned downtime. This can be majorly due to:</p>
+<ul>
+<li>Human Error</li>
+<li>Software Problems</li>
+<li>Hardware Failure</li>
+<li>Environmental Issues</li>
+</ul>
+<p><img src="https://media.tenor.com/VYujs2dkFTUAAAAC/gopi-bahu.gif" alt="" /></p>
+<h4>Planned downtime</h4>
+<p>The opposite of unplanned downtime.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-24.png" alt="" />
+Downtimes introduced on purpose, mostly are:</p>
+<ul>
+<li>System upgrades</li>
+<li>System repairs</li>
+<li>Restricted access due to business reasons</li>
+</ul>
+<h4>Chaos Engineering</h4>
+<p>Chaos engineering is a method of testing distributed software that deliberately introduces failure and faulty scenarios to verify its resilience in the face of random disruptions. These disruptions can cause applications to respond in unpredictable ways and can break under pressure.</p>
+<h4>Resilience</h4>
+<p>The ability of a solution to absorb the impact of a problem in one or more parts of a system, while continuing to provide an acceptable service level to the business customers.</p>
+<h3>Key metrics for analyzing your system design</h3>
+<p>The key metrics used to analyze system designs are -</p>
+<ul>
+<li>Production capacity in and out of region</li>
+<li>Platform availability</li>
+<li>Availability during planned outages</li>
+<li>Failure Impact</li>
+<li>Disaster recovery time</li>
+<li>Incident response time</li>
+</ul>
+<p>Next, let's look at some HADR system topologies, before we compare their metrics.</p>
+<h3>A 30,000ft view of high availability system design</h3>
+<p>HADR systems can be designed with several topologies ranging from simple ones - where you put all your eggs in a single basket - or complex ones - where you devise a fail-safe array of servers. Let us study a couple of them to understand how such topologies look like -</p>
+<p>Consider the following 2-Active topology -
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-25.png" alt="" />
+This topology shows that we provision 3 servers such that during normal operations, 2 servers load balance the traffic coming to the application while a third server stays on standby. This server gets activated in the event of failure of any or all of the active servers.</p>
+<p>An alternative to a 2-Active system topology is a 3-Active topology -
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-26.png" alt="" />
+In this system topology, we provision all three servers as active servers and in event of failure of any server, the other servers load balance the traffic, while the failed servers are brought back up.</p>
+<p>An obvious question here - which of these is better?</p>
+<p>Consider the following chart of metrics comparison for the above two systems against a single Active system -
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-27.png" alt="" />
+From the above, it can be said that while 3-active systems gives highest availability and lowest failure impacts, if your application is likely to expect surges, a 2-active system might give you better resilience.</p>
+<p>We shall wrap our discussion about HADR system topologies here. Next, we'll talk about challenges posed by ML in HADR systems and see a demo of these topologies in action!</p>
+<h2>Part 2 - HADR system challenges by ML deployments and load testing ML-HADR system</h2>
+<p>Machine Learning heavy deployments bring their own set of challenges to any HADR system. ML models can be deployed in several ways, due to which it becomes important for architects designing HADR systems to choose the right deployment strategies for best results.</p>
+<h3>Challenges posed to ML pipelines for high availability</h3>
+<p>Some of the challenges faced with ML deployments for HADR are -</p>
+<h4>What is a good ML deployment?</h4>
+<p>The definition of a good ML deployment changes with who is answering this question. Fir examples -</p>
+<p>Business owners - performs fast inference Researchers - highest accuracy Developers - gets built quickly Q/A engineers - never fails Investors - sounds cool, brings in the $$</p>
+<h4>Volume of data processed</h4>
+<p>Volume of data can be a major challenge to most ML systems. Too much data and you may be running late at your training and too less of it, your inference suffers.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-28.png" alt="" /></p>
+<h4>Quality of data</h4>
+<p>Data quality refers to how informative and complete a given chunk of data is. The lower the data quality, the tougher it is to derive insights from it.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-29.png" alt="" /></p>
+<h4>Model decay</h4>
+<p>The phenomenon in Machine Learning that leads to predictions made by a model become less accurate over time. Primary reasons for model decay are:</p>
+<ul>
+<li>Data drift</li>
+<li>Concept drift
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-30.png" alt="" /></li>
+</ul>
+<h4>Speed of inference against various inputs</h4>
+<p>Speed of inference can change with changing input. If your model performs inference under 1s for most images ranging appx 10MB, what does it do when someone uploads an image of 1GB? Does your system reject the image or does it take down the building?</p>
+<h3>Load testing ML-HADR systems</h3>
+<p>Finally, let us load-test a few topologies which server ML based content. To do so, we shall be using the Locus tool along with a self-engineered set of scripts that work as nodes and load balancer.</p>
+<p>I have published the code for this setup here - <a href="https://github.com/xprilion/dummy-topology-loadtest" rel="noopener noreferrer">https://github.com/xprilion/dummy-topology-loadtest</a></p>
+<p>The contents of this system are -</p>
+<ul>
+<li><a href="http://router.py" rel="noopener noreferrer"><code>router.py</code></a> : this file will act as a dummy load-balancer.</li>
+<li><code>predictors/predict**X**.py</code> - these files are numbered, replacing X, and will be active as node servers.</li>
+<li><code>topology/**topology_name**.json</code> - these json files contain information regarding the topologies available. We will be updating the data inside these files while load testing the topology they represent.</li>
+</ul>
+<p>To setup the load test run, first ensure that in the files inside the <code>topology</code> directory, all the topology files are in their initial states, as shown below -</p>
+<h4>Single server system</h4>
+<p>In this system, there is a single server handling all resources.</p>
+<pre><code class="language-plaintext">{
+    "predict1": {
+        "status": true,
+        "load": 0,
+        "port": "9696"
+    }
+}
+</code></pre>
+<h4>2 Active system</h4>
+<p>In this system, initially, there are 2 servers responding to requests. In event of failure of any one or both servers, a third system steps in as replacement while the other two are fixed.</p>
+<pre><code class="language-plaintext">{
+    "predict1": {
+        "status": true,
+        "load": 0,
+        "port": "9696"
+    },
+    "predict2": {
+        "status": true,
+        "load": 0,
+        "port": "9697"
+    },
+    "predict3": {
+        "status": false,
+        "load": 0,
+        "port": "9698"
+    }
+}
+</code></pre>
+<p>Notice that the <code>status</code> of <code>predict3</code> server is set to <code>false</code>.</p>
+<h4>3 Active system</h4>
+<p>In a 3-active system, there are 3 servers available to handle requests.</p>
+<pre><code class="language-plaintext">{
+    "predict1": {
+        "status": true,
+        "load": 0,
+        "port": "9696"
+    },
+    "predict2": {
+        "status": true,
+        "load": 0,
+        "port": "9697"
+    },
+    "predict3": {
+        "status": true,
+        "load": 0,
+        "port": "9698"
+    }
+}
+</code></pre>
+<p>Then, ensure that in <a href="http://router.py" rel="noopener noreferrer"><code>router.py</code></a>, the <code>topology</code> variable is set to <code>0</code>. This will correspond to the single server system.</p>
+<p>Next, we fire up the Locus UI by running the <code>locust</code> command inside the <code>locust</code> directory.</p>
+<p>Specify the number of users to spawn and the spawn rate. Provide a suitable host. Locust will inform the server under stress that the requests are coming from the specified host.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-31.png" alt="" />
+Click on <strong>Start Swarming</strong> to start throwing requests at the server based on the script specified in the <code>locust/</code><a href="http://locustfile.py" rel="noopener noreferrer"><code>locustfile.py</code></a>.</p>
+<p>Observe the charts that show how the system is responding to the increase in the load. After some time, the first server failures start appearing. We'll keep a note of when the first error appears.
+<img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/04/image-32.png" alt="" />
+Now, change the <code>topology</code> variable in <a href="http://router.py" rel="noopener noreferrer"><code>router.py</code></a> to <code>1</code> and run Locust. In the next step, change the <code>topology</code> variable to <code>2</code> and run Locust again.</p>
+<p>Let's plot a chart of when the first failures happen in case of each system -</p>
+<table>
+<thead>
+<tr>
+<th>Topology</th>
+<th>RPS at failure</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Single</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td>2-Active</td>
+<td>8.6</td>
+</tr>
+<tr>
+<td>3-Active</td>
+<td>7.4</td>
+</tr>
+</tbody></table>
+<p>As expected, the 2-Active system has the peak capacity in our use-case. However, here's an interesting observation -</p>
+<p>Let us compare the values of the predict servers on 2-Active and 3-Active systems after the load test -</p>
+<table>
+<thead>
+<tr>
+<th>Server</th>
+<th>2-Active</th>
+<th>3-Active</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Predict1</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Predict2</td>
+<td>10</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Predict3</td>
+<td>9</td>
+<td>8</td>
+</tr>
+</tbody></table>
+<p>As we see, the 2-Active system is completely saturated while the 3-Active system is slightly above half its capacity.</p>
+<p>Thus, even though the 2-Active system fails after the 3-Active system has shown its first error, the 3-Active system will saturate later and continue to serve requests for a longer duration.</p>
+<h2>Conclusion</h2>
+<p>Depending on the HADR system metric you may want to optimize for, you can choose the topology that works best for your use case. You can choose to have multiple replicas of the same network topology or create your own configuration. The scripts provided for load testing can be extended to more topologies. Have fun testing your HADR system designs with it!</p>
+6:["$","$L11",null,{"children":[["$","$L12",null,{"id":"post-json-ld-high-availability-ml-deployments","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"High Availability ML Deployments\",\"description\":\"> The average cost of IT downtime is $5,600 per minute.\\n\\n~ Gartner\\n\\nDowntimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the te\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/0e12ef32-83f3-4782-b1eb-27bca02f741e.jpg\"],\"datePublished\":\"2025-04-20T05:19:39Z\",\"dateModified\":\"2025-04-20T05:19:39Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/high-availability-ml-deployments\",\"keywords\":\"post\"}"}}],["$","div",null,{"className":"mb-6","children":[["$","$L13",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"High Availability ML Deployments"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"20 April, 2025"}]]}],"",["$","$L14",null,{"html":"$15","slug":"high-availability-ml-deployments","title":"High Availability ML Deployments"}],false]}]
+16:I[9993,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"High Availability ML Deployments | xprilion's blog"}],["$","meta","1",{"name":"description","content":"> The average cost of IT downtime is $5,600 per minute.\n\n~ Gartner\n\nDowntimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the te"}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"post"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/high-availability-ml-deployments/"}],["$","meta","10",{"property":"og:title","content":"High Availability ML Deployments | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"> The average cost of IT downtime is $5,600 per minute.\n\n~ Gartner\n\nDowntimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the te"}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/high-availability-ml-deployments/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/0e12ef32-83f3-4782-b1eb-27bca02f741e.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-20T05:19:39Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"post"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"High Availability ML Deployments"}],["$","meta","21",{"name":"twitter:description","content":"> The average cost of IT downtime is $5,600 per minute.\n\n~ Gartner\n\nDowntimes can be costly. During downtimes, a company may face loss of business, loss of customer trust, loss of reputation in the te"}],["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/0e12ef32-83f3-4782-b1eb-27bca02f741e.jpg"}],["$","link","23",{"rel":"icon","href":"/favicon.ico"}],["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L16","27",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

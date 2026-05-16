@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[2076,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"ThemeProvider"]
+3:I[1181,[],""]
+4:I[7305,[],""]
+5:I[6213,["177","static/chunks/app/layout-4c54ad1ae33254ab.js"],"GoogleAnalytics"]
+7:I[3424,[],"OutletBoundary"]
+9:I[7001,[],"AsyncMetadataOutlet"]
+b:I[3424,[],"ViewportBoundary"]
+d:I[3424,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[2223,[],""]
+:HL["/_next/static/media/22966f4f11fece13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3df4cf0b22f61940-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a481f011d1f4a14b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/feff4f1fc62fae3c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6ddffb53d61aaa0d.css","style"]
+:HL["/_next/static/css/2dba37557e579c7e.css","style"]
+:HL["/_next/static/css/f3b8208e8dab82f4.css","style"]
+0:{"P":null,"b":"D1ojAiT21PmIQlbzCsiMa","p":"","c":["","ollama-models-on-google-cloud-run",""],"i":false,"f":[[["",{"children":["(blog)",{"children":[["slug","ollama-models-on-google-cloud-run","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ddffb53d61aaa0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2dba37557e579c7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_6ab973","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],{"children":["(blog)",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ollama-models-on-google-cloud-run","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3b8208e8dab82f4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+8:null
+11:I[176,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],"default"]
+12:I[7037,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],""]
+13:I[4256,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],""]
+14:I[1833,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],"Image"]
+15:I[1781,["588","static/chunks/588-0bb63aadff1d8868.js","97","static/chunks/97-1d845183694e9fa9.js","833","static/chunks/833-474910b53d56e735.js","356","static/chunks/app/(blog)/%5Bslug%5D/page-cbe345eeb66273e9.js"],"default"]
+16:T1169,<p>This blog is a read-along for the repository <a href="https://github.com/xprilion/ollama-cloud-run/" rel="noopener noreferrer">xprilion/ollama-cloud-run</a> which shows how to deploy various models using the Ollama API on Cloud Run, to run inference using CPU only on a serverless platform - incurring bills only when you use them.</p>
+<p><strong>Ollama</strong> is a framework that makes it easy for developers to prototype apps with open models. It comes with a REST API, and this repository provides Dockerfiles and deployment scripts for each model.</p>
+<p><strong>Google Cloud Run</strong> is a fully managed compute platform that automatically scales your stateless containers. You can run code in any language, and all dependencies are included in a container image, which Google Cloud Run handles deployment and scaling for.</p>
+<p>Ispiration (and gemma2b code) from <a href="https://github.com/wietsevenema/samples/tree/main/run/ollama-gemma" rel="noopener noreferrer">wietsevenema/samples</a>.</p>
+<h2>Models</h2>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Version</th>
+<th>Folder Link</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>codegemma</td>
+<td>2b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/codegemma/2b" rel="noopener noreferrer">codegemma/2b</a></td>
+</tr>
+<tr>
+<td>codegemma</td>
+<td>7b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/codegemma/7b" rel="noopener noreferrer">codegemma/7b</a></td>
+</tr>
+<tr>
+<td>gemma</td>
+<td>2b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/gemma/2b" rel="noopener noreferrer">gemma/2b</a></td>
+</tr>
+<tr>
+<td>gemma</td>
+<td>7b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/gemma/7b" rel="noopener noreferrer">gemma/7b</a></td>
+</tr>
+<tr>
+<td>gemma2</td>
+<td>9b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/gemma2/9b" rel="noopener noreferrer">gemma2/9b</a></td>
+</tr>
+<tr>
+<td>llama3</td>
+<td>8b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/llama3/8b" rel="noopener noreferrer">llama3/8b</a></td>
+</tr>
+<tr>
+<td>llava</td>
+<td>7b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/llava/7b" rel="noopener noreferrer">llava/7b</a></td>
+</tr>
+<tr>
+<td>mistral</td>
+<td>7b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/mistral/7b" rel="noopener noreferrer">mistral/7b</a></td>
+</tr>
+<tr>
+<td>phi3</td>
+<td>3.8b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/phi3/3.8b" rel="noopener noreferrer">phi3/3.8b</a></td>
+</tr>
+<tr>
+<td>qwen2</td>
+<td>0.5b</td>
+<td><a href="https://github.com/xprilion/ollama-cloud-run/tree/main/qwen2/0.5b" rel="noopener noreferrer">qwen2/0.5b</a></td>
+</tr>
+</tbody></table>
+<h2>Usage</h2>
+<p>To build the container with a specific model included and deploy the Ollama API to a publicly accessible URL on Cloud Run, use the following command from the corresponding model's directory. For example, to deploy <code>gemma:2b</code>:</p>
+<pre><code class="language-sh">bash gemma/2b/deploy.sh
+</code></pre>
+<p>Respond to any prompts the command gives you. You might need to enable a few APIs and choose a region to deploy to.</p>
+<p>Building the container takes roughly 3-20 minutes, depending on model size.</p>
+<p>Once the command completes, the deploy command shows the public URL of the service.</p>
+<h2>Explore the API</h2>
+<p>Ask the deployed model a question:</p>
+<pre><code class="language-sh">curl &lt;PUBLIC_URL&gt;/api/generate -d \
+ '{ 
+    "model": "gemma:2b", 
+    "prompt": "Why is the sky blue?" 
+  }'
+</code></pre>
+<p>The first request to a new instance will take some extra setup time because the model is loaded into memory. Ollama keeps the model in memory for 5 minutes.</p>
+<p>For the full Ollama API, refer to <a href="https://github.com/ollama/ollama/blob/main/docs/api.md" rel="noopener noreferrer">the API docs</a>.</p>
+<h2>Clean Up</h2>
+<p>To clean up after following this short tutorial, you can do the following:</p>
+<ul>
+<li>In Artifact Registry, find the <code>cloud-run-source-deploy</code> repository and remove the container image used by the Cloud Run service you created.</li>
+<li>In Cloud Run, delete the service you created.</li>
+</ul>
+<h2>Links</h2>
+<ul>
+<li><a href="https://github.com/ollama/ollama" rel="noopener noreferrer">Ollama</a></li>
+</ul>
+<hr />
+<p>Use for research, exploration, and prototyping.</p>
+6:["$","$L11",null,{"children":[["$","$L12",null,{"id":"post-json-ld-ollama-models-on-google-cloud-run","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Ollama Models on Cloud Run\",\"description\":\"This blog is a read-along for the repository [xprilion/ollama-cloud-run](https://github.com/xprilion/ollama-cloud-run/) which shows how to deploy various models using the Ollama API on Cloud Run, to r\",\"image\":[\"https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/05/a514362c-99a9-4aad-9678-c012e0c85eed.png\"],\"datePublished\":\"2025-05-02T11:58:31Z\",\"dateModified\":\"2025-05-02T11:58:31Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/ollama-models-on-google-cloud-run\",\"keywords\":\"post\"}"}}],["$","div",null,{"className":"mb-6","children":[["$","$L13",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Ollama Models on Cloud Run"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"2 May, 2025"}]]}],["$","$L14",null,{"src":"https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/05/a514362c-99a9-4aad-9678-c012e0c85eed.png","alt":"Ollama Models on Cloud Run","priority":true,"className":"w-full h-auto mb-6 rounded-lg object-cover object-center shadow-md shadow-gray-400/30 dark:shadow-gray-700/30","width":1000,"height":1000}],["$","$L15",null,{"html":"$16","slug":"ollama-models-on-google-cloud-run","title":"Ollama Models on Cloud Run"}],false]}]
+17:I[9993,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Ollama Models on Cloud Run | xprilion's blog"}],["$","meta","1",{"name":"description","content":"This blog is a read-along for the repository [xprilion/ollama-cloud-run](https://github.com/xprilion/ollama-cloud-run/) which shows how to deploy various models using the Ollama API on Cloud Run, to r"}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"post"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/ollama-models-on-google-cloud-run/"}],["$","meta","10",{"property":"og:title","content":"Ollama Models on Cloud Run | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"This blog is a read-along for the repository [xprilion/ollama-cloud-run](https://github.com/xprilion/ollama-cloud-run/) which shows how to deploy various models using the Ollama API on Cloud Run, to r"}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/ollama-models-on-google-cloud-run/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/05/a514362c-99a9-4aad-9678-c012e0c85eed.png"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-05-02T11:58:31Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"post"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Ollama Models on Cloud Run"}],["$","meta","21",{"name":"twitter:description","content":"This blog is a read-along for the repository [xprilion/ollama-cloud-run](https://github.com/xprilion/ollama-cloud-run/) which shows how to deploy various models using the Ollama API on Cloud Run, to r"}],["$","meta","22",{"name":"twitter:image","content":"https://digitalpress.fra1.cdn.digitaloceanspaces.com/4ml9m8u/2025/05/a514362c-99a9-4aad-9678-c012e0c85eed.png"}],["$","link","23",{"rel":"icon","href":"/favicon.ico"}],["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L17","27",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
