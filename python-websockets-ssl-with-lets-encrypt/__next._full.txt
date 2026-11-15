@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2q77b4-inw970.js"
+3:I[75050,["$2"],"ThemeProvider"]
+4:I[46236,["$2"],"default"]
+5:I[47559,["$2"],"default"]
+6:I[95346,["$2"],"GoogleAnalytics"]
+c:I[10821,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[10821,["$2"],"$f"]
+12:"MetadataBoundary"
+13:I[10821,["$2"],"$12"]
+15:I[63779,["$2"],"default",1]
+:HL["/_next/static/chunks/30g_zt6m-9oyn.css","style"]
+:HL["/_next/static/chunks/3-_moebfye-t7.css","style"]
+:HL["/_next/static/media/00244d95e7164d5f-s.p.3o3hk-3194lb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6a2a1d7dc2e28777-s.p.2x1x5j75p722w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/737d7b71e20e7a91-s.p.1ksfv8-j-hdk3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c8a9c250247b69d0-s.p.2ddh-_y6fwoac.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0h1cr6h7k2r3s.css","style"]
+8:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0h1cr6h7k2r3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1rhrhtlfh-dlb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2epk0enhi_zse.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2l_3s2brh07b5.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"python-websockets-ssl-with-lets-encrypt","s":["codelabs","meet","newsletter","posts","publications","rss.xml","say-my-name","talks","tools"]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Qa"}]]
+7:[["children",{"s":"(blog)","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","python-websockets-ssl-with-lets-encrypt",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/30g_zt6m-9oyn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3-_moebfye-t7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2q77b4-inw970.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"snwU3G_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L3",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/30g_zt6m-9oyn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3-_moebfye-t7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"OU9-DihCaXHxKHAbqJ3zS"}
+8:C
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]
+16:"/_next/static/chunks/1rhrhtlfh-dlb.js"
+17:"/_next/static/chunks/2epk0enhi_zse.js"
+18:"/_next/static/chunks/2l_3s2brh07b5.js"
+19:I[33837,["$2","$16","$17","$18"],"default"]
+1a:I[40740,["$2","$16","$17","$18"],""]
+1b:I[36801,["$2","$16","$17","$18"],""]
+1c:I[29871,["$2","$16","$17","$18"],"default"]
+1d:T1c28,<p>This tutorial is an explanation of my gist <a href="https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6" rel="noopener noreferrer">Python Websockets SSL with Let's Encrypt</a> .</p>
+<p>With the launch of HTML5 in 2008, a technology that immediately took off in popularity was WebSockets. According to W3C, the basic definition of a Websocket is - an interface that enables web applications to maintain bidirectional communications with server-side processes.</p>
+<p>In this short tutorial, I'll be showing you how you can host a WebSocket server with SSL enabled on it. This allows your socket server to run on an HTTPS address.</p>
+<h2>Setup</h2>
+<p>We'll be working with <code>asyncio</code> library and for WebSocket server implementation will be using the <code>websockets</code> library.</p>
+<p>The <code>asyncio</code> library comes pre-packaged with Python distributions since Python 3.4. To install <code>websockets</code> library, you can use the following command:</p>
+<pre><code class="language-bash">pip install websockets
+</code></pre>
+<p>Next, we'll be looking to how to generate the SSL certificate files.</p>
+<h2>Generate certificate and keyfile using Let's Encrypt</h2>
+<p>Before you can enable SSL on your WebSocket being run by a Python script, you'll have to generate certificate files for your domain.</p>
+<p>The basic gist of this step is to fetch Let's Encrypt signed certficiates for your domain and store them on your server where the Python WebSocket script is running.</p>
+<p>Here's a great quick tutorial on <a href="https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-20-04" rel="noopener noreferrer">How To Use Certbot Standalone Mode to Retrieve Let's Encrypt SSL Certificates on Ubuntu 20.04</a>.</p>
+<h2>Make certificate files accessible</h2>
+<p>After generating the files correctly, you need to make them accessible to the current user who runs the Python WebSocket script.</p>
+<p>In the previous step, if <code>certbot</code> stored your certificate files at <code>/etc/letsencrypt/live/your_domain</code> location, you should be able to see 4 files when you perform an <code>ls</code> on the folder -</p>
+<pre><code class="language-bash">~$ ls /etc/letsencrypt/live/your_domain
+cert.pem  chain.pem  fullchain.pem  privkey.pem  README
+</code></pre>
+<p>To change the owner of the certificate files, use the following command:</p>
+<pre><code class="language-bash">~$ sudo chown -R $(id -u):$(id -g) /etc/letsencrypt/live/your_domain
+</code></pre>
+<p>Next, ensure that the right permissions are applied to the folder:</p>
+<pre><code class="language-bash">~$ sudo chmod -R 400 /etc/letsencrypt/live/your_domain
+</code></pre>
+<p>We're now good to read these files from the Python WebSocket script.</p>
+<h2>Create server script</h2>
+<p>While your WebSocket server script will differ from the most barebones implementation, here's one for you -</p>
+<p>Create a file named <code>socket_</code><a href="http://server.py" rel="noopener noreferrer"><code>server.py</code></a>. Then, make all the necessary imports.</p>
+<pre><code class="language-python">#!/usr/bin/env python
+
+# WS server example that synchronizes state across clients
+
+import asyncio
+import json
+import logging
+import websockets
+import ssl
+
+logging.basicConfig()
+</code></pre>
+<p>Next, let us configure the SSL for this script, as shown below -</p>
+<pre><code class="language-python">ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+
+# Generate with Lets Encrypt, chown to current user and 400 permissions
+ssl_cert = "/etc/letsencrypt/live/your_domain/fullchain.pem"
+ssl_key = "/etc/letsencrypt/live/your_domain/privkey.pem"
+
+ssl_context.load_cert_chain(ssl_cert, keyfile=ssl_key)
+</code></pre>
+<p>The above code configures the script to run a TLS server with the certificates available in the folder generated by <code>certbot</code>.</p>
+<p>Next, we define the functions that shall be used to notify clients of the socket server and to get information from them.</p>
+<pre><code class="language-python">STATE = {"value": 0}
+
+USERS = set()
+
+def state_event():
+    return json.dumps({"type": "state", **STATE})
+
+def users_event():
+    return json.dumps({"type": "users", "count": len(USERS)})
+
+async def notify_state():
+    if USERS:  # asyncio.wait doesn't accept an empty list
+        message = state_event()
+        await asyncio.wait([user.send(message) for user in USERS])
+
+async def notify_users():
+    if USERS:  # asyncio.wait doesn't accept an empty list
+        message = users_event()
+        await asyncio.wait([user.send(message) for user in USERS])
+</code></pre>
+<p>After that, we need to add functions that register and unregister clients from the WebSocket.</p>
+<pre><code class="language-python">async def register(websocket):
+    USERS.add(websocket)
+    await notify_users()
+
+async def unregister(websocket):
+    USERS.remove(websocket)
+    await notify_users()
+</code></pre>
+<p>This done, let us implement a function that gets state update requests from clients and performs it.</p>
+<pre><code class="language-python">async def counter(websocket, path):
+    # register(websocket) sends user_event() to websocket
+    await register(websocket)
+    try:
+        await websocket.send(state_event())
+        async for message in websocket:
+            data = json.loads(message)
+            if data["action"] == "minus":
+                STATE["value"] -= 1
+                await notify_state()
+            elif data["action"] == "plus":
+                STATE["value"] += 1
+                await notify_state()
+            else:
+                logging.error("unsupported event: {}", data)
+    finally:
+        await unregister(websocket)
+</code></pre>
+<p>Finally, we run the server.</p>
+<pre><code class="language-python">start_server = websockets.serve(counter, "0.0.0.0", 6789, ssl=ssl_context)
+
+asyncio.get_event_loop().run_until_complete(start_server)
+asyncio.get_event_loop().run_forever()
+</code></pre>
+<p>How you expose the server to the internet, I shall leave that on your use case. However, you can explore this tutorial on <a href="https://websockets.readthedocs.io/en/stable/howto/nginx.html" rel="noopener noreferrer">Websockets - Deploy behind nginx</a>.</p>
+<h2>Implement a client page</h2>
+<p>To test the above WebSocket script, you can spin up your own client script or feel free to use the <a href="https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6#file-socket_client-html" rel="noopener noreferrer">socket_client.html</a> file I've provided.</p>
+<p>Make sure to update the following line in the client file to point to your live server -</p>
+<pre><code class="language-javascript">websocket = new WebSocket("wss://localhost:6789/");
+</code></pre>
+<p>Note that we're using the <code>wss://</code> protocol here instead of <code>ws://</code> protocol which is popularly found on other tutorials on the internet.</p>
+<h2>Conclusion</h2>
+<p>This was my attempt at explaining the gist I put out more than an year back. Hope it helps you go through the process easier than how I had first written it.</p>
+<p>Make sure to leave me feedback on how this blog went!</p>
+b:["$","$L19",null,{"children":[["$","$L1a",null,{"id":"post-json-ld-python-websockets-ssl-with-lets-encrypt","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python Websockets SSL with Let's Encrypt\",\"description\":\"This tutorial is an explanation of my gist [Python Websockets SSL with Let's Encrypt](https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6) .\\n\\nWith the launch of HTML5 in 2008, a technolo\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/62bd0e1e-2e22-4bea-921f-5c3ee698331b.jpg\"],\"datePublished\":\"2025-04-20T05:27:09Z\",\"dateModified\":\"2025-04-20T05:27:09Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/python-websockets-ssl-with-lets-encrypt\",\"keywords\":\"post\"}"}}],["$","div",null,{"className":"mb-6","children":[["$","$L1b",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"Python Websockets SSL with Let's Encrypt"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"20 April, 2025"}]]}],"",["$","$L1c",null,{"html":"$1d","slug":"python-websockets-ssl-with-lets-encrypt","title":"Python Websockets SSL with Let's Encrypt"}],false]}]
+1e:I[57169,["$2"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"Python Websockets SSL with Let's Encrypt | xprilion's blog"}],["$","meta","1",{"name":"description","content":"This tutorial is an explanation of my gist [Python Websockets SSL with Let's Encrypt](https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6) .\n\nWith the launch of HTML5 in 2008, a technolo"}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"post"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/python-websockets-ssl-with-lets-encrypt/"}],["$","meta","10",{"property":"og:title","content":"Python Websockets SSL with Let's Encrypt | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"This tutorial is an explanation of my gist [Python Websockets SSL with Let's Encrypt](https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6) .\n\nWith the launch of HTML5 in 2008, a technolo"}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/python-websockets-ssl-with-lets-encrypt/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/62bd0e1e-2e22-4bea-921f-5c3ee698331b.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-20T05:27:09Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"post"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Python Websockets SSL with Let's Encrypt"}],["$","meta","21",{"name":"twitter:description","content":"This tutorial is an explanation of my gist [Python Websockets SSL with Let's Encrypt](https://gist.github.com/xprilion/ceab48ec77a70be1d403e396170991e6) .\n\nWith the launch of HTML5 in 2008, a technolo"}],["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/62bd0e1e-2e22-4bea-921f-5c3ee698331b.jpg"}],["$","link","23",{"rel":"icon","href":"/favicon.ico"}],["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}],["$","$L1e","27",{}]]

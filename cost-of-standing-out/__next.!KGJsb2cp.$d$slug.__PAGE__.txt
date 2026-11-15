@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2q77b4-inw970.js"
+3:I[75050,["$2"],"ThemeProvider"]
+4:I[46236,["$2"],"default"]
+5:I[47559,["$2"],"default"]
+6:I[95346,["$2"],"GoogleAnalytics"]
+f:"/_next/static/chunks/1rhrhtlfh-dlb.js"
+10:"/_next/static/chunks/2epk0enhi_zse.js"
+11:"/_next/static/chunks/2l_3s2brh07b5.js"
+12:I[33837,["$2","$f","$10","$11"],"default"]
+13:I[40740,["$2","$f","$10","$11"],""]
+14:I[36801,["$2","$f","$10","$11"],""]
+1c:"ViewportBoundary"
+1d:I[10821,["$2"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[10821,["$2"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/_next/static/chunks/30g_zt6m-9oyn.css","style"]
+:HL["/_next/static/chunks/3-_moebfye-t7.css","style"]
+8:X
+b:X
+b:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"children":[["$","$L13",null,{"id":"post-json-ld-cost-of-standing-out","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"The Cost of Standing Out\",\"description\":\"9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.\\n\\nThe website gained almost 60\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/b6fd882e-d77c-420c-86a3-7990d6fe12bc.jpg\"],\"datePublished\":\"2025-04-20T05:14:17Z\",\"dateModified\":\"2025-04-20T05:14:17Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/cost-of-standing-out\",\"keywords\":\"post\"}"}}],["$","div",null,{"className":"mb-6","children":[["$","$L14",null,{"href":"/posts","className":"text-blue-600 hover:underline mb-4 block","children":"← Back to all posts"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-bold mb-2","children":"The Cost of Standing Out"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-200 text-sm ","children":"20 April, 2025"}]]}],"","$L15",false]}],["$L16","$L17","$L18","$L19"],"$L1a"]}],"p":"$@1b","v":null,"s":"$8"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"cost-of-standing-out","s":["codelabs","meet","newsletter","posts","publications","rss.xml","say-my-name","talks","tools"]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@d","v":"$b","s":"$8"},"c":"$Qe"}]]
+9:[["children",{"s":"(blog)","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:0:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/30g_zt6m-9oyn.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3-_moebfye-t7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2q77b4-inw970.js","async":true}]],["$","html",null,{"lang":"en","className":"snwU3G_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L3",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L6",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Cost of Standing Out | xprilion's blog"}],["$","meta","1",{"name":"description","content":"9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.\n\nThe website gained almost 60"}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"post"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/cost-of-standing-out/"}],["$","meta","10",{"property":"og:title","content":"The Cost of Standing Out | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.\n\nThe website gained almost 60"}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/cost-of-standing-out/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/b6fd882e-d77c-420c-86a3-7990d6fe12bc.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-20T05:14:17Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"post"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"The Cost of Standing Out"}],["$","meta","21",{"name":"twitter:description","content":"9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.\n\nThe website gained almost 60"}],"$L21","$L22","$L23","$L24","$L25","$L26"]}]}],null]}],"$L27"]}],"p":"$@28","v":null,"s":"$8"}},"a":"$@29","u":"$@2a","b":"OU9-DihCaXHxKHAbqJ3zS"}
+2b:I[29871,["$2","$f","$10","$11"],"default"]
+2d:I[10821,["$2"],"OutletBoundary"]
+2f:I[57169,["$2"],"IconMark"]
+:HL["/_next/static/chunks/0h1cr6h7k2r3s.css","style"]
+2c:T8e1,<p>9 years back, on this date, I launched a social network built from scratch. Almost a month later, I added on the same platform a search engine, again, built from scratch.</p>
+<p>The website gained almost 60,000 users and was soon among the top 1000 websites in India by Alexa traffic rankings (in 2013). Little did I know the value of what I had created back then. Around 1.5 years later, I shut it down to focus on my studies (11th grade).</p>
+<p>While I do regret that I did not have anyone to give me better advice back then, this article touches on a different issue.</p>
+<p>I recall, clearly, that several posts on the social network by some of my schoolmates would troll me, my father (who was a teacher in the school I studied in) and my sister. Many of them on the search engine would search our names accompanied by slangs and abuses.</p>
+<p>I failed to understand why it happened, and I took the pain of seeing this silently, without sharing it with anyone. Yes, we were all too young then to understand cyber-bullying. But were we too young to not feel the pain it caused? And how do you explain what he did wrong to a kid who put in all his heart and soul in creating a platform, which not many at his age could do, which was used to abuse him?</p>
+<p>9 years later, I realize that what those schoolmates did was not because of their hatred towards me, but because they could not digest the fact that someone from among them was trying to stand out of the norm. God bless the rare few of them who found success in their passions, most of those schoolmates today are toiling the 9-5 at companies that will replace them at the first opportunity.</p>
+<p>I do not name anyone here, my intention is not to hold anyone accountable. The message that I do want to pass is - <strong>the next time a kid comes up to you with whatever they've created, could be a software, could be a painting or could simply be a cute shape drawn on sand, have the heart to let them have their moment.</strong></p>
+<p>Reflecting, I believe that the experience I gained from building the platform back then still holds for me insights I often draw upon. Even today, that kid 9 years back motivates me to not give a single fuck to anyone who tries to hold me back from standing out.</p>
+15:["$","$L2b",null,{"html":"$2c","slug":"cost-of-standing-out","title":"The Cost of Standing Out"}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0h1cr6h7k2r3s.css","precedence":"next"}]
+17:["$","script","script-0",{"src":"/_next/static/chunks/1rhrhtlfh-dlb.js","async":true}]
+18:["$","script","script-1",{"src":"/_next/static/chunks/2epk0enhi_zse.js","async":true}]
+19:["$","script","script-2",{"src":"/_next/static/chunks/2l_3s2brh07b5.js","async":true}]
+1a:["$","$L2d",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+21:["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/b6fd882e-d77c-420c-86a3-7990d6fe12bc.jpg"}]
+22:["$","link","23",{"rel":"icon","href":"/favicon.ico"}]
+23:["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}]
+24:["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}]
+25:["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}]
+26:["$","$L2f","27",{}]
+27:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+2e:null
+2a:true
+8:C
+29:0
+d:"$undefined"
+a:"$undefined"
+7:"$undefined"
+28:"$undefined"
+1b:"$undefined"

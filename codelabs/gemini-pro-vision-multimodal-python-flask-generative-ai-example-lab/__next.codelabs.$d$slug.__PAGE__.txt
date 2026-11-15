@@ -1,0 +1,275 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2q77b4-inw970.js"
+3:I[75050,["$2"],"ThemeProvider"]
+4:I[46236,["$2"],"default"]
+5:I[47559,["$2"],"default"]
+6:I[95346,["$2"],"GoogleAnalytics"]
+f:"/_next/static/chunks/0u7donahhcuy4.js"
+10:"/_next/static/chunks/05nug2o8utmhi.js"
+11:"/_next/static/chunks/2l_3s2brh07b5.js"
+12:I[40740,["$2","$f","$10","$11"],""]
+13:I[72776,["$2","$f","$10","$11"],"default"]
+14:I[58381,["$2","$f","$10","$11"],"default"]
+1f:"ViewportBoundary"
+20:I[10821,["$2"],"$1f"]
+21:"MetadataBoundary"
+22:I[10821,["$2"],"$21"]
+23:"$Sreact.suspense"
+:HL["/_next/static/chunks/30g_zt6m-9oyn.css","style"]
+:HL["/_next/static/chunks/3-_moebfye-t7.css","style"]
+8:X
+b:X
+b:C
+15:T220a,<h2>Overview</h2>
+<p>Duration: 1</p>
+<p>Hey there!</p>
+<p>In this codelab, you'll explore building a Python Flask application that leverages Gemini Pro Vision Multimodal's capabilities to perform tasks like image classification, object detection, and text understanding. By the end, you'll have a practical understanding of integrating Gemini Pro Vision into your backend applications.</p>
+<h2>Requirements</h2>
+<p>Duration: 2</p>
+<p>In order to follow this codelab, you'll need the following:</p>
+<ul>
+<li>A development environment with Python 3.7 or above installed.</li>
+<li>Access to terminal/shell for executing commands.</li>
+<li>Basic understanding of Python and Flask</li>
+<li>Familiarity with REST APIs is helpful but not mandatory</li>
+<li>Access to a Gemini Pro Vision model</li>
+</ul>
+<h2>Setting Up Your Dev Environment</h2>
+<p>Duration: 10</p>
+<ul>
+<li>Log in to your <a href="https://makersuite.google.com/" rel="noopener noreferrer">Google AI Studio</a> account.</li>
+<li>Create a new <code>API KEY</code>.</li>
+<li>Note the API Key in a secure location.</li>
+</ul>
+<h2>Setting Up Your Local Environment</h2>
+<p>Duration: 5</p>
+<p>Install other required libraries:</p>
+<pre><code class="language-bash">pip install marko google-generativeai
+</code></pre>
+<p>Install Flask:</p>
+<pre><code class="language-bash">pip install Flask
+</code></pre>
+<h2>Write the driving code</h2>
+<p>Duration: 10</p>
+<ul>
+<li><strong>Importing Libraries</strong>: We start by importing necessary Python libraries. Flask for our web framework, Vertex AI for AI model interaction, and others for various functionalities.</li>
+</ul>
+<pre><code class="language-python">import os
+from flask import Flask, request, Response, g, render_template, jsonify
+import marko
+import google.generativeai as genai
+</code></pre>
+<ul>
+<li><strong>Initializing the App and Gemini API</strong>: We initialize our Flask app and load the Gemini API client.</li>
+</ul>
+<pre><code class="language-python">genai.configure(api_key=os.getenv("API_KEY"))
+
+app = Flask(__name__)
+app.debug = True
+
+config = {
+  'temperature': 0,
+  'top_k': 20,
+  'top_p': 0.9,
+  'max_output_tokens': 500
+}
+</code></pre>
+<p>We also need to confiugre the security settings for the model output:</p>
+<pre><code class="language-python">safety_settings = [
+  {
+    "category": "HARM_CATEGORY_HARASSMENT",
+    "threshold": "BLOCK_MEDIUM_AND_ABOVE"
+  },
+  {
+    "category": "HARM_CATEGORY_HATE_SPEECH",
+    "threshold": "BLOCK_MEDIUM_AND_ABOVE"
+  },
+  {
+    "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+    "threshold": "BLOCK_MEDIUM_AND_ABOVE"
+  },
+  {
+    "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+    "threshold": "BLOCK_MEDIUM_AND_ABOVE"
+  }
+]
+
+model = genai.GenerativeModel(model_name="gemini-pro-vision",
+                              generation_config=config,
+                              safety_settings=safety_settings)
+</code></pre>
+<ul>
+<li><strong>Defining Routes</strong>: We define two routes - one for the home page and another for handling chat messages.</li>
+</ul>
+<pre><code class="language-python">@app.route('/', methods=['GET'])
+def hello_world():
+    return render_template("chat.html")
+
+@app.route('/chat', methods=['POST'])
+def chat():
+    if 'user_image' not in request.files:
+        return jsonify({"error": "No file part"})
+
+    file = request.files['user_image']
+
+    if file.filename == '':
+        return jsonify({"error": "No selected file"})
+
+    if file:
+        image_data = file.read()
+        image_parts = [
+            {
+                "mime_type": file.content_type,
+                "data": image_data
+            },
+        ]
+
+        prompt_parts = [
+            "You are Sheldon Cooper. User will upload an image. Based on the image, you have to come up with a Sheldon Cooper style fun fact. Also give a funny, sarcastic note about the image. \n\nUser's image:\n\n",
+            image_parts[0],
+            "\n\nFun fact:\n",
+        ]    
+
+        response = model.generate_content(prompt_parts)
+
+        return jsonify({
+            "response": marko.convert(response.text)
+        })
+</code></pre>
+<p>Finally, we'll add the entrypoint for the file which runs the Flask development server.</p>
+<pre><code class="language-python">if __name__ == '__main__':
+    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
+</code></pre>
+<p>With the backend done, we're free to implement the UI for the API in any manner we want to.</p>
+<h2>UI for the application</h2>
+<p>Duration: 10</p>
+<p>Now, we can develop a quick UI to work with the API of the chatbot. Here's some sample HTML/JS to create one such UI.</p>
+<pre><code class="language-html">&lt;div&gt;
+    &lt;div id="chat-box" class="bg-light p-3 mb-3 rounded"&gt;
+        &lt;blockquote style="border-left: 4px solid #43a047;"&gt;Hi, I am Sheldon Cooper. Upload an image and I will tell you a fun fact.&lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;progress id="progress-bar" style="display: none"&gt;&lt;/progress&gt;
+    
+    &lt;!-- Updated form to include file upload --&gt;
+    &lt;form id="chat-form"&gt;
+        &lt;div class="input-group mb-3"&gt;
+            &lt;input id="image-input" type="file" class="form-control"&gt;
+        &lt;/div&gt;
+        &lt;div class="input-group"&gt;
+            &lt;button type="submit" id="send-button" class="btn btn-primary"&gt;Upload&lt;/button&gt;
+        &lt;/div&gt;
+    &lt;/form&gt;
+&lt;/div&gt;
+</code></pre>
+<p>Then, let's add some JavaScript to the page for interactivity:</p>
+<pre><code class="language-html">&lt;script&gt;
+function appendImageToChat(file) {
+    var reader = new FileReader();
+
+    reader.onloadend = function () {
+        var img = $('&lt;img&gt;').attr('src', reader.result).css({'max-width': '100%', 'height': 'auto'});
+        $('#chat-box').append($('&lt;blockquote&gt;').css({'border-left': '4px solid dodgerblue'}).append(img));
+    }
+
+    if (file) {
+        reader.readAsDataURL(file);
+    }
+}
+
+$(function() {
+    $('#chat-form').submit(function(e) {
+        e.preventDefault(); // Prevent the default form submission
+
+        var formData = new FormData(this);
+        var fileInput = $('#image-input')[0].files[0];
+
+        formData.append('user_image', fileInput);
+
+        if (fileInput) {
+            $('#chat-box').append('&lt;blockquote style="border-left: 4px solid #1288ff;"&gt;User: &lt;/blockquote&gt;');
+            appendImageToChat(fileInput);
+            $('#image-input').val('');
+            $('#progress-bar').show();
+            
+            // Use AJAX to send the formData to the server
+            $.ajax({
+                url: '/chat',
+                type: 'POST',
+                data: formData,
+                processData: false, // Prevent jQuery from converting the data into a query string
+                contentType: false, // Set content type to false as jQuery will tell the server its a query string request
+                success: function(data) {
+                    $('#chat-box').append('&lt;blockquote style="border-left: 4px solid #43a047;"&gt;Sheldon: ' + data.response + '&lt;/blockquote&gt;');
+                    $('#progress-bar').hide();
+                },
+                error: function() {
+                    $('#chat-box').append('&lt;blockquote style="border-left: 4px solid red;"&gt;Sheldon: Sorry, I am not able to respond at the moment.&lt;/blockquote&gt;');
+                    $('#progress-bar').hide();
+                }
+            });
+        }
+    });
+});
+&lt;/script&gt;
+</code></pre>
+<h2>Running the App</h2>
+<p>Duration: 2</p>
+<ul>
+<li>Open your web browser and go to <a href="http://localhost:8080" rel="noopener noreferrer"><code>http://localhost:8080</code></a>. You should see your chatbot interface.</li>
+</ul>
+<p>Run your application:</p>
+<pre><code class="language-bash">python main.py
+</code></pre>
+<p>Set the <code>API_KEY</code> as environment variable in the terminal:</p>
+<pre><code class="language-bash">export API_KEY=your_api_key
+</code></pre>
+<h2>Interacting with Your Chatbot</h2>
+<p>Duration: 2</p>
+<ul>
+<li>The bot will greet you asking you to provide an image.</li>
+<li>Upload a JPG/PNG below 1MB to the interface and click Upload.</li>
+<li>The chatbot will respond with a fun fact about the image!</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Duration: 1</p>
+<p>Congratulations! You've just built and deployed a software powered by Google's Gemini AI! This bot acts like Sheldon Cooper and provides facts about user's uploaded images!</p>
+<h2>What's Next?</h2>
+<p>Duration: 1</p>
+<ul>
+<li>Experiment with different model parameters to see how they affect the output.</li>
+<li>Try integrating this chatbot into a larger web application.</li>
+<li>Explore other capabilities of Gemini AI.</li>
+</ul>
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen px-2 md:px-4 bg-background text-foreground","children":[["$","$L12",null,{"id":"codelab-json-ld-gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"LearningResource\",\"headline\":\"Python Flask app with Gemini Pro Vision Multimodal\",\"name\":\"Python Flask app with Gemini Pro Vision Multimodal\",\"description\":\"A starter example of using Gemini AI Pro Vision Multimodal model via Google AI Studio (formerly MakerSuite).\",\"image\":[\"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/2c0eb694-437f-4ebb-bae4-eb879b2de9bf.jpg\"],\"datePublished\":\"2025-05-02T08:51:25Z\",\"dateModified\":\"2025-05-02T08:51:25Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Anubhav Singh\",\"url\":\"https://xprilion.com\"},\"mainEntityOfPage\":\"https://xprilion.com/codelabs/gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab\",\"keywords\":\"codelab\",\"learningResourceType\":\"Codelab\"}"}}],["$","$L13",null,{"title":"Python Flask app with Gemini Pro Vision Multimodal","closeBtn":true}],["$","main",null,{"className":"flex-grow w-full px-1","children":["$","div",null,{"className":"w-full py-2","children":["$","$L14",null,{"htmlContent":"$15","upperContent":"$L16","bottomContent":"$L17"}]}]}],"$L18",false]}],["$L19","$L1a","$L1b","$L1c"],"$L1d"]}],"p":"$@1e","v":null,"s":"$8"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@d","v":null,"s":"$8"},"c":"$Qe"}]]
+9:[["children",{"s":"codelabs","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/30g_zt6m-9oyn.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3-_moebfye-t7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2q77b4-inw970.js","async":true}]],["$","html",null,{"lang":"en","className":"snwU3G_variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":[["$","$L3",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L6",null,{"gaId":"G-NKJL65V2YL"}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#7b46f6"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Python Flask app with Gemini Pro Vision Multimodal | xprilion's blog"}],["$","meta","1",{"name":"description","content":"A starter example of using Gemini AI Pro Vision Multimodal model via Google AI Studio (formerly MakerSuite)."}],["$","link","2",{"rel":"author","href":"https://xprilion.com"}],["$","meta","3",{"name":"author","content":"Anubhav Singh"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"codelab"}],["$","meta","6",{"name":"creator","content":"Anubhav Singh"}],["$","meta","7",{"name":"publisher","content":"Anubhav Singh"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://xprilion.com/codelabs/gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab/"}],["$","meta","10",{"property":"og:title","content":"Python Flask app with Gemini Pro Vision Multimodal | xprilion's blog"}],["$","meta","11",{"property":"og:description","content":"A starter example of using Gemini AI Pro Vision Multimodal model via Google AI Studio (formerly MakerSuite)."}],["$","meta","12",{"property":"og:url","content":"https://xprilion.com/codelabs/gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab/"}],["$","meta","13",{"property":"og:site_name","content":"xprilion's blog"}],["$","meta","14",{"property":"og:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/2c0eb694-437f-4ebb-bae4-eb879b2de9bf.jpg"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-05-02T08:51:25Z"}],["$","meta","17",{"property":"article:author","content":"Anubhav Singh"}],["$","meta","18",{"property":"article:tag","content":"codelab"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Python Flask app with Gemini Pro Vision Multimodal"}],["$","meta","21",{"name":"twitter:description","content":"A starter example of using Gemini AI Pro Vision Multimodal model via Google AI Studio (formerly MakerSuite)."}],"$L24","$L25","$L26","$L27","$L28","$L29"]}]}],null]}],"$L2a"]}],"p":"$@2b","v":null,"s":"$8"}},"a":"$@2c","u":"$@2d","b":"OU9-DihCaXHxKHAbqJ3zS"}
+2e:I[36801,["$2","$f","$10","$11"],""]
+2f:I[10821,["$2"],"OutletBoundary"]
+31:I[57169,["$2"],"IconMark"]
+:HL["/_next/static/chunks/0h1cr6h7k2r3s.css","style"]
+16:"$undefined"
+17:"$undefined"
+18:["$","div",null,{"className":"w-full mx-auto py-6 max-w-6xl px-4 border-t border-border","children":[["$","div",null,{"className":"flex flex-col sm:flex-row justify-between gap-2","children":[["$","div",null,{"className":"text-center sm:text-left text-foreground","children":["© Anubhav Singh ",2026]}],["$","div",null,{"className":"text-center sm:text-right","children":[["$","$L2e",null,{"href":"/sitemap.xml","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Sitemap"}],["$","span",null,{"className":"mx-1 text-foreground","children":"·"}],["$","$L2e",null,{"href":"/newsletter","className":"text-foreground hover:text-blue-600 dark:hover:text-primary","children":"Newsletter"}]]}]]}],["$","p",null,{"className":"mt-4 text-center text-sm text-muted-foreground","children":["Powered by"," ",["$","$L2e",null,{"href":"https://whiz.pub","className":"text-primary hover:underline","target":"_blank","rel":"noopener noreferrer","children":"Whiz.pub"}],". Create your own minimal blog today."]}]]}]
+19:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0h1cr6h7k2r3s.css","precedence":"next"}]
+1a:["$","script","script-0",{"src":"/_next/static/chunks/0u7donahhcuy4.js","async":true}]
+1b:["$","script","script-1",{"src":"/_next/static/chunks/05nug2o8utmhi.js","async":true}]
+1c:["$","script","script-2",{"src":"/_next/static/chunks/2l_3s2brh07b5.js","async":true}]
+1d:["$","$L2f",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+24:["$","meta","22",{"name":"twitter:image","content":"https://cdn.whiz.pub/og/cf0b530d-10be-488d-ae36-200a280dc3e7/posts/2c0eb694-437f-4ebb-bae4-eb879b2de9bf.jpg"}]
+25:["$","link","23",{"rel":"icon","href":"/favicon.ico"}]
+26:["$","link","24",{"rel":"icon","href":"/icon0.svg","type":"image/svg+xml"}]
+27:["$","link","25",{"rel":"icon","href":"/apple-icon.png","sizes":"96x96","type":"image/png"}]
+28:["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180"}]
+29:["$","$L31","27",{}]
+2a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+30:null
+2d:true
+8:C
+2c:0
+d:"$undefined"
+a:"$undefined"
+7:"$undefined"
+2b:"$undefined"
+1e:"$undefined"
