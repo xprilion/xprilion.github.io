@@ -1,6 +1,7 @@
-:HL["/_next/static/chunks/30g_zt6m-9oyn.css","style"]
-:HL["/_next/static/chunks/3-_moebfye-t7.css","style"]
+:HL["/_next/static/chunks/1gj3r3yyz925d.css","style"]
+:HL["/_next/static/chunks/1dlzfz_r_7_hs.css","style"]
 :HL["/_next/static/media/00244d95e7164d5f-s.p.3o3hk-3194lb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/6a2a1d7dc2e28777-s.p.2x1x5j75p722w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/737d7b71e20e7a91-s.p.1ksfv8-j-hdk3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c8a9c250247b69d0-s.p.2ddh-_y6fwoac.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"high-availability-ml-deployments","s":["codelabs","meet","newsletter","posts","publications","rss.xml","say-my-name","talks","tools"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"(blog)","h":131168,"c":"$Q2"}]]
-0:{"b":"OU9-DihCaXHxKHAbqJ3zS","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"Kz25QnvD6ujcozwQ-B6_f","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
