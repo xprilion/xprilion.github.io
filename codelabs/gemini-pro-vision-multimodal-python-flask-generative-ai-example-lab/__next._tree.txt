@@ -9,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"gemini-pro-vision-multimodal-python-flask-generative-ai-example-lab","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"codelabs","h":131168,"c":"$Q2"}]]
-0:{"b":"s9rZyaAxQqkcPgwAN5Ig1","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"z8JMj4V6sSy_2uPbchjq2","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

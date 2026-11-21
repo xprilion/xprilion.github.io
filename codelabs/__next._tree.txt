@@ -7,4 +7,4 @@
 :HL["/_next/static/media/c8a9c250247b69d0-s.p.2ddh-_y6fwoac.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"codelabs","h":96,"c":"$Q2"}]]
-0:{"b":"s9rZyaAxQqkcPgwAN5Ig1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"z8JMj4V6sSy_2uPbchjq2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
